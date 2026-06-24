@@ -1,0 +1,65 @@
+name: Daily AI Investment Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 22 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build digest
+        run: python3 scripts/build_digest.py
+
+      - name: Upload GitHub artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-investment-radar-dist
+          path: dist/
+
+      - name: Commit generated digest to GitHub repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Update daily AI investment radar" || echo "No digest changes to commit"
+          git push
+
+      - name: Push dist output to Gitee
+        env:
+          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+          GITEE_REPO: ${{ secrets.GITEE_REPO }}
+        run: |
+          if [ -z "$GITEE_USERNAME" ] || [ -z "$GITEE_TOKEN" ] || [ -z "$GITEE_REPO" ]; then
+            echo "Gitee secrets are not configured; skipping Gitee push."
+            exit 0
+          fi
+
+          rm -rf /tmp/gitee-output
+          mkdir -p /tmp/gitee-output
+          cp -R dist/. /tmp/gitee-output/
+          cd /tmp/gitee-output
+
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update AI investment radar output"
+          git branch -M main
+          git remote add gitee "https://${GITEE_USERNAME}:${GITEE_TOKEN}@gitee.com/${GITEE_REPO}.git"
+          git push --force gitee main
+

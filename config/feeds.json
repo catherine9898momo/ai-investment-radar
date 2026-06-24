@@ -1,0 +1,30 @@
+{
+  "feeds": [
+    {
+      "name": "NVIDIA Official News Mentions",
+      "url": "https://news.google.com/rss/search?q=site%3Anvidianews.nvidia.com%20NVIDIA%20AI&hl=en-US&gl=US&ceid=US:en",
+      "tags": ["nvidia", "chips", "ai_infrastructure"]
+    },
+    {
+      "name": "SEC NVDA Filings",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=&dateb=&owner=exclude&count=40&output=atom",
+      "tags": ["nvidia", "filings"]
+    },
+    {
+      "name": "AI Data Center Capex",
+      "url": "https://news.google.com/rss/search?q=%22AI%20data%20center%22%20capex&hl=en-US&gl=US&ceid=US:en",
+      "tags": ["data_center", "capex", "power"]
+    },
+    {
+      "name": "HBM CoWoS AI Supply Chain",
+      "url": "https://news.google.com/rss/search?q=HBM%20CoWoS%20AI%20NVIDIA%20TSMC&hl=en-US&gl=US&ceid=US:en",
+      "tags": ["hbm", "packaging", "supply_chain"]
+    },
+    {
+      "name": "China AI Infrastructure",
+      "url": "https://news.google.com/rss/search?q=China%20AI%20data%20center%20chip%20cloud&hl=en-US&gl=US&ceid=US:en",
+      "tags": ["china_ai", "cloud", "chips"]
+    }
+  ]
+}
+
