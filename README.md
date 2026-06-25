@@ -6,11 +6,14 @@ It collects RSS/Atom feeds, classifies items by investment-chain themes, writes 
 
 ## Can GitHub Actions push artifacts to Gitee?
 
-Yes. The workflow in `.github/workflows/daily-radar.yml` does three things:
+Yes. The workflow in `.github/workflows/daily-radar.yml` does four things:
 
-1. Builds `dist/daily-digest.md` and `dist/daily-items.json`.
+1. Builds dated files such as `dist/daily-digest-YYYY-MM-DD.md`, `dist/daily-digest-YYYY-MM-DD.zh.md`, `dist/daily-concept-YYYY-MM-DD.zh.md`, and `dist/daily-items-YYYY-MM-DD.json`.
 2. Uploads `dist/` as a GitHub Actions artifact.
-3. If Gitee secrets are configured, commits `dist/` into a Gitee repository.
+3. Commits generated `dist/` files back to the GitHub repository.
+4. If Gitee secrets are configured, syncs `dist/` into a Gitee repository.
+
+`dist/` stays ignored for local development, but the workflow force-adds it during the automated daily commit.
 
 ## Quick Start
 
@@ -20,8 +23,17 @@ python3 scripts/build_digest.py
 
 Then open:
 
-- `dist/daily-digest.md`
-- `dist/daily-items.json`
+- `dist/daily-digest-YYYY-MM-DD.zh.md` for the Chinese market reading report with Chinese summaries, reading focus points, and original source summaries
+- `dist/daily-concept-YYYY-MM-DD.zh.md` for one daily value-investing book/chapter lesson and execution exercise
+- `dist/value-investing-progress-YYYY-MM-DD.json` for the dated learning route state used to avoid repeating the same daily concept
+- `dist/daily-digest-YYYY-MM-DD.md` for the English report
+- `dist/daily-items-YYYY-MM-DD.json` for structured data
+
+## Daily Value-Investing Course
+
+The Chinese daily course follows the supplied Buffett/Munger study list route A: `The Intelligent Investor`, `Common Stocks and Uncommon Profits`, `The Essays of Warren Buffett`, `The Outsiders`, `Security Analysis`, and `Poor Charlie's Almanack`.
+
+The workflow stores progress in dated snapshots such as `dist/value-investing-progress-YYYY-MM-DD.json` and loads the latest snapshot on the next run. Running it again on the same date keeps the same lesson. Running it on a later date advances to the next lesson; when the current book's prepared lessons are finished, the next report moves to the next book in the route. After the whole prepared route finishes, the progress round advances and the route starts again for review unless more lessons are added.
 
 ## Configure Feeds
 
@@ -49,7 +61,7 @@ If these secrets are missing, the workflow still builds the digest and uploads t
 
 ## Daily Review Prompt
 
-After the digest is generated, paste `dist/daily-digest.md` into an AI assistant with:
+After the digest is generated, paste the latest `dist/daily-digest-YYYY-MM-DD.md` into an AI assistant with:
 
 ```text
 Please summarize this AI investment digest into:
