@@ -1,10 +1,19 @@
 # AI 投资雷达 - 2026-06-25
 
 回看窗口：14 天
-抓取条目：382
+抓取条目：381
 窗口内条目：26
 
 ## 重点信号条目
+
+### [Applied Digital Secures Multi-Billion AI Data Center Leases - Let's Data Science](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZXpPYXJINEpIbWdoTWlTY0lFbDZYTHVCNkdGa2NuaGZNX25hbHJyLWVrR2wxMzhacW91OWdlYWRnQTJfRFE4SmFUcGxCRjZUdG96VW9sYzFVWVFUTXdnMzZQMHEwX3Rzem54OUNSdFN0Sy1EWHVMdmxXVDJNOVRjakd5a2dObUo4a3IxeWg1Y24xaGtqNENvY3lPQ3I1U0s0ci1z?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-06-25T19:39:29+00:00
+- 标签：data_center, capex, power
+- 信号：硬信号: lease; AI 价值链: data center
+- 中文摘要：这条信息属于硬信号，出现了租赁，说明它可能涉及采购、订单、产能、融资或交付安排。它影响的环节是数据中心。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：看原文里是否有金额、客户、供应商、时间表、产能规模或交付节点；这些决定它是不是可验证的投资信号。
+- 原文摘要：Applied Digital Secures Multi-Billion AI Data Center Leases Let's Data Science
 
 ### [The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big. - The Motley Fool](https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1BBTTV4ZzlWRG1jaFMyTVoxUngwYjVNaGNtQTVzdXBrWUdzZ2JHY21vSjFPNGZKRkZMbndqZjZ3d2VTUm1VQkpfNTladGdXdEZuTV9TdlZ6bVdaSGFGY0M3dm16Vm0wd2lEbmVjSng4ZlVxc2tRZTVvUjM1UGVRQjVBV2lOLWk5dTdjSjFn?oc=5)
 - 来源：AI Data Center Capex
@@ -15,6 +24,15 @@
 - 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
 - 原文摘要：The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big. The Motley Fool
 
+### [800 VDC rewrites AI data center power economics - Enverus](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXlzVzNiUFJVRTBMcEhuSWpMVXhKcERpOHB0SG1UQ3I4bzhuT1liSEZSVlpYTS1JaFgyV1ZNazBXTGR1MlVmMHAxLUM4eGJoY0pjaTQ3ZWxnRUJENGRBWGM4YlhRcWJlclF5am9wOXNKQ1JCbDZIV2dkRV9kSnNXTDYzdjBrSUs5?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-06-24T18:51:08+00:00
+- 标签：data_center, capex, power
+- 信号：AI 价值链: data center, power
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心、电力。它影响的环节是数据中心、电力。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：800 VDC rewrites AI data center power economics Enverus
+
 ### [Lumentum (LITE) Reveals $400 Million AI Optics Backlog And Data Center Partnerships - simplywall.st](https://news.google.com/rss/articles/CBMizAFBVV95cUxNR2xXUS1KYjROWWtJX2p1Y2pIMDJJNFRYQVJQclVBWlZhaVh2RnZONWptOEd5M3NFTlIzMS05LXh5STl1OGtzNVAxSU5mcWlERnpmYjAwcGNYaGxzelA0eHU1QlRjaGptR2dJRUs1YmNncFY2UGxVYUU5X2FDWUp3dWtDTzF5NjNnekFaOEN3U2RTY3A5RVlpNWVlVGdwZjVmTThVeWJnalR1OFIzXzZERkpuNlk4VS1pOHFEX3NLdFIwdGd4QUJIUGdLdVnSAdIBQVVfeXFMTUhtcVdldDBmdkNDcDdlc2VkTnI1VGluXzk3UTVickhiT2hUNnVHN2NKcldtby03SHRQa3JhMG1kbVhWaG1EMURQZ2NFeGpRV0YtdUNCcFZVVXVVd2pYbE9hTVUxTXd3SFVWSjZjbVFiMmtIZU9JVlpqVmVoc0w1WVoxWV81b2s5bVM2SVJoc3AycTl5Tk5tTy1JYlpMX2xaWkF3LUtZcDdPdE9qSVZpWnRXbngzWUY1bWVwWlFwYjBhajBfYkRFQUY0OFo0cE1NYTRn?oc=5)
 - 来源：AI Data Center Capex
 - 发布时间：2026-06-24T12:55:22+00:00
@@ -24,15 +42,6 @@
 - 阅读重点：看原文里是否有金额、客户、供应商、时间表、产能规模或交付节点；这些决定它是不是可验证的投资信号。
 - 原文摘要：Lumentum (LITE) Reveals $400 Million AI Optics Backlog And Data Center Partnerships simplywall.st
 
-### [Applying Semiconductor Tariffs to Data Centers Would Cost the U.S. $90 Billion a Year - CCIA](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHk5ODRoOURFZVkxTXg1anBnQkZKZDlHMk1YaWhXcVFjMEFiWjZkZUtxdERFU3g3bUcwbGRzNVVuQUNwSHduenFPYnFUcF9wcU9yUEZ3OVdneW1nOTZCRWF0VnhnTjNVOGI4Q3p6WU1ZRlZ5NU02WlRQZTlhaUxPYTVOWUE3OHpZS2FleUNTTFBlMWhQRGVrMUQzdjZoY3B5MEFGelZ3NGdQa0xBVklrS3lIdw?oc=5)
-- 来源：AI Data Center Capex
-- 发布时间：2026-06-11T14:00:00+00:00
-- 标签：data_center, capex, power
-- 信号：风险信号: tariff; AI 价值链: data center
-- 中文摘要：这条信息属于风险信号，出现了关税，需要留意成本、供给、政策或需求是否恶化。它影响的环节是数据中心。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
-- 阅读重点：看风险是否会影响成本、供给、交付、政策限制或下游需求，并留意是否有公司给出量化影响。
-- 原文摘要：Applying Semiconductor Tariffs to Data Centers Would Cost the U.S. $90 Billion a Year CCIA
-
 ### [JPMorgan raises power and AI capex estimates amid strong year for high-yield data center debt - Crypto Briefing](https://news.google.com/rss/articles/CBMib0FVX3lxTE9PVlFrS21CaGd1bHAzQ0RNRE5hZ0M2UUcySUJuMDdqdnVjN2lTRGI2NEdKNmVSVGhfYlI3clNCMVpNOWpEMXR0Z21QbkE2eXVxTm9RYTdQZ04ta282MDF1Vk9kWlJlZmloQ2N4Zk9YOA?oc=5)
 - 来源：AI Data Center Capex
 - 发布时间：2026-06-16T07:00:00+00:00
@@ -41,15 +50,6 @@
 - 中文摘要：这条信息主要是产业链线索，涉及数据中心、电力。它影响的环节是数据中心、电力。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
 - 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
 - 原文摘要：JPMorgan raises power and AI capex estimates amid strong year for high-yield data center debt Crypto Briefing
-
-### [The $725 billion AI capex cycle has 3 bottlenecks: power, memory, and optical bandwidth. 3 stocks poised to win big - MSN](https://news.google.com/rss/articles/CBMihwNBVV95cUxQUC1hamFwNmZKaHpYUGlTTHFyRmljSTVJUDB2aHNYT0RicTB2eHVjUGxtdC13Q1Y1TERPRWVHb1hvczBJek8wYmZyMjJIS1l2ZnJMVE9TTUczV29MZkxYY1VmcHpKS3I1TWFnS3p2alZPV2tXYVNpY0lDZjFrWUJVS2JRM3FQZmtVX01FSTRjeGg0T0t4TUpWR3RLakJQVkdBaFpUVGQ1LXJXSy0zQW9oN0wzeW5OUWduMUNYaFZ1Q0R0bDFnT3kzS2tGcmhuRGtBZUFobUYxQ2tnWjJzQjNDRS04bEh6WHFNQmxhWHk4eWJjMGhvMEZ1Q0M4OUw1b25fdEtfNDEzT3pacFBTU2xPOXJkaWtMM0lYWUVsdEJhdFpMR3ZYcTNKNjFIbUY5RGJuS2hPYWhyM3FhdzByVkpVOEtUTldhbjBKU0J1S201Qzljb2NqVDVlcUJ5RTdUS0lRLThBbFUwaWZlZi1RS0d0c2FCOVlhVTR0TUZiZW5VVV90RW00ZmJ3?oc=5)
-- 来源：AI Data Center Capex
-- 发布时间：2026-06-22T13:46:09+00:00
-- 标签：data_center, capex, power
-- 信号：AI 价值链: optical, power
-- 中文摘要：这条信息主要是产业链线索，涉及光通信、电力。它影响的环节是光通信、电力。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
-- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
-- 原文摘要：The $725 billion AI capex cycle has 3 bottlenecks: power, memory, and optical bandwidth. 3 stocks poised to win big MSN
 
 ### [NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMizwFBVV95cUxQZUoycWRkekFhdURRelBmYWtMdXk3UjVDaTFjeUF2bmJTOVNmSmk0TEoxZVNWZ29Qd2dPaVg2Sk4xb0tKUDJqaTZYTms0N3FFVnNka0J6S0c3NDRKOUFkeC14ZmhrWEJ6UkFIdjNXZjFzSU5vd09CUFV6TGdUa1FENUFKdFRSZG1DZHNtdDNwOTkzbWdYaGtKRURUT09COUxmcTlVTkVZcWpBS042MFJLdlZUTFl1Qlh1VHpxYkt0YlRjZkwwNmcxWV9FOG85RTg?oc=5)
 - 来源：NVIDIA Official News Mentions
@@ -62,7 +62,7 @@
 
 ### [The AI Data Center Stock Boom: How To Invest Wisely in June 2026 - Forbes](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXBndlFqR0pIYU1oTFBIMG56eWs0alN5eUlHZVdGejFxYUlONXBvLXdGbTVvN2hpcnRmQWxHQmxfcnltaUtUZS1xcC1ySmxibFNYWnFqNkZBUVlmWWoyazB5RjU3ZUN3bjV0ekpWVV9FVWtsZnVma0ZlcS1tamg1Q0p1VUdwb2lNeXdxekdnWTFxTmdr?oc=5)
 - 来源：AI Data Center Capex
-- 发布时间：2026-06-17T20:47:00+00:00
+- 发布时间：2026-06-17T07:00:00+00:00
 - 标签：data_center, capex, power
 - 信号：AI 价值链: data center
 - 中文摘要：这条信息主要是产业链线索，涉及数据中心。它影响的环节是数据中心。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
@@ -204,15 +204,6 @@
 - 阅读重点：看风险是否有量化数字、时间范围和受影响公司；没有量化时先不要把它当成确定性利空。
 - 原文摘要：Why AI CapEx Could Become ‘Money Down the Toilet’ According to One Strategist 24/7 Wall St.
 
-### [Is AAOI Stock a Buy or Sell? AAOI Price Prediction 2026 - WEEX](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVRJVWJ3d0x4NkU1X1RYRXlOMDdwLTBRWWtEVkhYSi0yNkN6Y0NSeW9HYXhucE55d0Q0MllGdzVPNXZEamhXSE81ZWFFaU1pSnFJSU9VaUI2UlRlRjdvRnBmMDkxQnVDeWZaVEhLbU0zeklIa1BQRzJNZ0Y2TGFtQ2pZalo2dHRWWjk1RUY0dlJIYlZWVlJBVGR4LVZITkVHeHBzUXlRak03bWg5d3ZaN2I3aw?oc=5)
-- 来源：AI Data Center Capex
-- 发布时间：2026-06-23T08:24:11+00:00
-- 标签：data_center, capex, power
-- 信号：未命中信号关键词
-- 中文摘要：标题点名AAOI，更像股票或 ETF 观点内容。它不是订单或业绩本身，适合用来观察市场在讨论哪些 AI 资本开支受益标的。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
-- 阅读重点：看它讨论的是哪只股票或 ETF、受益逻辑是什么、估值假设是否依赖 AI 资本开支继续增长。
-- 原文摘要：Is AAOI Stock a Buy or Sell? AAOI Price Prediction 2026 WEEX
-
 ### [AAOI Stock Price Prediction 2026–2030: Can AAOI Shares Reach $200? - WEEX](https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0hCaS1ZQlIzaEhKT2t6Q1FnSTNMRkU2azFvZFRFUWFQekVLVnNJMWZfRFIwNXFwZUtnSElIWk12QlQ2Y0JVMEFEWmI1b1cyVDJUdFhsTU5hMW02QXdvbW01OFZQUXhueHY2RE9ycm9HNjg1eDN3NkJrQ1Q5dVBiZG91OFN2NTd2OGltWkIxbFRoamdIUzVjYnA1NnlGejVjMlZHa0swMVBIN1VvbFJvQXBKYk5kVEg4eUVwN013?oc=5)
 - 来源：AI Data Center Capex
 - 发布时间：2026-06-24T08:19:25+00:00
@@ -239,3 +230,12 @@
 - 中文摘要：标题没有给出可验证的硬信号。先作为背景材料保存，等后续出现订单、产能、融资、政策或价格变化再提高优先级。来源归入「HBM CoWoS AI Supply Chain」，标签是HBM 高带宽内存、先进封装、供应链。
 - 阅读重点：看原文是否补充了数字、公司名、项目进度或政策细节；没有这些就只保留为背景。
 - 原文摘要：7 Key AI Hardware Keywords to Watch in 2026 semivision
+
+### [TSMC touts glass substrate gains as Korea players race to commercialize - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5NHRjUFE3RzZ3eU5Ib2hvZzdWUW9CVnl3VUhNaEtxT2hiaGRBQlI0cnZBUG1UczdWQWx1cmxrN0xyME9jX09ISnlQeTZNWXJaeFRfVF9fVVBaYVM3NWc0TVRQc3hzVUJhNjdJbmxtdGJqVG1yZzhTWmxR0gGOAUFVX3lxTE1SSHVna0NBQlBaSWtObXVHX0g5RGw0SjR0ZTNwV3dicnV6V09mNEcwR19wTzUwOHV2VVlrM1dUcVdXQmhFVUpaVS03UlAyelRaUmpkb2VUYkRkVVd4RUtudHdGZXE2bEwyRmhaUlNTbHFCMFpKSzk3VUlJWE1yd1pnOFJrVndSQkppZlNCaFE?oc=5)
+- 来源：HBM CoWoS AI Supply Chain
+- 发布时间：2026-06-17T21:02:00+00:00
+- 标签：hbm, packaging, supply_chain
+- 信号：未命中信号关键词
+- 中文摘要：标题没有给出可验证的硬信号。先作为背景材料保存，等后续出现订单、产能、融资、政策或价格变化再提高优先级。来源归入「HBM CoWoS AI Supply Chain」，标签是HBM 高带宽内存、先进封装、供应链。
+- 阅读重点：看原文是否补充了数字、公司名、项目进度或政策细节；没有这些就只保留为背景。
+- 原文摘要：TSMC touts glass substrate gains as Korea players race to commercialize - CHOSUNBIZ Chosunbiz

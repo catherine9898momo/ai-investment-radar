@@ -7,6 +7,28 @@
         "capex",
         "power"
       ],
+      "title": "Applied Digital Secures Multi-Billion AI Data Center Leases - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZXpPYXJINEpIbWdoTWlTY0lFbDZYTHVCNkdGa2NuaGZNX25hbHJyLWVrR2wxMzhacW91OWdlYWRnQTJfRFE4SmFUcGxCRjZUdG96VW9sYzFVWVFUTXdnMzZQMHEwX3Rzem54OUNSdFN0Sy1EWHVMdmxXVDJNOVRjakd5a2dObUo4a3IxeWg1Y24xaGtqNENvY3lPQ3I1U0s0ci1z?oc=5",
+      "published": "2026-06-25T19:39:29+00:00",
+      "summary": "Applied Digital Secures Multi-Billion AI Data Center Leases Let's Data Science",
+      "signals": {
+        "hard_signal": [
+          "lease"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
       "title": "The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big. - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1BBTTV4ZzlWRG1jaFMyTVoxUngwYjVNaGNtQTVzdXBrWUdzZ2JHY21vSjFPNGZKRkZMbndqZjZ3d2VTUm1VQkpfNTladGdXdEZuTV9TdlZ6bVdaSGFGY0M3dm16Vm0wd2lEbmVjSng4ZlVxc2tRZTVvUjM1UGVRQjVBV2lOLWk5dTdjSjFn?oc=5",
       "published": "2026-06-22T11:26:00+00:00",
@@ -16,6 +38,27 @@
         "risk_signal": [],
         "ai_value_chain": [
           "optical",
+          "power"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "800 VDC rewrites AI data center power economics - Enverus",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXlzVzNiUFJVRTBMcEhuSWpMVXhKcERpOHB0SG1UQ3I4bzhuT1liSEZSVlpYTS1JaFgyV1ZNazBXTGR1MlVmMHAxLUM4eGJoY0pjaTQ3ZWxnRUJENGRBWGM4YlhRcWJlclF5am9wOXNKQ1JCbDZIV2dkRV9kSnNXTDYzdjBrSUs5?oc=5",
+      "published": "2026-06-24T18:51:08+00:00",
+      "summary": "800 VDC rewrites AI data center power economics Enverus",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
           "power"
         ]
       },
@@ -50,28 +93,6 @@
         "capex",
         "power"
       ],
-      "title": "Applying Semiconductor Tariffs to Data Centers Would Cost the U.S. $90 Billion a Year - CCIA",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHk5ODRoOURFZVkxTXg1anBnQkZKZDlHMk1YaWhXcVFjMEFiWjZkZUtxdERFU3g3bUcwbGRzNVVuQUNwSHduenFPYnFUcF9wcU9yUEZ3OVdneW1nOTZCRWF0VnhnTjNVOGI4Q3p6WU1ZRlZ5NU02WlRQZTlhaUxPYTVOWUE3OHpZS2FleUNTTFBlMWhQRGVrMUQzdjZoY3B5MEFGelZ3NGdQa0xBVklrS3lIdw?oc=5",
-      "published": "2026-06-11T14:00:00+00:00",
-      "summary": "Applying Semiconductor Tariffs to Data Centers Would Cost the U.S. $90 Billion a Year CCIA",
-      "signals": {
-        "hard_signal": [],
-        "risk_signal": [
-          "tariff"
-        ],
-        "ai_value_chain": [
-          "data center"
-        ]
-      },
-      "signal_score": 2
-    },
-    {
-      "feed": "AI Data Center Capex",
-      "tags": [
-        "data_center",
-        "capex",
-        "power"
-      ],
       "title": "JPMorgan raises power and AI capex estimates amid strong year for high-yield data center debt - Crypto Briefing",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PVlFrS21CaGd1bHAzQ0RNRE5hZ0M2UUcySUJuMDdqdnVjN2lTRGI2NEdKNmVSVGhfYlI3clNCMVpNOWpEMXR0Z21QbkE2eXVxTm9RYTdQZ04ta282MDF1Vk9kWlJlZmloQ2N4Zk9YOA?oc=5",
       "published": "2026-06-16T07:00:00+00:00",
@@ -81,27 +102,6 @@
         "risk_signal": [],
         "ai_value_chain": [
           "data center",
-          "power"
-        ]
-      },
-      "signal_score": 2
-    },
-    {
-      "feed": "AI Data Center Capex",
-      "tags": [
-        "data_center",
-        "capex",
-        "power"
-      ],
-      "title": "The $725 billion AI capex cycle has 3 bottlenecks: power, memory, and optical bandwidth. 3 stocks poised to win big - MSN",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQUC1hamFwNmZKaHpYUGlTTHFyRmljSTVJUDB2aHNYT0RicTB2eHVjUGxtdC13Q1Y1TERPRWVHb1hvczBJek8wYmZyMjJIS1l2ZnJMVE9TTUczV29MZkxYY1VmcHpKS3I1TWFnS3p2alZPV2tXYVNpY0lDZjFrWUJVS2JRM3FQZmtVX01FSTRjeGg0T0t4TUpWR3RLakJQVkdBaFpUVGQ1LXJXSy0zQW9oN0wzeW5OUWduMUNYaFZ1Q0R0bDFnT3kzS2tGcmhuRGtBZUFobUYxQ2tnWjJzQjNDRS04bEh6WHFNQmxhWHk4eWJjMGhvMEZ1Q0M4OUw1b25fdEtfNDEzT3pacFBTU2xPOXJkaWtMM0lYWUVsdEJhdFpMR3ZYcTNKNjFIbUY5RGJuS2hPYWhyM3FhdzByVkpVOEtUTldhbjBKU0J1S201Qzljb2NqVDVlcUJ5RTdUS0lRLThBbFUwaWZlZi1RS0d0c2FCOVlhVTR0TUZiZW5VVV90RW00ZmJ3?oc=5",
-      "published": "2026-06-22T13:46:09+00:00",
-      "summary": "The $725 billion AI capex cycle has 3 bottlenecks: power, memory, and optical bandwidth. 3 stocks poised to win big MSN",
-      "signals": {
-        "hard_signal": [],
-        "risk_signal": [],
-        "ai_value_chain": [
-          "optical",
           "power"
         ]
       },
@@ -136,7 +136,7 @@
       ],
       "title": "The AI Data Center Stock Boom: How To Invest Wisely in June 2026 - Forbes",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXBndlFqR0pIYU1oTFBIMG56eWs0alN5eUlHZVdGejFxYUlONXBvLXdGbTVvN2hpcnRmQWxHQmxfcnltaUtUZS1xcC1ySmxibFNYWnFqNkZBUVlmWWoyazB5RjU3ZUN3bjV0ekpWVV9FVWtsZnVma0ZlcS1tamg1Q0p1VUdwb2lNeXdxekdnWTFxTmdr?oc=5",
-      "published": "2026-06-17T20:47:00+00:00",
+      "published": "2026-06-17T07:00:00+00:00",
       "summary": "The AI Data Center Stock Boom: How To Invest Wisely in June 2026 Forbes",
       "signals": {
         "hard_signal": [],
@@ -422,24 +422,6 @@
         "capex",
         "power"
       ],
-      "title": "Is AAOI Stock a Buy or Sell? AAOI Price Prediction 2026 - WEEX",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVRJVWJ3d0x4NkU1X1RYRXlOMDdwLTBRWWtEVkhYSi0yNkN6Y0NSeW9HYXhucE55d0Q0MllGdzVPNXZEamhXSE81ZWFFaU1pSnFJSU9VaUI2UlRlRjdvRnBmMDkxQnVDeWZaVEhLbU0zeklIa1BQRzJNZ0Y2TGFtQ2pZalo2dHRWWjk1RUY0dlJIYlZWVlJBVGR4LVZITkVHeHBzUXlRak03bWg5d3ZaN2I3aw?oc=5",
-      "published": "2026-06-23T08:24:11+00:00",
-      "summary": "Is AAOI Stock a Buy or Sell? AAOI Price Prediction 2026 WEEX",
-      "signals": {
-        "hard_signal": [],
-        "risk_signal": [],
-        "ai_value_chain": []
-      },
-      "signal_score": 0
-    },
-    {
-      "feed": "AI Data Center Capex",
-      "tags": [
-        "data_center",
-        "capex",
-        "power"
-      ],
       "title": "AAOI Stock Price Prediction 2026–2030: Can AAOI Shares Reach $200? - WEEX",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0hCaS1ZQlIzaEhKT2t6Q1FnSTNMRkU2azFvZFRFUWFQekVLVnNJMWZfRFIwNXFwZUtnSElIWk12QlQ2Y0JVMEFEWmI1b1cyVDJUdFhsTU5hMW02QXdvbW01OFZQUXhueHY2RE9ycm9HNjg1eDN3NkJrQ1Q5dVBiZG91OFN2NTd2OGltWkIxbFRoamdIUzVjYnA1NnlGejVjMlZHa0swMVBIN1VvbFJvQXBKYk5kVEg4eUVwN013?oc=5",
       "published": "2026-06-24T08:19:25+00:00",
@@ -480,6 +462,24 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXlFdG55SzljRTF4S05xRDNmcEtGUjZhRXc3dDFXMnU1LTV1VDlKYVA0S251Y2dMb0xkMVZMV2VUTUMwSjBPb0xwMDkxaTlWZ3JrUnJWSDUzcVR4cVNrbW1PS1RycHIzUjZMZ3VuVHhJOHN0TzdodzBoSFBwRXBuTUZ3?oc=5",
       "published": "2026-06-18T14:16:05+00:00",
       "summary": "7 Key AI Hardware Keywords to Watch in 2026 semivision",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "HBM CoWoS AI Supply Chain",
+      "tags": [
+        "hbm",
+        "packaging",
+        "supply_chain"
+      ],
+      "title": "TSMC touts glass substrate gains as Korea players race to commercialize - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5NHRjUFE3RzZ3eU5Ib2hvZzdWUW9CVnl3VUhNaEtxT2hiaGRBQlI0cnZBUG1UczdWQWx1cmxrN0xyME9jX09ISnlQeTZNWXJaeFRfVF9fVVBaYVM3NWc0TVRQc3hzVUJhNjdJbmxtdGJqVG1yZzhTWmxR0gGOAUFVX3lxTE1SSHVna0NBQlBaSWtObXVHX0g5RGw0SjR0ZTNwV3dicnV6V09mNEcwR19wTzUwOHV2VVlrM1dUcVdXQmhFVUpaVS03UlAyelRaUmpkb2VUYkRkVVd4RUtudHdGZXE2bEwyRmhaUlNTbHFCMFpKSzk3VUlJWE1yd1pnOFJrVndSQkppZlNCaFE?oc=5",
+      "published": "2026-06-17T21:02:00+00:00",
+      "summary": "TSMC touts glass substrate gains as Korea players race to commercialize - CHOSUNBIZ Chosunbiz",
       "signals": {
         "hard_signal": [],
         "risk_signal": [],

@@ -1,10 +1,17 @@
 # AI Investment Radar - 2026-06-25
 
 Lookback window: 14 days
-Items fetched: 382
+Items fetched: 381
 Items in window: 26
 
 ## Top Signal Items
+
+### [Applied Digital Secures Multi-Billion AI Data Center Leases - Let's Data Science](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZXpPYXJINEpIbWdoTWlTY0lFbDZYTHVCNkdGa2NuaGZNX25hbHJyLWVrR2wxMzhacW91OWdlYWRnQTJfRFE4SmFUcGxCRjZUdG96VW9sYzFVWVFUTXdnMzZQMHEwX3Rzem54OUNSdFN0Sy1EWHVMdmxXVDJNOVRjakd5a2dObUo4a3IxeWg1Y24xaGtqNENvY3lPQ3I1U0s0ci1z?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-06-25T19:39:29+00:00
+- Tags: data_center, capex, power
+- Signals: hard_signal: lease; ai_value_chain: data center
+- Summary: Applied Digital Secures Multi-Billion AI Data Center Leases Let's Data Science
 
 ### [The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big. - The Motley Fool](https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1BBTTV4ZzlWRG1jaFMyTVoxUngwYjVNaGNtQTVzdXBrWUdzZ2JHY21vSjFPNGZKRkZMbndqZjZ3d2VTUm1VQkpfNTladGdXdEZuTV9TdlZ6bVdaSGFGY0M3dm16Vm0wd2lEbmVjSng4ZlVxc2tRZTVvUjM1UGVRQjVBV2lOLWk5dTdjSjFn?oc=5)
 - Feed: AI Data Center Capex
@@ -13,6 +20,13 @@ Items in window: 26
 - Signals: ai_value_chain: optical, power
 - Summary: The $725 Billion AI Capex Cycle Has 3 Bottlenecks: Power, Memory, and Optical Bandwidth. 3 Stocks Poised to Win Big. The Motley Fool
 
+### [800 VDC rewrites AI data center power economics - Enverus](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXlzVzNiUFJVRTBMcEhuSWpMVXhKcERpOHB0SG1UQ3I4bzhuT1liSEZSVlpYTS1JaFgyV1ZNazBXTGR1MlVmMHAxLUM4eGJoY0pjaTQ3ZWxnRUJENGRBWGM4YlhRcWJlclF5am9wOXNKQ1JCbDZIV2dkRV9kSnNXTDYzdjBrSUs5?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-06-24T18:51:08+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center, power
+- Summary: 800 VDC rewrites AI data center power economics Enverus
+
 ### [Lumentum (LITE) Reveals $400 Million AI Optics Backlog And Data Center Partnerships - simplywall.st](https://news.google.com/rss/articles/CBMizAFBVV95cUxNR2xXUS1KYjROWWtJX2p1Y2pIMDJJNFRYQVJQclVBWlZhaVh2RnZONWptOEd5M3NFTlIzMS05LXh5STl1OGtzNVAxSU5mcWlERnpmYjAwcGNYaGxzelA0eHU1QlRjaGptR2dJRUs1YmNncFY2UGxVYUU5X2FDWUp3dWtDTzF5NjNnekFaOEN3U2RTY3A5RVlpNWVlVGdwZjVmTThVeWJnalR1OFIzXzZERkpuNlk4VS1pOHFEX3NLdFIwdGd4QUJIUGdLdVnSAdIBQVVfeXFMTUhtcVdldDBmdkNDcDdlc2VkTnI1VGluXzk3UTVickhiT2hUNnVHN2NKcldtby03SHRQa3JhMG1kbVhWaG1EMURQZ2NFeGpRV0YtdUNCcFZVVXVVd2pYbE9hTVUxTXd3SFVWSjZjbVFiMmtIZU9JVlpqVmVoc0w1WVoxWV81b2s5bVM2SVJoc3AycTl5Tk5tTy1JYlpMX2xaWkF3LUtZcDdPdE9qSVZpWnRXbngzWUY1bWVwWlFwYjBhajBfYkRFQUY0OFo0cE1NYTRn?oc=5)
 - Feed: AI Data Center Capex
 - Published: 2026-06-24T12:55:22+00:00
@@ -20,26 +34,12 @@ Items in window: 26
 - Signals: hard_signal: backlog; ai_value_chain: data center
 - Summary: Lumentum (LITE) Reveals $400 Million AI Optics Backlog And Data Center Partnerships simplywall.st
 
-### [Applying Semiconductor Tariffs to Data Centers Would Cost the U.S. $90 Billion a Year - CCIA](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHk5ODRoOURFZVkxTXg1anBnQkZKZDlHMk1YaWhXcVFjMEFiWjZkZUtxdERFU3g3bUcwbGRzNVVuQUNwSHduenFPYnFUcF9wcU9yUEZ3OVdneW1nOTZCRWF0VnhnTjNVOGI4Q3p6WU1ZRlZ5NU02WlRQZTlhaUxPYTVOWUE3OHpZS2FleUNTTFBlMWhQRGVrMUQzdjZoY3B5MEFGelZ3NGdQa0xBVklrS3lIdw?oc=5)
-- Feed: AI Data Center Capex
-- Published: 2026-06-11T14:00:00+00:00
-- Tags: data_center, capex, power
-- Signals: risk_signal: tariff; ai_value_chain: data center
-- Summary: Applying Semiconductor Tariffs to Data Centers Would Cost the U.S. $90 Billion a Year CCIA
-
 ### [JPMorgan raises power and AI capex estimates amid strong year for high-yield data center debt - Crypto Briefing](https://news.google.com/rss/articles/CBMib0FVX3lxTE9PVlFrS21CaGd1bHAzQ0RNRE5hZ0M2UUcySUJuMDdqdnVjN2lTRGI2NEdKNmVSVGhfYlI3clNCMVpNOWpEMXR0Z21QbkE2eXVxTm9RYTdQZ04ta282MDF1Vk9kWlJlZmloQ2N4Zk9YOA?oc=5)
 - Feed: AI Data Center Capex
 - Published: 2026-06-16T07:00:00+00:00
 - Tags: data_center, capex, power
 - Signals: ai_value_chain: data center, power
 - Summary: JPMorgan raises power and AI capex estimates amid strong year for high-yield data center debt Crypto Briefing
-
-### [The $725 billion AI capex cycle has 3 bottlenecks: power, memory, and optical bandwidth. 3 stocks poised to win big - MSN](https://news.google.com/rss/articles/CBMihwNBVV95cUxQUC1hamFwNmZKaHpYUGlTTHFyRmljSTVJUDB2aHNYT0RicTB2eHVjUGxtdC13Q1Y1TERPRWVHb1hvczBJek8wYmZyMjJIS1l2ZnJMVE9TTUczV29MZkxYY1VmcHpKS3I1TWFnS3p2alZPV2tXYVNpY0lDZjFrWUJVS2JRM3FQZmtVX01FSTRjeGg0T0t4TUpWR3RLakJQVkdBaFpUVGQ1LXJXSy0zQW9oN0wzeW5OUWduMUNYaFZ1Q0R0bDFnT3kzS2tGcmhuRGtBZUFobUYxQ2tnWjJzQjNDRS04bEh6WHFNQmxhWHk4eWJjMGhvMEZ1Q0M4OUw1b25fdEtfNDEzT3pacFBTU2xPOXJkaWtMM0lYWUVsdEJhdFpMR3ZYcTNKNjFIbUY5RGJuS2hPYWhyM3FhdzByVkpVOEtUTldhbjBKU0J1S201Qzljb2NqVDVlcUJ5RTdUS0lRLThBbFUwaWZlZi1RS0d0c2FCOVlhVTR0TUZiZW5VVV90RW00ZmJ3?oc=5)
-- Feed: AI Data Center Capex
-- Published: 2026-06-22T13:46:09+00:00
-- Tags: data_center, capex, power
-- Signals: ai_value_chain: optical, power
-- Summary: The $725 billion AI capex cycle has 3 bottlenecks: power, memory, and optical bandwidth. 3 stocks poised to win big MSN
 
 ### [NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMizwFBVV95cUxQZUoycWRkekFhdURRelBmYWtMdXk3UjVDaTFjeUF2bmJTOVNmSmk0TEoxZVNWZ29Qd2dPaVg2Sk4xb0tKUDJqaTZYTms0N3FFVnNka0J6S0c3NDRKOUFkeC14ZmhrWEJ6UkFIdjNXZjFzSU5vd09CUFV6TGdUa1FENUFKdFRSZG1DZHNtdDNwOTkzbWdYaGtKRURUT09COUxmcTlVTkVZcWpBS042MFJLdlZUTFl1Qlh1VHpxYkt0YlRjZkwwNmcxWV9FOG85RTg?oc=5)
 - Feed: NVIDIA Official News Mentions
@@ -50,7 +50,7 @@ Items in window: 26
 
 ### [The AI Data Center Stock Boom: How To Invest Wisely in June 2026 - Forbes](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXBndlFqR0pIYU1oTFBIMG56eWs0alN5eUlHZVdGejFxYUlONXBvLXdGbTVvN2hpcnRmQWxHQmxfcnltaUtUZS1xcC1ySmxibFNYWnFqNkZBUVlmWWoyazB5RjU3ZUN3bjV0ekpWVV9FVWtsZnVma0ZlcS1tamg1Q0p1VUdwb2lNeXdxekdnWTFxTmdr?oc=5)
 - Feed: AI Data Center Capex
-- Published: 2026-06-17T20:47:00+00:00
+- Published: 2026-06-17T07:00:00+00:00
 - Tags: data_center, capex, power
 - Signals: ai_value_chain: data center
 - Summary: The AI Data Center Stock Boom: How To Invest Wisely in June 2026 Forbes
@@ -160,13 +160,6 @@ Items in window: 26
 - Signals: no matched signal keywords
 - Summary: Why AI CapEx Could Become ‘Money Down the Toilet’ According to One Strategist 24/7 Wall St.
 
-### [Is AAOI Stock a Buy or Sell? AAOI Price Prediction 2026 - WEEX](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVRJVWJ3d0x4NkU1X1RYRXlOMDdwLTBRWWtEVkhYSi0yNkN6Y0NSeW9HYXhucE55d0Q0MllGdzVPNXZEamhXSE81ZWFFaU1pSnFJSU9VaUI2UlRlRjdvRnBmMDkxQnVDeWZaVEhLbU0zeklIa1BQRzJNZ0Y2TGFtQ2pZalo2dHRWWjk1RUY0dlJIYlZWVlJBVGR4LVZITkVHeHBzUXlRak03bWg5d3ZaN2I3aw?oc=5)
-- Feed: AI Data Center Capex
-- Published: 2026-06-23T08:24:11+00:00
-- Tags: data_center, capex, power
-- Signals: no matched signal keywords
-- Summary: Is AAOI Stock a Buy or Sell? AAOI Price Prediction 2026 WEEX
-
 ### [AAOI Stock Price Prediction 2026–2030: Can AAOI Shares Reach $200? - WEEX](https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0hCaS1ZQlIzaEhKT2t6Q1FnSTNMRkU2azFvZFRFUWFQekVLVnNJMWZfRFIwNXFwZUtnSElIWk12QlQ2Y0JVMEFEWmI1b1cyVDJUdFhsTU5hMW02QXdvbW01OFZQUXhueHY2RE9ycm9HNjg1eDN3NkJrQ1Q5dVBiZG91OFN2NTd2OGltWkIxbFRoamdIUzVjYnA1NnlGejVjMlZHa0swMVBIN1VvbFJvQXBKYk5kVEg4eUVwN013?oc=5)
 - Feed: AI Data Center Capex
 - Published: 2026-06-24T08:19:25+00:00
@@ -187,3 +180,10 @@ Items in window: 26
 - Tags: hbm, packaging, supply_chain
 - Signals: no matched signal keywords
 - Summary: 7 Key AI Hardware Keywords to Watch in 2026 semivision
+
+### [TSMC touts glass substrate gains as Korea players race to commercialize - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5NHRjUFE3RzZ3eU5Ib2hvZzdWUW9CVnl3VUhNaEtxT2hiaGRBQlI0cnZBUG1UczdWQWx1cmxrN0xyME9jX09ISnlQeTZNWXJaeFRfVF9fVVBaYVM3NWc0TVRQc3hzVUJhNjdJbmxtdGJqVG1yZzhTWmxR0gGOAUFVX3lxTE1SSHVna0NBQlBaSWtObXVHX0g5RGw0SjR0ZTNwV3dicnV6V09mNEcwR19wTzUwOHV2VVlrM1dUcVdXQmhFVUpaVS03UlAyelRaUmpkb2VUYkRkVVd4RUtudHdGZXE2bEwyRmhaUlNTbHFCMFpKSzk3VUlJWE1yd1pnOFJrVndSQkppZlNCaFE?oc=5)
+- Feed: HBM CoWoS AI Supply Chain
+- Published: 2026-06-17T21:02:00+00:00
+- Tags: hbm, packaging, supply_chain
+- Signals: no matched signal keywords
+- Summary: TSMC touts glass substrate gains as Korea players race to commercialize - CHOSUNBIZ Chosunbiz
