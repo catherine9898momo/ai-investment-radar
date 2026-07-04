@@ -1,0 +1,34 @@
+{
+  "last_date": "2026-07-04",
+  "round": 1,
+  "route_name": "路线 A：想学投资",
+  "route_total_books": 6,
+  "current_index": 10,
+  "current_book": "The Essays of Warren Buffett",
+  "current_book_zh": "巴菲特致股东的信",
+  "current_book_author": "Lawrence Cunningham 编",
+  "current_route_position": 3,
+  "current_book_lesson": 1,
+  "current_book_total_lessons": 1,
+  "current_chapter": 1,
+  "current_chapter_title": "Owner-Related Business Principles",
+  "current_chapter_title_zh": "股东视角下的企业原则",
+  "next_index": 11,
+  "next_book": "The Outsiders",
+  "next_book_zh": "局外人",
+  "next_book_author": "William N. Thorndike Jr.",
+  "next_route_position": 4,
+  "next_book_lesson": 1,
+  "next_book_total_lessons": 1,
+  "next_chapter": 1,
+  "next_chapter_title": "The Outsider CEO and Capital Allocation",
+  "next_chapter_title_zh": "局外人 CEO 与资本配置",
+  "completed_books": [
+    "The Intelligent Investor",
+    "Common Stocks and Uncommon Profits"
+  ],
+  "completed_books_zh": [
+    "聪明的投资者",
+    "怎样选择成长股"
+  ]
+}
