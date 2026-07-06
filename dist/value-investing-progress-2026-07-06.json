@@ -1,0 +1,38 @@
+{
+  "last_date": "2026-07-06",
+  "round": 1,
+  "route_name": "路线 A：想学投资",
+  "route_total_books": 6,
+  "current_index": 12,
+  "current_book": "Security Analysis",
+  "current_book_zh": "证券分析",
+  "current_book_author": "Benjamin Graham, David Dodd",
+  "current_route_position": 5,
+  "current_book_lesson": 1,
+  "current_book_total_lessons": 1,
+  "current_chapter": 1,
+  "current_chapter_title": "The Scope and Limitations of Security Analysis",
+  "current_chapter_title_zh": "证券分析的范围与限制",
+  "next_index": 13,
+  "next_book": "Poor Charlie's Almanack",
+  "next_book_zh": "穷查理宝典",
+  "next_book_author": "Charles T. Munger / Peter Kaufman 编",
+  "next_route_position": 6,
+  "next_book_lesson": 1,
+  "next_book_total_lessons": 1,
+  "next_chapter": 1,
+  "next_chapter_title": "Worldly Wisdom and Inversion",
+  "next_chapter_title_zh": "普世智慧与逆向思考",
+  "completed_books": [
+    "The Intelligent Investor",
+    "Common Stocks and Uncommon Profits",
+    "The Essays of Warren Buffett",
+    "The Outsiders"
+  ],
+  "completed_books_zh": [
+    "聪明的投资者",
+    "怎样选择成长股",
+    "巴菲特致股东的信",
+    "局外人"
+  ]
+}
