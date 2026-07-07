@@ -1,0 +1,40 @@
+{
+  "last_date": "2026-07-07",
+  "round": 2,
+  "route_name": "路线 A：想学投资",
+  "route_total_books": 6,
+  "current_index": 13,
+  "current_book": "Poor Charlie's Almanack",
+  "current_book_zh": "穷查理宝典",
+  "current_book_author": "Charles T. Munger / Peter Kaufman 编",
+  "current_route_position": 6,
+  "current_book_lesson": 1,
+  "current_book_total_lessons": 1,
+  "current_chapter": 1,
+  "current_chapter_title": "Worldly Wisdom and Inversion",
+  "current_chapter_title_zh": "普世智慧与逆向思考",
+  "next_index": 0,
+  "next_book": "The Intelligent Investor",
+  "next_book_zh": "聪明的投资者",
+  "next_book_author": "Benjamin Graham",
+  "next_route_position": 1,
+  "next_book_lesson": 1,
+  "next_book_total_lessons": 9,
+  "next_chapter": 1,
+  "next_chapter_title": "Investment versus Speculation: Results to Be Expected by the Intelligent Investor",
+  "next_chapter_title_zh": "投资与投机：聪明投资者可以期待什么结果",
+  "completed_books": [
+    "The Intelligent Investor",
+    "Common Stocks and Uncommon Profits",
+    "The Essays of Warren Buffett",
+    "The Outsiders",
+    "Security Analysis"
+  ],
+  "completed_books_zh": [
+    "聪明的投资者",
+    "怎样选择成长股",
+    "巴菲特致股东的信",
+    "局外人",
+    "证券分析"
+  ]
+}
