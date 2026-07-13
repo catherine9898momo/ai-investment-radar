@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "feed": "SEC NVDA Filings",
+      "tags": [
+        "nvidia",
+        "filings"
+      ],
+      "title": "8-K - Current report",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000060/0001045810-26-000060-index.htm",
+      "published": "2026-07-02T09:23:16-04:00",
+      "summary": "Filed: 2026-07-02 AccNo: 0001045810-26-000060 Size: 138 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "SEC NVDA Filings",
+      "tags": [
+        "nvidia",
+        "filings"
+      ],
+      "title": "8-K - Current report",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000056/0001045810-26-000056-index.htm",
+      "published": "2026-06-30T16:27:26-04:00",
+      "summary": "Filed: 2026-06-30 AccNo: 0001045810-26-000056 Size: 178 KB Item 5.07: Submission of Matters to a Vote of Security Holders",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    }
+  ],
+  "errors": [
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "url": "https://news.google.com/rss/search?q=site%3Anvidianews.nvidia.com%20NVIDIA%20AI&hl=en-US&gl=US&ceid=US:en",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "url": "https://news.google.com/rss/search?q=%22AI%20data%20center%22%20capex&hl=en-US&gl=US&ceid=US:en",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "HBM CoWoS AI Supply Chain",
+      "url": "https://news.google.com/rss/search?q=HBM%20CoWoS%20AI%20NVIDIA%20TSMC&hl=en-US&gl=US&ceid=US:en",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "url": "https://news.google.com/rss/search?q=China%20AI%20data%20center%20chip%20cloud&hl=en-US&gl=US&ceid=US:en",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
+  ],
+  "lookback_days": 14
+}
