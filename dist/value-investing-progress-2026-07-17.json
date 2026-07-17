@@ -1,0 +1,32 @@
+{
+  "last_date": "2026-07-17",
+  "round": 2,
+  "route_name": "路线 A：想学投资",
+  "route_total_books": 6,
+  "current_index": 9,
+  "current_book": "Common Stocks and Uncommon Profits",
+  "current_book_zh": "怎样选择成长股",
+  "current_book_author": "Philip Fisher",
+  "current_route_position": 2,
+  "current_book_lesson": 1,
+  "current_book_total_lessons": 1,
+  "current_chapter": 1,
+  "current_chapter_title": "What to Buy: The Fifteen Points to Look for in a Common Stock",
+  "current_chapter_title_zh": "买什么：寻找普通股的十五个要点",
+  "next_index": 10,
+  "next_book": "The Essays of Warren Buffett",
+  "next_book_zh": "巴菲特致股东的信",
+  "next_book_author": "Lawrence Cunningham 编",
+  "next_route_position": 3,
+  "next_book_lesson": 1,
+  "next_book_total_lessons": 1,
+  "next_chapter": 1,
+  "next_chapter_title": "Owner-Related Business Principles",
+  "next_chapter_title_zh": "股东视角下的企业原则",
+  "completed_books": [
+    "The Intelligent Investor"
+  ],
+  "completed_books_zh": [
+    "聪明的投资者"
+  ]
+}
