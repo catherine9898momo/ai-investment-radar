@@ -1,0 +1,36 @@
+{
+  "last_date": "2026-07-19",
+  "round": 2,
+  "route_name": "路线 A：想学投资",
+  "route_total_books": 6,
+  "current_index": 11,
+  "current_book": "The Outsiders",
+  "current_book_zh": "局外人",
+  "current_book_author": "William N. Thorndike Jr.",
+  "current_route_position": 4,
+  "current_book_lesson": 1,
+  "current_book_total_lessons": 1,
+  "current_chapter": 1,
+  "current_chapter_title": "The Outsider CEO and Capital Allocation",
+  "current_chapter_title_zh": "局外人 CEO 与资本配置",
+  "next_index": 12,
+  "next_book": "Security Analysis",
+  "next_book_zh": "证券分析",
+  "next_book_author": "Benjamin Graham, David Dodd",
+  "next_route_position": 5,
+  "next_book_lesson": 1,
+  "next_book_total_lessons": 1,
+  "next_chapter": 1,
+  "next_chapter_title": "The Scope and Limitations of Security Analysis",
+  "next_chapter_title_zh": "证券分析的范围与限制",
+  "completed_books": [
+    "The Intelligent Investor",
+    "Common Stocks and Uncommon Profits",
+    "The Essays of Warren Buffett"
+  ],
+  "completed_books_zh": [
+    "聪明的投资者",
+    "怎样选择成长股",
+    "巴菲特致股东的信"
+  ]
+}
