@@ -1,0 +1,756 @@
+{
+  "items": [
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Amazon Lifts 2026 AI Capex to $220B, Still Capacity-Constrained - Data Center Knowledge",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU004dGJtU0c4Z2lmMmdONnEtd0NsZGotNTBWVG5wNlNyYlBPYWxhN3NaenNzdG05YWt4SUJGdWhXUUJlTV9rY1Y4dGdLcVVpQV9MNXNJSldtUTJsSVIyYkF4Z3hDWnFNdlZ5SXA4cW5HRXZFQ3ExdHhXUWYtUWlfaV9ET29NN1A4UnZqSThTVnozT3BUbkFkVGE2aFhVMW9SRlBOaU5OcnUwQlNwSHQ4eG1xUDBXZ3l1blB6aVhWTzBUeUs5?oc=5",
+      "published": "2026-07-31T19:11:48+00:00",
+      "summary": "Amazon Lifts 2026 AI Capex to $220B, Still Capacity-Constrained Data Center Knowledge",
+      "signals": {
+        "hard_signal": [
+          "capacity"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Zhipu AI's stocks surge 40pc on its Chinese-chip-powered data center - thestandard.com.hk",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnRnZFBuQXBDR25pZHNQb0VRSW55cXpRb01HRXQzSnM5VmMwZmUtTng5Tmw1ZW5nTE9aVGdwbzJfUVBGR2oySzF1elRVYjJic1cxdzhYNy1vUDA2WE9BVTVyMFJPN2lNblZDM0plMklaRXFuTkVjVzM3SVNKT3dvQUJGVXpDWjVmWE1LS2dFVHphaGdqNEVVWWcwaWE3ZFlvT1pvSDRnWjJVRE1FNmRzOThxY3FZN3FUMTVNYUJEYmJ5UQ?oc=5",
+      "published": "2026-07-21T07:00:00+00:00",
+      "summary": "Zhipu AI's stocks surge 40pc on its Chinese-chip-powered data center thestandard.com.hk",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
+          "power"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZXhNSW9TSjVybFBBN1BJT3l2N0l0RDJIRDJ5bjZzR1RfUUFoZEpZNU5FVlpRUHVNenNPbGR5X0l2b2dVeHV0dDhoZHhqS2c0a29yOXZ3V2FtRElzRGs2a1NidmlIVWRMOS1ka19iaERsQnk3WUVQdURqQWlDdWk4VWZqWHFXUjhLVWpBNWVJOTBHOVZIbWxQVFJzQUJuVmE1ZjNzWDFGcldEOFJ3bVFJZDg4QkNKUmtIcG5lRVQwUU5uVkUxRHBxbWljeDVWWWs5azh0OWxKekdDWENoQ3RVeVB1TzVtVFdkODNMM1FNT3lha1hiY1RCRmRkN1F0aVhW?oc=5",
+      "published": "2026-07-27T00:54:56+00:00",
+      "summary": "NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "agent"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeGJaWm00VkNmUFlfYzRnUWRyeHlOMTRjY2NkYVh6VHJ1eURJTjU2VXdyQ0Z3TmtqRGZ2OFVPU2hkdEVxRFVmRHNVZ1RqT3J2bDNQVDJNQmFLblVJTU0yV0tfTENNOWtubUF0WWdYUEhzeGRQaUJ6MlZWeU1oZjJRN2g2STBnZDJOdGRwZ2pKSTV3S1JQZndFY3lncEJ5eTZBSkE3VnNsNkdHTVFjNnczZkV6MEIzb25uYzVhY1lINk4yeVRuLVNWVE4xSUM2NE81eUV0UEpmMDlBOElYTl9jNHY0b1VKZw?oc=5",
+      "published": "2026-07-20T07:00:00+00:00",
+      "summary": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting AI Agents to Work Building Simulation-Ready Worlds NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "agent"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "5 Notable Data Center Links, Aug 2 2026 - Data Center Richness | Substack",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkgteE1ORkZzVFMtZy1idlFjcFM0aGFXcmlGSVNyRTA4U0VaOTg4elVOM3Jid2FsYnd2OTEtdXJNTzNOXzFCdTVVZ0JaNzF6OXJDYXZiel9zck9qMXh4REJaMmQxVlNidFdBNXNEYUtLc3VkU19QT25XMTFyeWpvUw?oc=5",
+      "published": "2026-08-01T12:43:26+00:00",
+      "summary": "5 Notable Data Center Links, Aug 2 2026 Data Center Richness | Substack",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Google goes cash flow negative for the first time as AI data center buildout increases capex to a staggering $44.9 billion in a single quarter — CFO warns that capex will increase in 2027 as company banks big on TPUs - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYkNWVjNqSzlaYnhITFdQNE5EX0d4Tk9NLThjWjZ2amx2THN2M2ZDS0xINDJUQnl0V0o2OUs2RnNVVzFTSWRnMXZCWWpMN1lvdkVkc0JkYVc3dG42c1FRX2tFMUJhYkE2R3pNRF9WVVRYdDlWdEpoUVhUblFUaU5FTEx4Ri1rOENXakFfR21vU1VwYVZvYXhneTRiUzRFa3U2bkpyNUtkYmNQX1VWVkZ0aWRRZXh2dU1WLTNQUHBveWJRVmpWWDBvX1ZJWGw1NEticUV2dWYtckEzTGRFQV9yNDVyNzdIZjdJWld3Q2dPcmo?oc=5",
+      "published": "2026-07-28T11:12:23+00:00",
+      "summary": "Google goes cash flow negative for the first time as AI data center buildout increases capex to a staggering $44.9 billion in a single quarter — CFO warns that capex will increase in 2027 as company banks big on TPUs Tom's Hardware",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Microsoft keeps capex forecast unchanged, becoming one of the first data center giants to hold the line on AI spending - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXpnVl9jUlRXaHctcHJVdDlBWE9oLU5VYnlHT1NDT0UxdGlkcWNpR3VmdzM3clFseXg2T3RQQmM5bVBMcjJ3bk1QZ0ItY3FOTkNsWWtGaVNoSDI1bzZ4SGRCd1FzNTJZMFEtN0RkX2lZOXZlZGhRcncyU0huaXdVNXFsUUlpX3BOakxqTDlROEcxcGYwR1FIV0xzWk5sT09pNHFR?oc=5",
+      "published": "2026-07-29T22:04:00+00:00",
+      "summary": "Microsoft keeps capex forecast unchanged, becoming one of the first data center giants to hold the line on AI spending Business Insider",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Amazon CEO Andy Jassy Just Sold $25 Billion in Bonds to Finance the Company's AI Data Center Build-Out. Amazon Has Committed $200 Billion in Capex for 2026. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUlKMDN2VE91RERvdU1ia1NHQ1Zod2pwenRuV0lKcFRpSjZCbnVSZnA4NkxXcF9pRDhFbWtKVi0xWXlQa2ktNVFEZjNIR3VZYXBpZURmNDdyQ2pCelpUQnlES0RPNDNDc3pxenYxSFlLRkZPSUdzZ2xCZ01CNXNxR2Y0eS1RNmdBd3htbXo4ZUVOekp1SnRrbQ?oc=5",
+      "published": "2026-07-29T09:05:00+00:00",
+      "summary": "Amazon CEO Andy Jassy Just Sold $25 Billion in Bonds to Finance the Company's AI Data Center Build-Out. Amazon Has Committed $200 Billion in Capex for 2026. The Motley Fool",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Meta Turns to Joint Ventures With BlackRock to Finance 1GW AI Data Center - thelec.net",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBidUphSVN1enlmU3pmVkpVRTBQdmlCZHBTOVc3cFlQdjZfQ2tmS0xPUThDUndaVXJSbGtqM1lMcDVVNy12a2RNdFh1YjFMaVIwVzl3OUhvUVRDekhwcUstSE9TVUhIelU?oc=5",
+      "published": "2026-07-31T07:32:44+00:00",
+      "summary": "Meta Turns to Joint Ventures With BlackRock to Finance 1GW AI Data Center thelec.net",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Google increases 2026 capex to $195-205bn as it accelerates AI data center buildout - Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0NmMTUxZFRsVlcxM0hTZVQ4QXQ1RzdrTXZDdDJDWTI2WmdYTFlhMkRfdWplZjFrU2NsQWF6Qmx0R1ZVNGdYbl9rMU9JMTlIa2MyVUpwSXhwWEdicEN5REN2ZXpDVUs4ZmI4bmo5bHpjaFkxREpjamtlRklhN09tYk91VEpNR3R2NXZNRHJRdGNITF82ai1qalBZdVBEMU56cFRSdldlVUpldGI3T3pUbldVenB6TTRGb0p3bEp1QVc?oc=5",
+      "published": "2026-07-22T22:03:17+00:00",
+      "summary": "Google increases 2026 capex to $195-205bn as it accelerates AI data center buildout Data Center Dynamics",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "IREN, TeraWulf, and Applied Digital Are All Down 30% in a Month. Is More Pain Coming for Data Center Stocks? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQczB3Nm1XWVZmR0pZZTFCRi1GUlQ4bEpZZjBIZFc5cXU5TkVIWDQ3elhUQmIyWXlkd1N6b0taSHo5blNHSGJtOXRIb2o4OE1iN1NINXQ0NkJMX0RPWkMyTm9pazdGaTJ3TUYtbkJIQ0pkclc3ajBvMkRRQ184RlN5NWswbnJqSzFuLTFtVWlWR04yM01RY3ZwZ1VEandpSkpuOFRrbVVSSk5sa2lDbm51bFIzQzAweDFhOHRpZlF4OUNPTXN5SjR5UzhEcS1raWNpYjlkejJaNHFuV0RSTW9uVA?oc=5",
+      "published": "2026-07-29T18:11:24+00:00",
+      "summary": "IREN, TeraWulf, and Applied Digital Are All Down 30% in a Month. Is More Pain Coming for Data Center Stocks? 24/7 Wall St.",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Amazon CEO Andy Jassy Just Sold $25 Billion in Bonds to Finance the Company's AI Data Center Build-Out. Amazon Has Committed $200 Billion in Capex for 2026. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOdWJIVlRVMFE1Sk9pRWY4aW5BUF9UNjVsZnJCVFpLczJhWjJjcDVWa0kxanJweUhiZ1JRMG9Ga09jSC1rTEpSanVFdW9KZUpvZFdScDdzSjhYR2JOR1NhRWtSRU5kT1J3ZzZNUlA1aXZfN3NBLU5nTGk4TVhSeWdWN0E5VWtfbUM5SmlnenRMTU5HOVJiQ2lGc1Q1bW9lZmpWMkh0a0h2MVNMVnB6MEoxb1U4ZTJhU2ZiaURhSmR0SjNXemRDMjZORVh3WXMyd19MVFBWYXh6cDFMa0F3MGhGdmR2RW0zamdOektNNHo1bU00eENQejB0bmpWVkpJY1NtenZZcmtmVnctUUNqbllDRlloaEJUOW1CWnJOYVBGckJCOWFmV2hMbmZPZmVlRVhhR2FValFWZXBxUmNzaVEyMHBORG9SQ1o2LVpTZTFwcEh1S3VuUmI4?oc=5",
+      "published": "2026-07-29T08:55:59+00:00",
+      "summary": "Amazon CEO Andy Jassy Just Sold $25 Billion in Bonds to Finance the Company's AI Data Center Build-Out. Amazon Has Committed $200 Billion in Capex for 2026. The Globe and Mail",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjhpSFNLSW8yUURUZHVTRVptR2liRFNaVkpDalFYMEVwNGRPU3Foc080RnRrQ3FnUUs0NE1FMm5hanc2T1E3VG1lT1FVS2ZZc3Z4MWMzXzBkNkJIUmRSalQyQXJ3cmQwQXhEMlVabWxudjVZU24tRnhCelVEZ0N3blVyUm9VdUI4LWxYX2gyQzE?oc=5",
+      "published": "2026-07-26T17:15:00+00:00",
+      "summary": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom? The Motley Fool",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "I spent 4 hours at an AI data center town meeting. Things got rowdy. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNF9pVm1qQk4tOGpnSTl5RVZ0YmtiSDZlbkZ3ZU5TSFlPNk54SVZEQUZKNDh4LXRrS0NrQmd2a3ozb1loYjJXenFzc3ptYTluQm1qLTlpR3hXMlg3RGNhY3FUdG9MTjNWZjNtNm14YnFzY3ZNWEt0ZmdmMWZFS0pMVGljSURJWE4xWmlNZ3NlSjdGLVBM?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "I spent 4 hours at an AI data center town meeting. Things got rowdy. Business Insider",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "NVIDIA Under Pressure But AI Spending Isn't Slowing: Buy the Dip? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFNVcXI1VVA1TUhiVnIwVEwxUWdNU1Y3NFRlM2owYW9UYzFHeVdjbWhzSXhYX2FkZkhCTUNreXA1QTlQQnhrVHBBMmFnNnV4OHVFNUt6TnB5VjF6dVpJc0RvVjVrN01JU05QTzZFSW54aENCRjZQaFBSdVZOMXFqdzBSWGZnVDN6R0RXel9ZTWpDRnJHc3VLendUeXhUcUE2YzZVU3IwdjBmOHVaamowcUtnODJDdTRURmJV?oc=5",
+      "published": "2026-07-30T14:20:00+00:00",
+      "summary": "NVIDIA Under Pressure But AI Spending Isn't Slowing: Buy the Dip? TradingView",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [
+          "slowing"
+        ],
+        "ai_value_chain": []
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Google’s $205B AI Data Center Bet Rattles Wall Street - CRE Daily",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYWxVN2xCQW41a0RlLWVaeXFsdE90T0NDWWF4WDdGVTYwc3ZyR2VCM0U0ZnIzbXFoVmJyT21uQ3c2S0tLeGRPeWlsdjFnQlAxb2xOemtZU291aFBUdDRUUlc4OXRaVFA4NkxGUlNPVjVodHRTdHhqYnNzdW1kaWYwRHpVRmtnZkxVRlZGekJn?oc=5",
+      "published": "2026-07-27T06:39:42+00:00",
+      "summary": "Google’s $205B AI Data Center Bet Rattles Wall Street CRE Daily",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Meta raises 2024 capex forecast to $130B, boosting AI data center investments despite profit drop. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORElXZGpRaG5nNFVNck1WSDdzb0RGb0hoS1QzdVZDaV8zNWN3RlpzOFVMY1BLTFFTdEd4bVNscHVEUmowQWQ3dUlCdkVoR0RoeW9mOHE0ZHVwbjBKdm9MNWlxckRmaFdsYnFYNWphZDk4WWtUSUs3TXBrZXdDaEJ3REdB?oc=5",
+      "published": "2026-07-29T21:04:30+00:00",
+      "summary": "Meta raises 2024 capex forecast to $130B, boosting AI data center investments despite profit drop. Pluang",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI data center debt has climbed to the top of Wall Street's credit risk watchlist - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS0xoVVgtdEJfMmR5NVVmaDlQZk5DYmxjazlhQnNFZThlRDMwYThSZGplaDE0RU1Da1U0VjZCMy11UG5HcUFFVktISG9KRjVDckxtMFBFTWpxaTN4WXVlVTF3SEpJTzZ3aWREbEZyYzYwc1VVM3cyOGZZOXdpRkdpamJnNHVQM0ViMEhtdzMzejBadnJBZXd0TTZuWmZnT1FSYWYxNzBJdlJGMTd4?oc=5",
+      "published": "2026-07-22T10:07:10+00:00",
+      "summary": "AI data center debt has climbed to the top of Wall Street's credit risk watchlist Startup Fortune",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Meta’s AI Data Center Plans Look Costlier Than Wall Street Thought - Finimize",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmJvWHl6UG1hV1NDNFVyNHdzYWhxSjdKRnNZV1NPTEJ2a2hFbEhFa1lobW8yWlpGWWU4QmRCeUF2VEJkOUgyYlFGYzE1UzRoMGZDZ0todWJMV3JLaVZFQ1hMN2NiNXBfTy1qSlR5QXBVaFdoR0JueDZ1aFYzUE1qQUI5QXRxZjFBQnNPT0dIblFGQjhPS04yTVlR?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "summary": "Meta’s AI Data Center Plans Look Costlier Than Wall Street Thought Finimize",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Alibaba: China AI Policies And Robust Competitiveness To Support Cloud Growth (NYSE:BABA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaS16cUJjOGl1djdxZndOVWJUMjZhZFd5dXI2TmpzTDJNRmIwaFpoWWg0QjRfWjdsdzZjY3pnTTNEVjkxVTZsLXNWZTFVci1tZGkzUmp4RmllTzZxQUctVHFmeng0UUpNdzFpbndlNnNrXzBEalNKS3o0eGkyaDI3dlU1bG0xaTVfclZvc0YyLTFLUE5ua29Ubm0tMUNfYnptYVZGN0xvSmUtWS1RRVdrck5peVhVbWFB?oc=5",
+      "published": "2026-07-28T08:57:04+00:00",
+      "summary": "Alibaba: China AI Policies And Robust Competitiveness To Support Cloud Growth (NYSE:BABA) Seeking Alpha",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "China's Z.AI Completes 1-Gigawatt AI Data Center Using Only Chinese-Made Chips - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2oxSzJXeXFGX1RwTlhyRXJCdHE2LTI2OVRHZEtDcHZTMjRYUFVKMHFrT2NWQVRvSlNma2h0WkxlUG1CaDhCOUN1UkpJWWhENDMxMnpTbnhLMk11bzZqSjhmVm1Xb3JhbWFPVjdjUUlHT3BZV1J6UFVIbG1sNFhtbGgxcU9YSHlVaFlZLVdiUmRZOHczX0ZZNVFPNmRsYlRxYUhRQktxMlhqTTlDVHczNVg4MkE1dGw1X0QtdHJyV2dxLVFySTZBYzB0TDJERXctYTMtTw?oc=5",
+      "published": "2026-07-20T20:55:15+00:00",
+      "summary": "China's Z.AI Completes 1-Gigawatt AI Data Center Using Only Chinese-Made Chips TradingView",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Chinese AI stocks: the full landscape from chips to cloud - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHlUbnRJWFhYNUsxWE9GYzUxc2F6Uk1aamEwNmF0dG9rQ0ViZ19aZkVOMTB1UGRpNEVpYXp6SFBYd3NHdHV2SHFBMkt4aUFmTEN5WVdPY3ppMlBPcFlreHY3SkdqajdodlNMaGNQVjdUWEhNUTRHcE9MYnIwbXg2VXFVR0t5SFcwVDd0MXRaV25sMi11S0M4SThhTEpLRnBZckYwMUlmQTAtdlUzTGZVSXF4ZmNvOU9LeGc?oc=5",
+      "published": "2026-07-24T00:55:31+00:00",
+      "summary": "Chinese AI stocks: the full landscape from chips to cloud Investing.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Chinese chips data center: Z.ai builds a gigawatt AI hub - Lapaas Voice",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jRGhPelpBQ21sN0hWaFJEZ0tua084dGkyeHI1R3RhUzhTZ2FGNkdmYVpmUlA2RTdsbXZkNi15eVJJU1ZfSFREOEwzYzZPaW5hd2hvVzBSWHE1WHVlQmFSb1FxZjR6RlE?oc=5",
+      "published": "2026-07-21T05:26:09+00:00",
+      "summary": "Chinese chips data center: Z.ai builds a gigawatt AI hub Lapaas Voice",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3gwdE5oOS1qX1RMNVc5bVJXU1hzZVV5U2hoM0JIMDFRYUZrdC00ZUZpR0FDelZ3b3JfRFJJVUNZZjFzdTBrb3Y3bTBmb3pWbWNMem1IZXBnVTdaWkZlREdZeGFVc0xnXzNXZXExLUZJRDlZOG1ZMC1LaXFMYjNmNUx2amMyM1RWb3R6bUZVd19DcnI4UUlSc251RHlWM3VCdlhYMkliWjR3UnBodDRZTl8yTUdoVnZieGhzZHBsWTFoZ3FScnZLUQ?oc=5",
+      "published": "2026-07-27T17:40:15+00:00",
+      "summary": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVpVTkZFc2k0UUJxejF1dFlJTVBiaEc4MmNRV0REczlKSVlCdDNuZUtOWmJtY3ltLU1ZUS1COXpWUUJ2bzJiR1FjamZmRTY4TVJodUdqcG1rQzRGTjl2WTNlV3JvZzNhNmU1blk0ZTViNEhDa1E4SURDWHJRakw0aHBSUXlYTEEzeFFwYVVFUEVlMGdUQ1RLZ3FaWXhWMGlwTkxwcEU4NW12b3c?oc=5",
+      "published": "2026-07-29T23:12:43+00:00",
+      "summary": "NVIDIA Sets Conference Call for Second-Quarter Financial Results NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NAVER, NVIDIA and Brookfield to Expand Korea’s National AI Factory Infrastructure Buildout - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUgwcXB5cWpkN0hwSFBabzVzQ3ZRYzJiVFRCblk2REpiM1J4X2xzTHJuSnR3UU5XRkluWkw4VEhFTWRJWjlrVkdwMTdZdzR0SG9JbURhZzBjV2dnNnZyTUZibXdvbHZXdmc4SFZPakgzcVZtOERNdmNzYUhyd3FEenFkc2N2VGJUaWRFSDNQSmNjTTh1M3k5a1J1MDJNZm9uQVdYWVA5MWlVUHJkOW4zazdhNE5OSzFVVGdfajFoMWM?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "NAVER, NVIDIA and Brookfield to Expand Korea’s National AI Factory Infrastructure Buildout NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTNQTHNWZE1BbWY3Y1RVVno0Nnoyc1RvZFZQVTRLMEdTWDhQTnlTeDJoYU9pcFBBQTd0RGpGSDh6N25UcG5KeDFnUjNXNjd0bXJaZURDSHdsV2tjZ1I2UnBhWGkwU2NnTTd5VWNJOXpxeGEwSzFxSzF2UVFmd213R0RMa05od1pwM2J6TjZNZHl2RW1XanVOa0FPblp1eXNxSUlPelJpZ2FtZWZNUHUtNW92VHRDUnJy?oc=5",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWdmVzNHOG9UWDV2VnM0ek1kOTlMSDMydklMbjQzSDBSUWVYaGFJeFQwZk9tR09qNDVtMWlHS2pIUmVHVGxoOVFPSm1LYS1UUXdzNnNwa2U2MUVGaXFJLWVPb1NvNlN1OWhCX21OR3ROa1FjVFVsVVpuekRLMGVDYWw0SzBnMXRGMGY2ZlVXalpHVktOM2xhVlprcXpDLVV6WUVLdUFCOW43TkM2dW9lTnpBbS1TZ1hYd2pOMUMyc1lrVU1YaERxaWRR?oc=5",
+      "published": "2026-07-25T05:13:03+00:00",
+      "summary": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "SEC NVDA Filings",
+      "tags": [
+        "nvidia",
+        "filings"
+      ],
+      "title": "SCHEDULE 13G - Statement of Beneficial Ownership by Certain Investors",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000062/0001045810-26-000062-index.htm",
+      "published": "2026-07-20T17:00:07-04:00",
+      "summary": "Filed: 2026-07-20 AccNo: 0001045810-26-000062 Size: 8 KB",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Why the memory chip crunch is greater than expected, and may not ease until 2029 - Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTc5a0lDYlc0VWhwVmhoWWtpMUI2c01wSTRnTGNHWC0ySXo1QW11U2lZdDJmTktOeHZURHpIWUJjcDliNWJhcklENk9USFhqemJYVFhTZm9XTHNXUDB4bV9icEZHaUJTOHd2eTFYaHlEQ1oxek5keVVRcGZ2TUttUFQ4QVZsLUlVTGVDRnJlY1ZhMzRJcUNwV3ppd1BrTFhuaXZSdEJzQV94TVZjejFrdFZB?oc=5",
+      "published": "2026-07-28T12:34:51+00:00",
+      "summary": "Why the memory chip crunch is greater than expected, and may not ease until 2029 Deloitte",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Bond market anxiety is growing over AI capex budgets - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wQmNtYkVyYmxlTXNUZm1rSU5uN1U3WUE0cUF6SVptYnJ5aXdjcTdleklsWkJGOW9wQ1JrekN6OEwyemUxbXhlbzN3SFlrNnoxS1BnYXdicGlCaTNKRnkyV2VjUGlyWGtwRm1RbEdpUE1qQld4aDgtNXRWWndVQ0XSAYQBQVVfeXFMUGp5OUNpa1FGZzZFbzdDWC1MVGdhRFJ2YVljejFPTUNQdWhOemtyYWxvTjNpenZlQkZ0cHhUelRtYnlIOVN6bUFsS2ZWdjRhLWRlWWpxYklWSGdPQ2tJRkVCMElBZ3VKZU5OaWtTZ2ltRVU3WnRwWElvRzdnclRZdXFDMDlx?oc=5",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "Bond market anxiety is growing over AI capex budgets CNBC",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Why Amazon (AMZN) Stock Is Jumping 12% Despite a Massive AI Capex Hike - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zMWhyV3ZJYzlEUzdXRzFjc3MyODlubkZidkVaRml4R3FfN0NqRTAyVHhvaEV5WWJGYnZDeWFyeFZTM3NFMVBEdXRwOEdOampuQU5DcmRhdFg4QXFiRDZfcFJHSlZWRXlYNFI0UmhZWXYxM3JidENNQw?oc=5",
+      "published": "2026-07-31T09:57:00+00:00",
+      "summary": "Why Amazon (AMZN) Stock Is Jumping 12% Despite a Massive AI Capex Hike Barron's",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Bull of the Day: Sterling Infrastructure, Inc. (STRL) - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNVM4TDNyZ0lzRHhFa0NZMGt2RmNKUDl0aTcwUFpWY2lxdDZRYVdNOTNvT0FYbUNQdjc0YVRQNFJLVFBYckFwYlp4N3dWcUphM0cyd0RlcHRIMmd2R0Yxbk91cU5kUlFWUUNCWU9XZk4tMEZMYkF1a1FSQk1iODk0SmlNWDVULTVWOWxEUEFNd2JuWGQ3UU5pUTR3el9jUTRRYkRWaG45RE1EcmdJMmo2Yzl1bzNEZ0tfV2ljVzBsZzJnd3Z1Ry1teXV3YmR5Zw?oc=5",
+      "published": "2026-07-31T09:06:39+00:00",
+      "summary": "Bull of the Day: Sterling Infrastructure, Inc. (STRL) The Globe and Mail",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Equinix lifts 2029 outlook, doubles capex to US$7 billion annually - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcl9HcDRhbHk3b1lJV1VHTmpIMUtIM2NSX0xvcEpVRWhmM1lhZzUwZXI3bTlkc0gtaVFPclNGZDQxRDVxZS0tM3JxT18ta0hNT0xoWC1xTVlTbXRsRVpIVC04c3hSWHBSS3prRGdhelhsUHFzSzdqYmNiQlpCNUtqdjZSNF9BQm1JQTQwUFB0elZSSENOVUpEMTdLM3B4bVNkUlh0SkxVNjhwbGhQNm0yMEthazhOc0c3emIxWlhqZVZlYUpZb2VjaE9HQ2dyT19QNjZhaU5ZdkUzdTN0MXc?oc=5",
+      "published": "2026-07-31T03:46:52+00:00",
+      "summary": "Equinix lifts 2029 outlook, doubles capex to US$7 billion annually Indiatimes",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Sterling Infrastructure and Tractor Supply Company have been highlighted as Zacks Bull and Bear of the Day - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZHVoeEc5VzE3aUxtQlBQel9mRzNKeXhycE1QS2FuNzdrRkRJeUN0ZmVxcVc4RnI2S245SzZZRHNkR3NvdmdidnhYQ0NRaDZJUUZyTjN3OTNKVmM5bzh2cmhJdG1xLWVsZ2ZxaHhzSWZsLXVuX3ZHTFh5OEtsUjBKUTRmWGF6WjVfbHhjSWJJQzd6ZHR4LXpnVVpROVAwb01xajktTGs2cjBUR1ZHeWdQMnp4VzM5dVctMFNFajFhRVg5Y09Udy1kblF2T2Q3ZzBaeFRFcjQyU1FJZjM2endqUjBrWGRVZnJpcl9DSTduNHNPT0pHdXY1UFBWckVfZ0h5TXdodXlUM05WcjRqMlN4U3dkbllrQmNzNVpn?oc=5",
+      "published": "2026-07-31T14:58:23+00:00",
+      "summary": "Sterling Infrastructure and Tractor Supply Company have been highlighted as Zacks Bull and Bear of the Day The Globe and Mail",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Alphabet raises 2026 capex forecast to $205B after Q2 earnings beat - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MbGVfYXh1RkZGOUFlcVVMSnh3REtwRVlDWXFVSkJsVzBQQ3JSZUNsM21fZUNTeEJsdW5HckltZWVUOG91eUQ0TUozcTdpUzB2VkJoNlZCQkV2aFY4bkx4eWNn?oc=5",
+      "published": "2026-07-30T14:33:31+00:00",
+      "summary": "Alphabet raises 2026 capex forecast to $205B after Q2 earnings beat eciks.org",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Forget AI Chips and the Mag 7: Buy AI Infrastructure Stocks (VRT, EME) Now - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzVmY1laYlViQkVZZzJ5VDRVN3BlcjFsd01jbnhTUWw0ZndEc0xQb0JSb0pLeUl0MlhsNkNnM19jMHZ3ZmlMaHJ6djJkd1pxSGZzRGdhSXFQV3NxRUQwWVFwQjFLR25DSTMzNkdBODYtbE01ZDVaVXdiRlFERE9UeVFJcVpJVjZXRi1jUUhFa0Rlb3d3X3lGMC1FVkdkWmpQZDAwYWJIeGRyTXVaVkpYZG12Y3BrRGhlc3J2TEpvZzFiYlRx?oc=5",
+      "published": "2026-07-24T19:28:00+00:00",
+      "summary": "Forget AI Chips and the Mag 7: Buy AI Infrastructure Stocks (VRT, EME) Now TradingView",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "The AI Buildout Ran Out of Electricians. The Fix Costs Seven Hours of Capex - Business Model Analyst",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2I0bGlsMV9sdXlLTDhnendJdlVNYnpZUWdHSEVvNFlvUWRINVdGVGwtZ0prTzUzd3FVcUNqU3ZzYV9OSThiOUhEQVlNaTZ0MkJ1OXRYNEdVMHdyWm96ZnZ5YkNxdUVPSEhaTmQwczAtWU5aNHlEVTVEalo5RWxaMA?oc=5",
+      "published": "2026-07-29T13:48:21+00:00",
+      "summary": "The AI Buildout Ran Out of Electricians. The Fix Costs Seven Hours of Capex Business Model Analyst",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Z.ai Builds Massive AI Data Centre With Domestic Chips - silicon.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KX3pTODdXWF9fUFlZUmxULVMwNFBIaWVMZDhTcGM3TzhoZnk3SWVQTThDOWVtNExXb096VlBkRzlrb1lORlJDaFowcHVBQjVXWmthai1tTzR1UUZ3bld5ajhRVHN1bmFES0JRMFZvbjl6SDDSAXhBVV95cUxPMkUxckh1WG5HcDc4VFEzQzdQejNVVTM4N2FaQ0RjV0trcUU0aVVGTFN4WnVUenZhVjZMSFltZUgzVTZwS29WQUNTRER5ejltYXA0dXJ1cmlxQlA1M2x5V0lDa0ZmOWFBc3NqLS1TaEZUeTFHVlN6dXU?oc=5",
+      "published": "2026-07-22T07:00:00+00:00",
+      "summary": "Z.ai Builds Massive AI Data Centre With Domestic Chips silicon.co.uk",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    }
+  ],
+  "errors": [],
+  "lookback_days": 14
+}
