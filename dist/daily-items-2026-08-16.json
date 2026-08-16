@@ -1,0 +1,481 @@
+{
+  "items": [
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race - digitimes",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWtnSFpnc05obzBvU3J3R0RHd1czTXdHVFBaOWJKR2hTZ29xXzNaZ01NOUR6TXVDSU43ZkZMdEVwSG9kSUNPZ0s0UkRpZmpTZ3E5T1FUbnB3WDBlbW51QVdoMXpqamJfTFpaVnJ1ZngyN1dsZm1pXzlLS3k5UkE3aHRpTDdMSEZHWkVfZHBHSUZZbW9NNXZvbDY2dFFINzBtNTNuNk4xN3RxdVhLOG81QmM1cXB5V0xJNGV6SVR3?oc=5",
+      "published": "2026-08-14T10:46:45+00:00",
+      "summary": "Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race digitimes",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
+          "power"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "WEC Energy Group Q2: New Entry Prices For A Key AI Data Center Power Play (NYSE:WEC) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkdhQldfcEdYMEFxVWFMUUhwSTZRZG9SbHVfdmtyLTFiS2F5blNIWExlcS1HWkd6Z2Qxa0kwR0EtM3ZOd1hVZGpSTzFXRXhUVnpVNk1WYzU4TDN5OTZMUU1Ic0VGTlhSVnJ2REZRTUpNdXdfVE92RXBVU2NacDZKeTBzVTNYVk05TE9LdG9YNTZDQ3NzVXdZakNuOFpiWjFaTmJrNDRKUmRtemJIbUd2R1FWcw?oc=5",
+      "published": "2026-08-07T08:50:48+00:00",
+      "summary": "WEC Energy Group Q2: New Entry Prices For A Key AI Data Center Power Play (NYSE:WEC) Seeking Alpha",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
+          "power"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI data centers and power solutions drive major investment themes heading into 2026's second half - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TS3VpT0NwN3ZjakRySUFlTWhHNWFpYkJ5SmtlWm5iRzVPSDFRNW5ER0E1OGx4SlRuQmZvRThyaGExdTBxcDVkbEsyUFQzOGI5SWhKMWZHQ21jUVZjZG52N2dwam9Mc2dncTNDOTItMGlzS0dWaFd6VE8zQVRvQQ?oc=5",
+      "published": "2026-08-06T15:03:07+00:00",
+      "summary": "AI data centers and power solutions drive major investment themes heading into 2026's second half eciks.org",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
+          "power"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "BIS Targets Legal Cloud Compute as China AI Firms Bypass Export Controls - techtimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMDdwRjlnRnFTYjVQb3JSZVNMLVE3REVWMkY1U05qdVQ3TXcwLWkzb1RGV2R5YjlrdWMzRUtVSGhxMjloaUR2RjFkLUsyNXVMYkpPZjhFWDhYSzFJQ0tyNkVPN2NYZGlWTnVkOENlUTR5dnNPT2YxU1NJOXFYWEZuU1lDQ0ZINkdhOUdsU2VmMTA4YXl1TXJUdDVKdGstU2NTQ1RCOTltMkdQSzNnQ1k5M2FvN3FWSzd5NVlJcTVQUXVlQQ?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "summary": "BIS Targets Legal Cloud Compute as China AI Firms Bypass Export Controls techtimes.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [
+          "export control"
+        ],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNUGxLczhkY1phSHVqWkVkVWFNZUtzVjVXSmxlUzZBd1hjc1huVnpiMXZ1VWI1VE8zR09yR0ZQOURYM1F6Yl9mYlVtYmMyeDV1RHRSdVRvT0hfT0tzSklWb1plUHdpSXRjazVSVDIzMmFJekd2M1NXV2F2OW5UZ2dDS2F6LXBya2FpODJySFNVdjBFdFQyVkxCQ2F0ZVdCYkVxOEM5c3NZZ1VGTWhvS2V2V205dVVQRFJGRGx4N2xoRXBZQmpodzhxeHU3VGstV21KUEhfeGgwd1FYRVlXRGQ4WVJPUXpFM0dqS2lPaDZiV1VfOXdERVFGZVlHVHZaY3o0a0xTME9JMFJxaklvV1NNNEJabWdCNlhFT29sVE9UQ0FNX3o5ekY4YmtCLTlOTnZiZnUxSThVRVRwOHFhUldVSVIxU0FuWVpQSEpn?oc=5",
+      "published": "2026-08-10T20:09:50+00:00",
+      "summary": "NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [
+          "financing"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Five Hidden Risks Inside The AI Data Center Boom That Could Hit American Households (NASDAQ: MSFT, META, GOOGL, AMZN, NVDA) - foreignpolicyjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZkEwM29nV29wQ3RLeFRoZ0pfbzRUSUU5V3dvNDNEZzhULXJ4VGFHS1plWFp4eUp4ODhieWl0bzJRVXlyRHhLSGRfM0V1WEVEZkpzUjFKbVZoVF9ENVN5R0dXYzdCSFo2WWdUMTIwQXhoSjBNcnRUcV9UUWRXY0c0cmtRNzZjcm1wc0hIVG5vejlXYWVwMkN2ZTNHbTF3VDBWWGJpQ2s3LURMOXN4NVJFdHZMR2tlQUZkNVZtQXVsQ1dabTcxdGgzeWFxZF9fcTg3UXZjMml4RWo0S2FkZmpVUV9sMDJkem1MZ1E4UFNMalJxSGZrdVg0VA?oc=5",
+      "published": "2026-08-16T15:24:00+00:00",
+      "summary": "Five Hidden Risks Inside The AI Data Center Boom That Could Hit American Households (NASDAQ: MSFT, META, GOOGL, AMZN, NVDA) foreignpolicyjournal.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Microsoft's AI Data Center Push: Growth Engine or Capex Trap? - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDRrZ2RaQUhGaERWTHNmcGF5TnByTnE5ZGUxdTVPM0JsZDQ0MEJQSzlvVU41QW1KNnBSZDRzeGFQakE0UVNFUWxGdG54TlJKcHl4cFRKclVoMjc5aDhkaGU2R2ZNMHdXRzhFS0trU3ptelFLTkdzZE1acmgyS0ZodTN5UDhabksyYmpDRkNXYS00OFdhMkhVYlh6aGREUV8w?oc=5",
+      "published": "2026-08-11T13:32:45+00:00",
+      "summary": "Microsoft's AI Data Center Push: Growth Engine or Capex Trap? Zacks Investment Research",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Hyperscalers face growing investor doubts over AI data center spending spree - Fierce Network",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2lodnJ2ZkZoa29sVzJQNGNLVGwtYWpFYlBmX0ljWl90b2lQYjktc181a0FzUHNTMHBJY2x2S0o5NDNTRElGNWtIRnJadVJheFhuMlBkN1ltVUVyeW1DNGtMNmt3T3UtdVhrU0V2WlVuQUV4RkROcTlGZDdmRXNELXo2NTBwRFQ3ekZDSGxHTjgwNnZ0ektCbzk2eW1tUEswaTM2ZHdnUmp0aXV0aC0tVXRwTQ?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "summary": "Hyperscalers face growing investor doubts over AI data center spending spree Fierce Network",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "ETF AIRR tracks AI data center buildout, driven by hyperscaler capex from Microsoft, Meta, Alphabet, Amazon. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTVkS3V0dklIaFRsakF4WDdSMWtaU25jTE1pTWI1R01CaTVfR2F3T0QwWUtYSWRnakp5V1NhNHhSeFU3NEtEMW9aV19uOWdLVlBiRmtXMUJLU1drZVJUa2VGU1RhdWgxdThNODIzMG1IRHB4UDdVVDQ2WWVzQ24tOXFFUnVCSTA1NWxxMmtsVzlsRnF3U2VxWDJn?oc=5",
+      "published": "2026-08-14T14:28:15+00:00",
+      "summary": "ETF AIRR tracks AI data center buildout, driven by hyperscaler capex from Microsoft, Meta, Alphabet, Amazon. Pluang",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "SpaceX Has 1.4 Gigawatts of AI Capacity Online and Wants 10 Gigawatts by Next Year. Here's Why Microsoft Could Be the One Writing the Check. - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPM25HWUJCS01yR1NybWRmVE9XOEY2RDlMc214MEFYY3NMa2M3a1liVFRBNmlOc1JmMjBCVkx2SnBOOWUwTmVMOFlhQ0o0T2kwcEZPNmlVZnhVaUFKNHZZZFBRYXMxYV9fNnlEaWlOV1ZlWUF6TTBLWmR3RmdnQ1ZtUVN6MDdQaWJQZEVQWWlwd2U2N2xOR2lNNUh2aDJiWW16eDIwLUF1S0IzSjBVUzF0c0ZBZXluS18zT0F1ZU9uVzRlUVhOYUthNURSUjlFWlRrT3Q5NnROTWREMkFqRnBpWkJ0SnQyYzRWYnZFUmswc2V1WnFBMWpJMFJQVzVjX2JINXBaRUxNbnlwTFl0WXg0V1NXNkhoUVVSS2xZQl9VNmRYbnFGeHU4SXR1b0x2RUJrYnZVdW9WUTZaTHR0c1E1QWJ2MA?oc=5",
+      "published": "2026-08-13T14:32:46+00:00",
+      "summary": "SpaceX Has 1.4 Gigawatts of AI Capacity Online and Wants 10 Gigawatts by Next Year. Here's Why Microsoft Could Be the One Writing the Check. The Globe and Mail",
+      "signals": {
+        "hard_signal": [
+          "capacity"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Lumentum: After A 600% Gain, This AI Powerhouse Is Still Cheap (Rating Upgrade) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVlTNmZDZ3BCdC0wUFJYaWFDRHNQcnp5MXA5REY2R0lRTjRDUWpSa2lXVURsbTZrZjRTU0VBT1IyNTdDMkNrRVE1ZDQ3eTh5QWtCTnhyRGFjdHh3b2ZHQk9fQjdDNGpVckdjSVF6RXpyQmxPR0NvaXNqUWYzYzZsMldSSUxIVDNSdXVsdzJWaXlQOTJVQ3VWLUlCWXV0SHVESU4yZkR1Z2pkZE1vOERuZGxsRWhReC1FX3h5a1puZlk?oc=5",
+      "published": "2026-08-12T21:03:06+00:00",
+      "summary": "Lumentum: After A 600% Gain, This AI Powerhouse Is Still Cheap (Rating Upgrade) Seeking Alpha",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "power"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "SpaceX Pays Off a Data Center in 9 Months - NextBigFuture.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fNFVSUUQ0b1JkMVREX3V6LThVYlVHdVhnR2dwSTUtbmlZb3ZINjUtcHgyNzRZOVJRTnRWN2hwNkFfUHlpMG1jdTVyMklxT0NtSGR0bnY5Q2pXQ3VKSm5kV2ZvdkRDVXhUZmJTcmlnT1M5bDhhcE1aUWdjSHB3V2M?oc=5",
+      "published": "2026-08-06T18:24:46+00:00",
+      "summary": "SpaceX Pays Off a Data Center in 9 Months NextBigFuture.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Delta Electronics Stock Leads This AI Power And Cooling Screen - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUhLVWQ5SXB1dG1GUWt0WGNxTTlGRHlPRFIwdV9fVHVnbjV5VmItM29lMzEtUXFSMWExUmk3RGZiVUpLVTdFTWstaGJ1TWZzT3hoMmhqNXMwelpmVVBlYS1WRDJpTER6ajM4OU5vUU9uZWVGRlBtdU5aNVJXN2xrLU5hcnB2REh3WFQ5OW9LaENFR3d0TTE4eThtUXl0eHlMbU5uN3p1QUNrMndhU1prUmItWUNaYXBmaHQ0SUwxcnBqTktjb1hRb3NTMXFpczJMLXNN0gHYAUFVX3lxTE9LeDJYMktPZW9qWl9LVU9iYnJ5YUhYNTFCNkk2V3g2a0pKVUtsNnhqZlU4VmUyRDA1Y0RneWZPSTVLVGVCSjhvZEhMMFhtMEVOaE9jMF83TWNfWm5tRUJhMGYzaHd3cXhZTUtUdGc3TzdobHhtc040NGJVbkwzUXRMZjVTT0lZT3VJakpQUEFTSkRZQ3loZ2lraTNkSk12MWpkMkRHX2FydzEtSFdpLUJzTzVuMTR5WU43VlV1ejRyakpvb3N2VkpNMXgwOVVnSHJuNXY1eUxCcw?oc=5",
+      "published": "2026-08-12T15:31:27+00:00",
+      "summary": "Delta Electronics Stock Leads This AI Power And Cooling Screen simplywall.st",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "power"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Liteon lifts 2026 capex after AI data center demand sends 2Q profit up 126% - digitimes",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHI3YkJVazNDVXRqajZXeEtYeDI3LXZQbnJRZ0ZnbG82MkdMNjNDX0Q2UDJqNW5rQlBZTTlMSVVjZ1VXcWxaRExpUV9ZYTJOdmdSYzY5MnVtSWg4TGk3THh6dmp2ajJfajRKejItajVBVXlwWnhUX2xyRkVSUm5lZmVMU0FVNm42ZFE?oc=5",
+      "published": "2026-08-03T07:00:00+00:00",
+      "summary": "Liteon lifts 2026 capex after AI data center demand sends 2Q profit up 126% digitimes",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Coreweave Leasing AI Data Center Facilities - NextBigFuture.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjVLMkZEajhCbG1wRUVtbm9pcHNkRmRHdGthRU9QdktWUzJvWGJ0YzNMQ1Z1TU1Ja21GbDlCQWlnUGc5bFVmWmZmTFlWZ210MXdOS0dEY1dOZmNMQWZRcTgxWkJnOVNZdGNVbWdablhBR2E3SzVVRGNleFRQUHJfOEJ6MEloMWh4S1dWT01qaw?oc=5",
+      "published": "2026-08-08T16:16:41+00:00",
+      "summary": "Coreweave Leasing AI Data Center Facilities NextBigFuture.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Willdan Group: Discounted AI Enabler - Accelerating Utility/Data Center Monetization Prospects (NASDAQ:WLDN) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdVVPdm5QWnpERkp6ZFgxaElMbDhTMjFibGpZUWJBNFJxdTlKaE1taXJlazczZDgzQnp1RkpnZXlNUk1rOUtpTi1FU2tsWDAwS1AtaXA1VjZaQzdBV0Jnc0JjR29fMFJYWFhxRXhzYzRNUm5YTDhNUDFMckVVc1ZpcHUzai1sOGMwaUhtRFdJOXFyQ1ZsY0ZSSWhkUzJXZHB1N3l5clJMZkw1Sm1FN0hBVUxkVVNvZmd3bFRqd3RVNWZjSTZKTmdrNmNjNA?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "summary": "Willdan Group: Discounted AI Enabler - Accelerating Utility/Data Center Monetization Prospects (NASDAQ:WLDN) Seeking Alpha",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI Infrastructure Stocks 2026: Who Is Actually Benefiting From Big Tech AI Capex? - MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObE5VY25Zc1NJdk9DbFMwLWhlUGlmUFBZanVYTXJoVWUtTDlwV2F4OTdqem10STlFdTBQdGFiRFlsRkQ5VlhESmdkbFJvUzc4eEJUSTZkUVRpek5iNms3NnF4a0haZTRMMmNsQWxoT2RtdHlPY3pma0RWT05IUGg2TmNjUkY3UGJuOFZCY1BYX3hCSmVaZ05RTS1UUWR5SWV6ZkVmR2tvVGZMOTRKREdsTXZjNmxkZlVmRzFxazI5SjY?oc=5",
+      "published": "2026-08-13T17:02:04+00:00",
+      "summary": "AI Infrastructure Stocks 2026: Who Is Actually Benefiting From Big Tech AI Capex? MEXC",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Marvell Is Positioned to Absorb a Disproportionate Amount of This AI Capex Surge, So I Keep Buying - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzdfYnhsa204clFzQW43WlVteUN2RHNtZ1JLb3BJckg3bUFPVVhEampVRXZNajdWc3hrMEx0UFhqNElCZk5VR01GLVZreWY3X0pHNTRQMXVfTW5mNFptVEthRm40cFIwUW5tU0VZemtaWnd6SHJGbFlsTzFSZDF4RWRwRXg4WTZwYW5semhSdXVndW1wd2VydWNDazhTU3pMQXlIcnRENU1PZ2piNlMtNVlLZGQxbGViOHhQM1ZHaDV6RTRWUmthQXBkUUx4SmEzbUh5MDRhZzc?oc=5",
+      "published": "2026-08-06T07:00:00+00:00",
+      "summary": "Marvell Is Positioned to Absorb a Disproportionate Amount of This AI Capex Surge, So I Keep Buying 24/7 Wall St.",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Intel stock price drops: $20 billion stock issuance, AI capex, and foundry expansion explained - odaily.news",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MNUoyeU1tM2NvUDJQMzlhNFdRLV9xY2R6QUZIdDZRRVFzVWFiQ1l0Q3dfaEVOc01JblpFN3VFSjdpQ3VMODNpdXBsSHFDMW9p?oc=5",
+      "published": "2026-08-13T08:02:09+00:00",
+      "summary": "Intel stock price drops: $20 billion stock issuance, AI capex, and foundry expansion explained odaily.news",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR19GNklTWVBoVVNBRDZzSXdLbm01a0ZoNURsU2JYc2tXdFc2WFNPdTc1SEpxR0tRX3FSYmVEaXZkYXR2cnRZM1hqbTJjS19YU1dfTVZMZ0hwVFZpR0hLSlVCalNXSmstQWNsYlhOWVBiQXpNQTUtX0V0Z1JJRlg3a1pBVzRBM0tCZjN0ZFZXdWZyNW9vdXBPYUg4WElUQWF3RWJxNTR0SzRSLVpNbXZF?oc=5",
+      "published": "2026-08-08T21:41:00+00:00",
+      "summary": "Microsoft Shows the \"Magnificent Seven\" What AI Investment Looks Like The Motley Fool",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI Electricity Demand: GE Vernova and Eaton Will Capture This Next Wave of Capex - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORV80Z1JtV0VNME9rTlJyZ3FOU1JHSTZad1E5QkhuV3haaWFaR1RFRWRLWXp4cHozbHpzRzRlTHJYQ3RRZjRpcTlTOHdQamZYUTFTc1dRMk9nMENuLTltV0ItWldYcUtIMmhLUXd3UzVGZGtuTDJZY21saTZmSUZzdXFEb2dxZlB3c2lHanV3YUxkQXJvamdQbmFpZzcxRjRjd3BpcmJnaG94dkIzZGI3TmxLZVVEdVJXMUswWkw1Y04?oc=5",
+      "published": "2026-08-06T07:00:00+00:00",
+      "summary": "AI Electricity Demand: GE Vernova and Eaton Will Capture This Next Wave of Capex 24/7 Wall St.",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Michael Burry Shares 'Three Great Charts' That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008 - es.tradingview.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYTU4eXpiWWVFRjA1eGRsZktjZTJsVGUzSjRYWmdJaXhZSUJGSzFTaEgtamhyMVY3MldKOHQ4REhfb3ZIRzlEb0gwd2JqVnV1UnpxdVpzMlBYa2F4RDhZck9WMmJ2WDRwRkFPWWtYUVRXRlQ1TDRocTFCU2tLU09xTkZydnRBaFF6cEVKVmo3dUs5QWIwRVJYTXg1aDFKd0NQUmt5aG5FeUc1RG5xbktEY3dtdzBjMjFHbU8wTnI1NVZhRVl6dU5yTXJYSW1pUjI4bDgzb2RDMjAwVl8tbnBsNlF1R2U4bVhrRVpveXEzVWRtbWh5aFQwdTU2Zw?oc=5",
+      "published": "2026-08-07T05:48:02+00:00",
+      "summary": "Michael Burry Shares 'Three Great Charts' That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008 es.tradingview.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Michael Burry Warns AI Capex Boom Could Collapse Like 2008 Housing Market, Apollo Economist Flags Macro Risk - foreignpolicyjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPemx3Q1V1YnBRSnRoWmZxeXlMMGtTNXBIMG9tRlQ0bFhEczgxZkp4cGg0bzRQWjRjZ3hKVzI1U09CTEprU3VSTWRLLTRGeUl5Z2dWaXp1OWxsOEhKakhOcTBfQllGbmhWNHRkUGhyNVJiTy1SVHlaQkVxWFllUUlHTE02cTlRR09fWW9iYkZ6c3RzRDV0WVVqbkVoQjRNZ1ZvalNLTldZeV9MM0RXNHp5VldzM2VmVVd2ekxiZWt0cDVuZ2NTQ1JoajM5WnQyNktrNUdxNml6LTRuZWx6MTBHN1dBMlVWS0I2Skw2Qg?oc=5",
+      "published": "2026-08-07T07:00:00+00:00",
+      "summary": "Michael Burry Warns AI Capex Boom Could Collapse Like 2008 Housing Market, Apollo Economist Flags Macro Risk foreignpolicyjournal.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Fighting Hubris in AI Strategy: A Layer-by-Layer Dissection of AI Tech Stack Competition - Rhodium Group",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDM0VUJXWTdFWC1mcHRZdWdHQW9DTy1UbDRwVHd0Y0F6SGF1U2hUaFh0WjNTVElraHZHMFV6TXl1d2RDY0lfZjBnX1FzdjA4bkxlUTV1dTIweEFmTVZiSVI2dXpLYWtRWkVBVTJfcF9FcmFXaDN2TTBxMjlESzJHeFAtZGdRbGtvTVZyZGlXTkszRTNXYkU1WUxFa0lDYXIzeDdQZENCRnZ3VXhuQ0tlSEtUaw?oc=5",
+      "published": "2026-08-04T07:00:00+00:00",
+      "summary": "Fighting Hubris in AI Strategy: A Layer-by-Layer Dissection of AI Tech Stack Competition Rhodium Group",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    }
+  ],
+  "errors": [
+    {
+      "feed": "SEC NVDA Filings",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=&dateb=&owner=exclude&count=40&output=atom",
+      "error": "The read operation timed out"
+    }
+  ],
+  "lookback_days": 14
+}
