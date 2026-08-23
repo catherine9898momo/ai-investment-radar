@@ -1,0 +1,175 @@
+# AI Investment Radar - 2026-08-23
+
+Lookback window: 14 days
+Items fetched: 394
+Items in window: 24
+
+## Top Signal Items
+
+### [Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race - digitimes](https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWtnSFpnc05obzBvU3J3R0RHd1czTXdHVFBaOWJKR2hTZ29xXzNaZ01NOUR6TXVDSU43ZkZMdEVwSG9kSUNPZ0s0UkRpZmpTZ3E5T1FUbnB3WDBlbW51QVdoMXpqamJfTFpaVnJ1ZngyN1dsZm1pXzlLS3k5UkE3aHRpTDdMSEZHWkVfZHBHSUZZbW9NNXZvbDY2dFFINzBtNTNuNk4xN3RxdVhLOG81QmM1cXB5V0xJNGV6SVR3?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-14T10:46:45+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center, power
+- Summary: Research insight: Delta, Lite-on raise capex to 9% of revenue in AI data center power race digitimes
+
+### [NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMiywJBVV95cUxNUGxLczhkY1phSHVqWkVkVWFNZUtzVjVXSmxlUzZBd1hjc1huVnpiMXZ1VWI1VE8zR09yR0ZQOURYM1F6Yl9mYlVtYmMyeDV1RHRSdVRvT0hfT0tzSklWb1plUHdpSXRjazVSVDIzMmFJekd2M1NXV2F2OW5UZ2dDS2F6LXBya2FpODJySFNVdjBFdFQyVkxCQ2F0ZVdCYkVxOEM5c3NZZ1VGTWhvS2V2V205dVVQRFJGRGx4N2xoRXBZQmpodzhxeHU3VGstV21KUEhfeGgwd1FYRVlXRGQ4WVJPUXpFM0dqS2lPaDZiV1VfOXdERVFGZVlHVHZaY3o0a0xTME9JMFJxaklvV1NNNEJabWdCNlhFT29sVE9UQ0FNX3o5ekY4YmtCLTlOTnZiZnUxSThVRVRwOHFhUldVSVIxU0FuWVpQSEpn?oc=5)
+- Feed: NVIDIA Official News Mentions
+- Published: 2026-08-10T07:00:00+00:00
+- Tags: nvidia, chips, ai_infrastructure
+- Signals: hard_signal: financing
+- Summary: NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital NVIDIA Newsroom
+
+### [NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNEpvT0o4S1htMmJNQkNnMDJlYU9LcHRGU3lGTVBRLTlFS2pfVElSWlVmcEkySTBvQTVfMlRCeFJCcWxHSDFybXNNQndkQ1JvTFgzOUdoRXNzYWdXc0hDdUhwa0NDcTJwNWM3R1FNYnJCVHZ3cGo5dXF5SHotUHJnZF8zdWdzWGktRnVRWGlITHVJV19TR0JJS2J4bHp4YnZiaEZCaS1UUzZhZ3gtNUIxMzM3dU93a3B6b2o5TW0xRjYyenRrV2hqMWZmOE1iRWt3TkNVMDlRRE1YM2pBTDBTY0ZGTTNYWFJJZFRMajJjSnZ2VTZMWHl5WXRtZC1KM0xBMGl6UWFHNUxOME44MEFoSzN1RVdOSDZSdEw1UEdzZ1cyaU9FVUg2dUs5ekg2RjZYalNFYjU0em5yZFdmNnlhNDRKNWlqVGY2dXFoMy1mQ1ZCVEdWLWc?oc=5)
+- Feed: NVIDIA Official News Mentions
+- Published: 2026-08-10T07:00:00+00:00
+- Tags: nvidia, chips, ai_infrastructure
+- Signals: hard_signal: financing
+- Summary: NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital NVIDIA Newsroom
+
+### [AI Infrastructure Pushes Data Center Capex Forecast Above $3 Trillion - Data Center Knowledge](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSjVKSXJwYVRhV1RUUVhOX0hqZGhpYUY0OGlIWS11VkZVSExuTU42X1dhYmNsQmJydF9lZVFPekdueGVYT3ExM0lWNTIwbS1HZHloUXFpQ0hvLTNRdnRuZDZQcnEtVFNuRWlUMzlaQUhwQmZZTjFMTnMzZUJ3a05xZkprWDlNZFJVZFNOZDdNT3hBNm13N09hTWJMWjJNbUFNck1seWpJVjRiOEFsdkwyRnJERkV6bF9TMlpTcw?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-21T09:00:59+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center
+- Summary: AI Infrastructure Pushes Data Center Capex Forecast Above $3 Trillion Data Center Knowledge
+
+### [Nvidia Stock Read Through For AI Data Center Infrastructure Picks - simplywall.st](https://news.google.com/rss/articles/CBMiygFBVV95cUxOem1nWTVaRmwtaU9Sa3dtdjNqdTR3SXNhcUVxTWtqbVpmV0o5SVBOcE5LQk9weVNpbmRyVkRMMUVuZWw2cXdDS3VMWk9qSzdvcURrdDZ2RkNFcndaSjYtM2s0STU0NDcxUFFWQWJ3RGZScW1JUjROR2VCeGMtU2I2dXV5ZzU0Zmh1dVVPRTU2alk4a19WOXh0MUpYcUN3UDNLaV8xZ1Q4b0JOSEZyRkFwNGtxNnRWdnZ1MWYwc3htTG9TWXFqdjN3VE1B0gHKAUFVX3lxTE56bWdZNVpGbC1pT1Jrd212M2p1NHdJc2FxRXFNa2ptWmZXSjlJUE5wTktCT3B5U2luZHJWREwxRW5lbDZxd0NLdUxaT2pLN29xRGt0NnZGQ0Vyd1pKNi0zazRJNTQ0NzFQUVZBYndEZlJxbUlSNE5HZUJ4Yy1TYjZ1dXlnNTRmaHV1VU9FNTZqWThrX1Y5eHQxSlhxQ3dQM0tpXzFnVDhvQk5IRnJGQXA0a3E2dFZ2dnUxZjBzeG1Mb1NZcWp2M3dUTUE?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-22T04:57:15+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center
+- Summary: Nvidia Stock Read Through For AI Data Center Infrastructure Picks simplywall.st
+
+### [LS Cable & System Pursues First European Busduct Plant, Tripling Capacity on Big Tech AI Investment - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE5lbFJzazFLUmF1Q2k3bkJrc1gzTG9vSU1JVGkwdDNJOWo1SU1EMmFJT0VCc2JQc0tFLVgtZlJyX3pVc0VwTm5DT1ZRZGxucFZHQy0wRkFvdHZpelJqVEw3aU1wTmpqa25sRnZrbFNDd0hOZ0FMSnc?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-23T10:30:51+00:00
+- Tags: data_center, capex, power
+- Signals: hard_signal: capacity
+- Summary: LS Cable & System Pursues First European Busduct Plant, Tripling Capacity on Big Tech AI Investment finance.biggo.com
+
+### [Data Center Hardware Highlights: August 2026 - Data Center Knowledge](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVFIc21MZFB5T2ZIcGM0T2JjUmQ3T2xiSk1ZVm1VaVByX3BOMUQtLURYYVAyRHZpLUZaYkVMT1JfZ3otdmwzczN0dUVtazYyZGRXN195OGRTM3hUbi13V0JvR2hZd2lUc3dlSm5rWmxuLWpZY0I0eFdmM0J6SWhYbFBCQWFlb0pmc3lkOUExRnpldkI0cjBBZVRsdXN3bWdmSEE?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-18T16:22:52+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center
+- Summary: Data Center Hardware Highlights: August 2026 Data Center Knowledge
+
+### [APAC Data Center Pipeline Surges as AI Pre-Leasing Tightens Supply - Data Center Knowledge](https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnh6OXVhdjhYWHN1bDFuQVk4MHdabVNCVDZ5VF9wTXlpYXRCR21tdHNMVmQ2enc2aEVIaHNNREtUem44dGFQS3hVUkhxNk1RbFNzak5kUHM0ZG9GME1rbUFoRWZILVJwVmZSSWVFQXFKc2FsOXphNVpCbl82OXoxaHVBS2gydlk1Z0FnLWtQRmVQUXhNdDY1MU5BWXJrRTdYUVh1YXR3YlhlMEVlWWJlckFBYjBDMWlJQUtfWjZVdk5kQUR1aEE?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-17T14:53:57+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center
+- Summary: APAC Data Center Pipeline Surges as AI Pre-Leasing Tightens Supply Data Center Knowledge
+
+### [Microsoft's AI Data Center Push: Growth Engine or Capex Trap? - The Globe and Mail](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFVjMVJ1M2hiRXFnSkVyb0RFcWtOeWdHZWRBcmFlei1HVjQ1S3ZrRTRqc3V5VEVzMWNzMzdFOF9iX2hTZE9QaFhhMjMxWThmTkx6bXpLODFiTDF3UDFhOGpkd2NhSUdTaHI3UXJFYXRlVmRNU0ZtXzNER0xRTkdHYlJTUVRraGlHVngxNVdsQUw2dkFSTk5sYzdWbXFKTTg2TXlNRTlydUZNWTNQWGpjVDVrQkZyaUJKTU1sTVlDTHpXckQ3dm5ZZG92RktZQ3Vvb3NfVDBuVnNSN2s?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-11T07:00:00+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center
+- Summary: Microsoft's AI Data Center Push: Growth Engine or Capex Trap? The Globe and Mail
+
+### [Nvidia Still Captures the Lion's Share of AI Capex, But Micron's Leverage and Power Angle Can't Be Ignored - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9jTmtUbnBLeVBPWG5YN1dDZGJ6NjhHX25OeGhuWHFjcWluVDVBN0ZTc3pXdlFFR1oxeDdNdkRQTnpIMmxQSF9DSHlqbjljdWdhM3NvVGl6a1hNMGM2R2ZCVUJNaGFoZXFRY29VSHRVZUF2VVJ2RkE?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-18T18:52:14+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: power
+- Summary: Nvidia Still Captures the Lion's Share of AI Capex, But Micron's Leverage and Power Angle Can't Be Ignored finance.biggo.com
+
+### [ETF AIRR tracks AI data center buildout, driven by hyperscaler capex from Microsoft, Meta, Alphabet, Amazon. - Pluang](https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTVkS3V0dklIaFRsakF4WDdSMWtaU25jTE1pTWI1R01CaTVfR2F3T0QwWUtYSWRnakp5V1NhNHhSeFU3NEtEMW9aV19uOWdLVlBiRmtXMUJLU1drZVJUa2VGU1RhdWgxdThNODIzMG1IRHB4UDdVVDQ2WWVzQ24tOXFFUnVCSTA1NWxxMmtsVzlsRnF3U2VxWDJn?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-14T14:28:15+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center
+- Summary: ETF AIRR tracks AI data center buildout, driven by hyperscaler capex from Microsoft, Meta, Alphabet, Amazon. Pluang
+
+### [“Nvidia Is Hamstrung Too”: Packaging Emerges as AI Chips’ New Bottleneck, Intensifying Global Capex Race - economy.ac](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGY3NZZm1keDlNaXB2dzlHTWdSR3UxSDBucktFOEhfcGpsNk9vRTdicDFkNlFMUGdsdklCeFNuUzNyczFadUZoR3lNaDVyZHAzQzNMVHlaQQ?oc=5)
+- Feed: HBM CoWoS AI Supply Chain
+- Published: 2026-08-19T08:01:37+00:00
+- Tags: hbm, packaging, supply_chain
+- Signals: ai_value_chain: packaging
+- Summary: “Nvidia Is Hamstrung Too”: Packaging Emerges as AI Chips’ New Bottleneck, Intensifying Global Capex Race economy.ac
+
+### [Chinese AI firms are tapping banned Nvidia chips through Southeast Asian data centers - qz.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0hpMHpFN0tNbmtyM0tISUV4Z0JwS2wtYlBVRklZRUdfbUp4UVpwTmFWOWZrRklZc1VUOWRCX2JwWFN1RUdTTFY2Y05xS3ZkNnhNNUpzUWExcDl5QXRkSE1NVmFReHc4M2dSYmZKbFprdThYZ0hMUGhob1k4cWo2di14SGswdw?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-08-19T13:46:09+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: data center
+- Summary: Chinese AI firms are tapping banned Nvidia chips through Southeast Asian data centers qz.com
+
+### [Nvidia to Back Ohio Data Center With as Much as $105 Billion - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV21oUjRuVXdHME9CRklXR2RFM3Fad3ZYSnVLYzVVaFd4eGFJOHBFaTNmTkIxNDJ0Z1hSSW9LczZObEl5SFF0NnNKSmV5MDFSX1gwVC1GTzVXb1lJYVFoY2hCV0ZPNk9rWHpjYm5GdWxmVThaNW9lb1V1emlPTnlYV1I3dnU2OUhQ?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-08-17T17:38:23+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: data center
+- Summary: Nvidia to Back Ohio Data Center With as Much as $105 Billion The New York Times
+
+### [Nvidia’s AI Chip Curbs Face A New Test As Chinese Firms Tap Overseas Computing Power - Tekedia](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmI2VklBUkRlLTEzcFppR2dPcU9LWWp5bThEM1c4Vk42NGNpNXpBWDBTb0RybXFBcVlDWUtqQnRQMUN4Z2w3cW1lU21veTVPdGplUHRDVjk0NXhKbTZ6a3Q4TDlqdWdNSW5VcGk0UmlYNFRrb09FMlMyb0M5V0dCaGxSa2FjOGpSTFhzWWxUdm0ta0pZREo0Nnp1X2RKSEpUQnYwS2ZpTFUtZ3Yt?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-08-20T08:54:59+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: power
+- Summary: Nvidia’s AI Chip Curbs Face A New Test As Chinese Firms Tap Overseas Computing Power Tekedia
+
+### [NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3?oc=5)
+- Feed: NVIDIA Official News Mentions
+- Published: 2026-08-17T12:38:06+00:00
+- Tags: nvidia, chips, ai_infrastructure
+- Signals: no matched signal keywords
+- Summary: NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute NVIDIA Newsroom
+
+### [8-K - Current report](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/0001045810-26-000069-index.htm)
+- Feed: SEC NVDA Filings
+- Published: 2026-08-17T08:41:33-04:00
+- Tags: nvidia, filings
+- Signals: no matched signal keywords
+- Summary: Filed: 2026-08-17 AccNo: 0001045810-26-000069 Size: 178 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 7.01:...
+
+### [13F-HR - Quarterly report filed by institutional managers, Holdings](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/0001045810-26-000065-index.htm)
+- Feed: SEC NVDA Filings
+- Published: 2026-08-14T16:19:53-04:00
+- Tags: nvidia, filings
+- Signals: no matched signal keywords
+- Summary: Filed: 2026-08-14 AccNo: 0001045810-26-000065 Size: 6 KB
+
+### [Key facts: Amazon (AMZN) raises AI data‑center capex; sells $25B long‑dated bonds - TradingView](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeXl3SlNrdnVqZGdqS2QyOXpwREFKbUV6WEp1QXhNLU9rVkZkYTB0UmdaSFFVLU9nWUZsMTdSam5RcEE0RXNpdm4yd0V3T0ZIbnV6WUV4VTlwd2JfQmdFTUVCR0FEOHFBMmtVM3hKRndPOUVDLTl4dmxPenh4cHJ1QlZ3RGQ4cjFEVjQ5Q3psWnRuZDFBMjBndHBSNnMzM0l6czNkZTBLQmM1VmRRVWN3ZGlvODZFV1IwellmZUhHcHlMX1VSYjlFUWVVRk9SUTBlWEVaQg?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-22T07:13:48+00:00
+- Tags: data_center, capex, power
+- Signals: no matched signal keywords
+- Summary: Key facts: Amazon (AMZN) raises AI data‑center capex; sells $25B long‑dated bonds TradingView
+
+### [Big investors hunt for tomorrow's AI winners as capex angst fades - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JiYWhkcERDWi1MTllqMVduaUtTMjdkRU1GWkRKQldPbnlGR2lSenNfTmM1dmMxX1djUmQ1RFpLcHZnbFVvc3hjelp1SVROaWxReFFSREIxd0UxTGx3dDF3MUpZeGN3bWFydFZxXzNFdldtUWo5MnhEN0phclg5U0JUbk1uVlYyZDhQYzJHMEdmb0cyODBwY1BycHdGMm9WdmN0bg?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-17T05:01:00+00:00
+- Tags: data_center, capex, power
+- Signals: no matched signal keywords
+- Summary: Big investors hunt for tomorrow's AI winners as capex angst fades Reuters
+
+### [Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1 - TradingView](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWdrR18yOUJGN1Q2enVlb3JRTHNBWEszQVRJQ3h4OUhEZFFhcFNiUFk4cnNWMy1tLWd4dTYzaVZYTkxiRW5mTk4weVJ2d0hhTFdLQlRsTXhZRGc0bFp3dzQwX3RBME9LZW1UcUVJSGZaUjVjc0ZHMk5wTVh1czJrWldKZzU1Mk85anlBLWVXcnJFakpBaUZTYlJOQnp3Q0VldW93SFRhdGNQdjFuQ2cxQXZ1R0U2cFd1a2lnRWtFU2FYMFczWXAtbGNEWUpGb3M?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-20T16:12:00+00:00
+- Tags: data_center, capex, power
+- Signals: no matched signal keywords
+- Summary: Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1 TradingView
+
+### [Analysis-Big investors hunt for tomorrow's AI winners as capex angst fades - The Lufkin Daily News](https://news.google.com/rss/articles/CBMigwJBVV95cUxOSFJjaW1XMWdTOXpnbHdKRHVCV2IxOFp5WENLY3o3UXlFcHZaMkVDZUFuN1FIdlYtRlJxa081SDR0Z3lHal92RkdkQUd1TjB1a3NZOV8wR0xzZHE0YnNoYTRNUllHUmxHazVTOUprMmlJYVB5S2R6ZFJKR0NUWTRvYzRqOFFZbDR5QzZWNXZ3VXh6UlRUMklRTkdMUEVwN082bzJTOTdOZ25JaGgwcHVlczJtdjNlMkZhR2c2cEZtU1BfM2RzbjVpN1g3MGZxbkFxV1I0ZFdEM2tyZURwX1ZVSXhPM3EwSGVpT1FadkUtTWdvdlZZX3RRZWVCR2hfdURkdXo4?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-17T05:01:29+00:00
+- Tags: data_center, capex, power
+- Signals: no matched signal keywords
+- Summary: Analysis-Big investors hunt for tomorrow's AI winners as capex angst fades The Lufkin Daily News
+
+### [Bull of the Day: EMCOR Group, Inc. (EME) - TradingView](https://news.google.com/rss/articles/CBMilgFBVV95cUxPalhKQ0MzbWowTFVBY3JnV0Nad1RzOGcwc3NmMGhGYzU2SW1RWTFLT3pIRG9iSUxfa2tuUjI3TXE1STRMX2hHSnQ5ZG1ROF9XdW5JUTJCaTNUSGxwSkJLbk9BMlN5STU3NU9qWFI4SFYtWm5ySW16bWJYXzlabm5tRjZNeEQ0R21Qc3QwdmVJZ0tTeWpWOGc?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-08-17T08:00:00+00:00
+- Tags: data_center, capex, power
+- Signals: no matched signal keywords
+- Summary: Bull of the Day: EMCOR Group, Inc. (EME) TradingView
+
+### [The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole - CNBC](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-08-19T10:32:51+00:00
+- Tags: china_ai, cloud, chips
+- Signals: no matched signal keywords
+- Summary: The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole CNBC
