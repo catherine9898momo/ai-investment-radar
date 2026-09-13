@@ -1,0 +1,645 @@
+{
+  "items": [
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2dkbUp0Zi13THRQMU1kMXNIZVktQVN5NVR2cEszemg1RWM1cURfcDBCRGhLMGJfc3NTaW12anhJeGVDb1FfTC1SaHUzcnVUTzBnVmJseHBuUngteFBFLUZQT2FkMzBaTEEzclA0WFJGT0FmZ1htaFFSX1YwNnVTNk1yT0dnNVhzUm9Vbms0U0N0ck5UNVpyUlNZZ2JaQ3NDZ0hHUEw1VE5BMjZ0dGFIX2plWTRqRHRDeG5yQTFnY3pHZlFhcG9Ndw?oc=5",
+      "published": "2026-09-10T00:09:56+00:00",
+      "summary": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [
+          "capacity"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI Data Center Boom Lifts Router Market 25% as Cloud Provider Sales Surge 94% - InfotechLead",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckFJeXpURm9JVUI2a2ZReFlzMm1SV0xOSld6ajdrSDE0LWRkYVQta1BFajhpVXpkaklnc1FCSXN6bXZqUHA5MmdYRk9ZLWc2UW1DWUduQVc0M21iZVFTUjFMMktfOUhWRlpnVWFYZTY0VE9JSFpUVmVDRkNsTDhSNXhZNDA1UXRVRlg4WlhZYlRxa0hOc0xzWXlNelhjVUx3d1BEa1RINjVfLWc4X29FMUNEN0NlNFVL0gHAAUFVX3lxTFA4c2FURVZoY2ozM0dQWWRPdko2Nl9VcU1POE9YN0hFd0tDaDFmVHQtNGJEdlB1YUhLQy15RWxPUHU0cGpPUWdHSWl4dzkwZnZSeUxMS0VxbnpNLXA1ZGpIUm9QNmF3b0FRclNTUV9KeTBFeURDTUY5bEpvMmVmSWxmVUFQT2kxMlZFeERBMnBrU3Z6LXVkSG15RW1uRWVfdlV3VXlQcjRLdjNRaldrbWpsQjFEXzlQMWNOeWpfSUVacQ?oc=5",
+      "published": "2026-09-10T15:21:45+00:00",
+      "summary": "AI Data Center Boom Lifts Router Market 25% as Cloud Provider Sales Surge 94% InfotechLead",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
+          "cloud"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "HBM CoWoS AI Supply Chain",
+      "tags": [
+        "hbm",
+        "packaging",
+        "supply_chain"
+      ],
+      "title": "Big tech pivot to Intel packaging as TSMC backlog grows; Korea diversifies - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFX28yOExyRzRDeU5kZnZXWHB6bUlSMnpOaTRlR21SYmhCMUN4Nk03SHo3RXBtd2tmcm1tWGpLTzM5SEhJTkthd096MTk3ajY3eDZsdXdkdHhDdHZhNTFsdGdRUjVrTGZUaXVIV202TmNHMlRaQXl6SjF3?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "summary": "Big tech pivot to Intel packaging as TSMC backlog grows; Korea diversifies Chosunbiz",
+      "signals": {
+        "hard_signal": [
+          "backlog"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "packaging"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcU1HUUJSM1JSejc4RnJaMHVibkhHbHdpb0lBOUItclpoNE10T2dNZUJZNWd1V09OYnlTVENBeXlHVTl3WWhKNm5XbHl5Ykl5b2xBV1RKdFFIRFRRUGthX0JOTGZ6Zl9PWW5iYkRjZGFNUjNJTEV5b0dzcXRtMHc5OGxaNl9tZEMtdlcwUG1YMmY5ckRzcnlwb284OVB1ZHdyRFBhZC01Wl9jVmV5M21KS3B3NE1ScUN2dnBSRmpDX1ZMbWtjT25KOWVjR3owQQ?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Data Center Boom Accelerates: 3 Top AI Stocks Averaging 296% Forward EPS Growth - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFpVT2R5OWV2ZlF4bjV2STF3SXRWYXFyV3JLVkotQ0ZIMXFrUVg1c3h6UHNKWFR3N3FSWE1ndWpuNXA4bVBGeTU1Wk9xREZQZkxCbHQyMlZlU2JoR25FRmFnejZwYU1UUTdRVHd2djlUa0ZPQUlZZzJDdWJSZ05yTHFpLXpyNVZzQW83N3BubnFqUW9WcUJuakFWVTU1dGF5eVJmb1NZZFdxbG1OcHVXYnpvNDhoSXJUVWlsT0dLbWd4SEhV?oc=5",
+      "published": "2026-09-12T14:00:00+00:00",
+      "summary": "Data Center Boom Accelerates: 3 Top AI Stocks Averaging 296% Forward EPS Growth Seeking Alpha",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Insurers Turn to Catastrophe Bonds to Cover the AI Data Center Boom - Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWFxNmhYRG9WM0l5V1hiUE9tVHI0UVM1X3oyUEF6NEdqQTRBdkRuX3NGTy1qMExiMF9tN2dTZEZtV3VuX3NLZVVMLTFJcFRQT2JaZEI5bWdPUW1SMG5VamlSZV9lSnJNNklsNXE4U0VrU1FqNXNfd3hudWxFLTFiSEY1dUVMdkdpMFNGQUdVSEJFYmRPQi1sMXlJMA?oc=5",
+      "published": "2026-09-12T07:36:10+00:00",
+      "summary": "Insurers Turn to Catastrophe Bonds to Cover the AI Data Center Boom Startup Fortune",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "PwC Maps $31.6 Trillion AI Data Center Buildout Through 2050 - Data Center Frontier",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVBvOC1ZcFlFckcwdERCNjFlajNjdHZCdFMxd1QxQVZ1YjJQa2hSZlRDUGFOd1VHajJ5eWIydFl0M1BHUkZaTmlpcnlIZ2ZCdDVJQnJValZrbXpuY0M1S1loOEFUZGdNZWdVTm53STlXM2ZfUDNYbzdUbnJxWnRlNHAxcVRzNHFJY2lteDJxNS15cENoRGdrQXRqOG85QXhZaXJVTXJyam9VcUt6SXJ3c2hBeHNocGk3QXBpaGs5T1JxZFpnV1E?oc=5",
+      "published": "2026-09-04T19:19:46+00:00",
+      "summary": "PwC Maps $31.6 Trillion AI Data Center Buildout Through 2050 Data Center Frontier",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI Data Center Investment To Soar To $31.6T By 2050 - Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONF9PUmF2ZjM1SmdBUm44NmhUUUhJaWdXeGgwRFdEWW1FQmhrbWUxUnlWNkU4MV8yLVBJUkVlbHY0cXMzWGx6X1dVbGt0WE1HNEk2c0ZWQWZsR0FlV3AtTWxwbHNVUTI1eFZWYVRvaFlXZXdSUUhvcG93MFRpdTZUY3FkVXY0QjFtUzRmZkNWbE0zT0kxMFlacXgwOGNHMW5tWk5oYnhPaVRTeWsxX0cxQXo1UnN6WjBCb1I0R3NfejgtbGVHUUE?oc=5",
+      "published": "2026-09-04T16:13:49+00:00",
+      "summary": "AI Data Center Investment To Soar To $31.6T By 2050 Bisnow",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Key facts: Alphabet Inc. Class C tied to Gemini AI; data-center capex; Google Cloud–Accenture unit - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTBCVWFTMGk0TWZXQU5hbk42V2drM3Ztc01OTlhRTnJoVm9JSWtKREx2Q0REZkhiQ09VRDJiZGgycktPbS13MzcxOVI2RzhsMWNxc2Q2NHdaVVlOdWRVX1pVWnpaSUZCc2Z6bERtbG5Ec3hJVjhyY0dGSFNqNUNkb2d5N201bm1ERzZLeXNwV2JHOUVVa1ZxbjNGaXgxVGpRcDBxQmlpSFZYV3otQkt3cVVQVW50VzZ4U0FEMzZ2aXZ5bm5EVmZGaFhHTnVmZ2JYYno2dG9iWWZ6NklNZHRnMEhzVExKWE9aUkIteQ?oc=5",
+      "published": "2026-09-09T07:14:20+00:00",
+      "summary": "Key facts: Alphabet Inc. Class C tied to Gemini AI; data-center capex; Google Cloud–Accenture unit TradingView",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI boom through 2050 hinges on power supply, politics, PwC says - Fierce Network",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGVrbUlKcFlVU0FvNVE1cnZCTEJWUm1PejRNSEpNaFpwSFdrNlVONnd1UnJDY1VpSnBvcjZjbVhHcmVpVHdIb1M3YUw1X0dQdUxCQlZVU2xTblVuT3FaSnpSdEgtV1hLSXRKX3dqaUtmbUk2U2ZzdGM1ajhCVC1naDRrOXRBRzNiSndybWsyN3AwTnI1dURKZVVSVQ?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "summary": "AI boom through 2050 hinges on power supply, politics, PwC says Fierce Network",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "power"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Data center capex to reach $31.6T through 2050 amid AI boom: PwC (NVDA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ1Z5V0NWMGV3TDNCUjhNYXZpSWJWbVlQVnlHeU8xcC1FU2U2QkxJWllWQVhKQ2JXVVBocE1aZGZkWHZQR1J6SlBPdlI5c3RINmFkM1E1eWVSTGN6N244cnF6RFk0MzlvZ1ZtRDdxRjY2RlNQMmxnNUxHQV9jNTVpTnNxS2pLWm9RdXNCRU5sQl92X0N2YUgxVlI4Unc1S1ZN?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "summary": "Data center capex to reach $31.6T through 2050 amid AI boom: PwC (NVDA:NASDAQ) Seeking Alpha",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Sterlite Tech Launches Plenum-Rated Fiber Trunk Assemblies For AI Data Center Connectivity - Sahi",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWmo1WjEwMG1lYVdiNXozM0VKdzJza0wyMUNwNWNhVTI2R3VTSEMwNlgzVlhwbGx5MDIwUkFfNWx0d0htVk1qY3dlWDZ3eGdHVnBITXBJUnFwaXI0TG9NX1lLYWd2RUhLR2I2Rjg5OEFIa1VTZnJJZ3VrX1MxQXJjZDczejg5ejVnUnpyakQ5a1hVSnpPWDE3OHE2d3NOcWFaMkFzM0MyVFVZbTQydy1IQlBWNVhqWjJkWGxDVXhSMEliZ0VwNUZaVQ?oc=5",
+      "published": "2026-09-11T00:29:29+00:00",
+      "summary": "Sterlite Tech Launches Plenum-Rated Fiber Trunk Assemblies For AI Data Center Connectivity Sahi",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Oracle Jumps on AI-Fueled Cloud Surge as Capex Hits $28.5 Billion - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhcFlqamtJTzY0SmhxUXlnUTlZSWZvN09zNWRsRjZhSHdGbUVJbXdWbFlMbjZBcTg2N1VZMHI1aWQ0UFVhUEZBSVJaWkdjb1FveXZ6cklTVWZSYW5oeHdiaWVUbU1SWlBfM3hmbl9VU3hxeTZUOUE?oc=5",
+      "published": "2026-09-11T18:27:00+00:00",
+      "summary": "Oracle Jumps on AI-Fueled Cloud Surge as Capex Hits $28.5 Billion finance.biggo.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI Data Center Spending to Hit $32 Trillion by 2050 - Gadget Review",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWXVBR0lBd1pJQ0NIVTBFWmdmUzVqNTR3OXpheGdGWWZyUlA0QVVackdoak9kLUxLV3hnb2ltaUZjWEt1ZTNMaWt6RHJWT1ZhdHVCNGswU3RyNExta0dqeTNGT041azAxcE5FM25qY2U5a1hzVDhkSnU5MGxwRzhJSGdWZ2g0Zw?oc=5",
+      "published": "2026-09-02T18:07:03+00:00",
+      "summary": "AI Data Center Spending to Hit $32 Trillion by 2050 Gadget Review",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Trump Says ‘Let Data Reign’ As He Slams Data Center Backlash: Communities Risk Being ‘Backwards And Poor’ - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR2NsS3ZNTWNteExOS1ZBczFvd0MzMldqR2taRE4xaGc1M3J6REIwZm1NcUd5UTlvWXpBSU9EWGpuM3FYV2xLWWItRGYzVW40Zlg3N0VTaVNsWnFVSHNoeWZubm5iOGhCaUVqOUd6Q3RDbDhXZy1xWE5LX2poQi1URUhhNXJwT3hJcDFIZzF1QS1WNGN3U0JSSDZuRXp0akNWN09pR1dmNy16SlJFbjNnckNlMzREUS1XYTJLZ3MxeUlmVnZ5dklLZ2FZaERfN1NNaG95ejRGZV9xc3dKQWU5TndkU2VFRGxWQnJwMG84UHBWQnc?oc=5",
+      "published": "2026-09-01T07:00:00+00:00",
+      "summary": "Trump Says ‘Let Data Reign’ As He Slams Data Center Backlash: Communities Risk Being ‘Backwards And Poor’ TradingView",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Oracle set to report as Street weighs capex risk against cloud growth - Proactive Investors",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYTA5T2tOYS1EcFg1RUlpelc4bjhxV2VsdFZ5bWhXOUhBTXhrX0lyNDhKeHZNMTlhUTdTRTdLRHNDNlJ0VTRSZ1dJdEF2TFRuLV9xWWZoT0tsUFp5cERwMGVBMDlMV3Q0REtTb1BhXzdxZmU0cGk0UG5NVURiejRjYS00QnRFTlBqalpENEJFdVQ3dm0wR2RSZ3pJY2Q5U3NDNC1ZbHdZNzF2NFliWUFVd0h5S2RNdUFtTXBVX05OZFgyU0lkaUZTT29hcGl4WWlzeFRxZmRTb1BlQQ?oc=5",
+      "published": "2026-09-10T11:20:00+00:00",
+      "summary": "Oracle set to report as Street weighs capex risk against cloud growth Proactive Investors",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Sterlite Technologies secures OFNP US certification for AI data center fiber - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQzdRV2FscldSaEtjVEItWjl6eFI5OHJOd1Q5dmRRQWlwVzVjVm9VWW5WMFd4dWxXaG9weTRGRDVzSmhaQnRaemFmR0JZaVpWVDExX1FBWG5KclZUUU5CWEVoUHVkQjljMlRLUFdwa3d6Uld5Y3RVSFg4MjF0bzlfYWExQXhrVEhQY0lXclVHWW5sVkc0TGhSZFFGdWx1WGhQLWNZZWJMSkoxTU5tSC1CdHVaMlN0T1ZGUEZMa3U4Ri1Mb2s?oc=5",
+      "published": "2026-09-11T04:17:37+00:00",
+      "summary": "Sterlite Technologies secures OFNP US certification for AI data center fiber scanx.trade",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "HBM CoWoS AI Supply Chain",
+      "tags": [
+        "hbm",
+        "packaging",
+        "supply_chain"
+      ],
+      "title": "“Nvidia Is Hamstrung Too”: Packaging Emerges as AI Chips’ New Bottleneck, Intensifying Global Capex Race - economy.ac",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGY3NZZm1keDlNaXB2dzlHTWdSR3UxSDBucktFOEhfcGpsNk9vRTdicDFkNlFMUGdsdklCeFNuUzNyczFadUZoR3lNaDVyZHAzQzNMVHlaQQ?oc=5",
+      "published": "2026-09-08T08:48:48+00:00",
+      "summary": "“Nvidia Is Hamstrung Too”: Packaging Emerges as AI Chips’ New Bottleneck, Intensifying Global Capex Race economy.ac",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "packaging"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Nvidia chip export loophole clouds US-China AI summit talks - Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmpaYnpQZkdMZjZHd2swZGJSQ0JhV2lqcGJIVmhTNWkydVIyWVpSQWhIVC05NEktRHZzam9Oa0ZaRVl5cjhNNWY1dG1UWExZVzhQaFlxemZ6QzdRVzBiX2FpaktrNkF6RFBqRXE5RkViMER6MFMzZVVSUzlscDRfY282QjQyeEJNOHNpZnUtaG9OaVl2?oc=5",
+      "published": "2026-09-07T22:38:08+00:00",
+      "summary": "Nvidia chip export loophole clouds US-China AI summit talks Asia Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "The U.S. Tried To Keep AI Chips From China. The Cloud Created A Loophole - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVp1d0lqbEZNUDdCVUhyTGh6NUU1blJkVUFCM3dNUS0xYkNBM1BNQ2FKcTh2Snp2Rk1WX0RxRzRaYkFUc2lzaUlLQWI0RWRjd2o5aEpDeFdIb296Ui1VUW53bXRfS1VuYkFzQldFSU80VkI1RzFTRkJpamZYc195NFFVcEJlcDJIX1F0TElGaHNGcDBoeU9OZmNncElJd2ItMWRKOGQwamNaQ1I4RkU0VA?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "The U.S. Tried To Keep AI Chips From China. The Cloud Created A Loophole Forbes",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "America mobilises 3 powerful tech giants to Africa’s second-richest economy to counter China’s Huawei bid to build 2,008-chip AI data centre - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOFpBaUhWbGJoRnpmWi16cFZvby1XUUhleUtEUDNQdlNRZnlRS2tMTjRfQWRXNy1JS1RnbS1Yek9wV3lHbnNvNlhYNmx2M19rbVZfZVBXQ2RhVW0tdVJpeWM0NDJFNUhoSURXRzVwQkljajZPSjR6WlhweTFvUHhxS1dUd3BxV0l0amlMeVM1MjZGNDZpNkpuUW1LRVZuWGtGcy15OG12MXl5V2IwWkpRZ3laVGxsVzNVUUlMeXVZZGV5OHhEb2loRkF4dWIzWUUyLW5hUHYwdzZrUQ?oc=5",
+      "published": "2026-08-30T07:00:00+00:00",
+      "summary": "America mobilises 3 powerful tech giants to Africa’s second-richest economy to counter China’s Huawei bid to build 2,008-chip AI data centre Business Insider Africa",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "power"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "News Archive - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6ZElwU21tUjhXN1A5UU9ZZkswR2VPUjNkakllRDMxSVNZbTRRblRGWjJ0bjNkTkxlcWFqT1hVbm01M055dUdRTTNzRlUxdUU2WFlyTTVTV2lBSTYybHQ3clExUUtGUVNtZDQtSUlWU1RQeDNJUndjNUZmX0piUQ?oc=5",
+      "published": "2026-09-08T20:30:49+00:00",
+      "summary": "News Archive NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "News Archive - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHNKbDlORlhJbk9FY0dEbG1JTXBZaUkzMHFKempIWU1xNmRLc0pVMFVpU2d0eHdBVTFyWEhaWnhPNE1LYjRIcDFrWXBBR3c1N2ZxMEpZMnBpRGx1SnhBM2JfaUlBcmhiZ0JGRjNaaldOYThFcW03dGh5bVpqTGJ6dFNhTEJfd1NFaHdnY0RKdmoxbkQzc3lyQ1h6bm40aEptV19FVld6a1dPYXBsZ01UeE5xbTdmUQ?oc=5",
+      "published": "2026-09-12T03:23:15+00:00",
+      "summary": "News Archive NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "News Archive - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUdTTE5GVFJHcXBxcWxWcWJINjdWeXZYNmd1dzJzTERLbjdGcFFmeUhxWklDMVBrMFpwdmhsRVd2Rk5tR3RlZnF5U3JQMHZxRTZvdE5SOW5FVkZNMkxQMEpGLU9xdmdMRGRyR2gzZHNBLUZFYk5DNEJyQVhuakV4YmJzcHpNRnAtc2RSeW9hUW9iRkUzazlRc19IMll4QWdhVG1fZ09aODVfem96Y1RhemFuVG9UQQ?oc=5",
+      "published": "2026-09-01T12:45:39+00:00",
+      "summary": "News Archive NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "SEC NVDA Filings",
+      "tags": [
+        "nvidia",
+        "filings"
+      ],
+      "title": "8-K - Current report",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/0001045810-26-000078-index.htm",
+      "published": "2026-09-03T08:03:56-04:00",
+      "summary": "Filed: 2026-09-03 AccNo: 0001045810-26-000078 Size: 146 KB Item 8.01: Other Events",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "SEC NVDA Filings",
+      "tags": [
+        "nvidia",
+        "filings"
+      ],
+      "title": "N-PX - Annual Report of proxy voting record of management investment companies",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045810/000110465926103913/0001104659-26-103913-index.htm",
+      "published": "2026-08-31T16:32:07-04:00",
+      "summary": "Filed: 2026-08-31 AccNo: 0001104659-26-103913 Size: 6 KB",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Where $31.6 trillion of capex flows in the era-defining AI build-out - PwC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGRHT0Jza0F0SmZCYXcyM0VWenN1VmtIMC0zYXZBR09fMGp3SlM4ZWZrRFhQU0kwRUFYZnU2U3ItVnk2MTVtMlVTUnh1bjF3amFXb0tzNVhvUEpodUFrUXhUbGN3Ymd2Nkg5V1BNdmxJMEdaRnVidnF6RmRzQkloOXJ2TWJHZXhPYlRv?oc=5",
+      "published": "2026-09-02T07:00:00+00:00",
+      "summary": "Where $31.6 trillion of capex flows in the era-defining AI build-out PwC",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "AI, Energy Investments Could Generate $200 Billion in Commercial Insurance Premiums - Program Business",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcVU3TWNJajBZSzNMUVpFdV9RVTZFY0NXeDlpNDltUVp5VmFsaEtLckV1ckxrT3ZWLVJDSExMazRqbEFwXzJVWjhZT2ZrUmhBWGpwT0FlaUFBR3RNN3hDNldoeU1pckg0Ti1HWF91ZWJuazJUd0MyQ2c0NmJuUVpvYjlMWFh4MTBwVEtKSlp4QkRMUzJsR0hRSklod09UUVlueFdTbkdBU2o5RFRYeUNLaEpMOUJMZw?oc=5",
+      "published": "2026-09-08T13:01:46+00:00",
+      "summary": "AI, Energy Investments Could Generate $200 Billion in Commercial Insurance Premiums Program Business",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "PwC mapped where $31.6T in AI investment will land - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSVZKSmszM2RlZzVCd3NZVzBBN0gxamV4bnh2a083clBSTWkxMDZWOGpmUEdlNlVqUjFraFI5X2dRQmhkUDdTTE5mMEtkcGZ0eEtfbUM0eG4tZzM3R1cxZlRBTExjcTQ4LXpXTTVmbllXR05qVE0xcm5JdVJHUWxhV3ZsZGxkWGZFbjZMMl9ncEs?oc=5",
+      "published": "2026-09-06T14:07:00+00:00",
+      "summary": "PwC mapped where $31.6T in AI investment will land thestreet.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Is the AI Capex Bubble About to Burst? What 250 Years of Market History Tell Us. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzJWX1BKaXZXTXIycnJwT1pFQjRuam5BcURKRzJKR1J3a3M4OXNLM0txM1N2S2toX3BMQ2ZicUI5RV9aa1RnTVBRQmItUmYxN2wxNVBOeXF6c00zdkFyZS1sV3A3dzd6aV80WWVqRWljNEhXaGV0OFFPd0xveVdLQVlUOGVURmNuVGhsOA?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "Is the AI Capex Bubble About to Burst? What 250 Years of Market History Tell Us. Barron's",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "The $3.6 Trillion Question: Who Actually Pays for the AI Data-Center Buildout? - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zcFZkd29jU1BneW1SaVo5dHQzRXFQVFU0QWZacWhwdHFURl9RSy1JV25abnJKcHFaQ1Zia2FpRUI1MGppQ0tteVZIRFpHbkdyNUdnY0szMzZvb185Uk5lSHJlVWFVYnA1Mks5MTc2YjZKU1lNcnc?oc=5",
+      "published": "2026-09-02T18:22:00+00:00",
+      "summary": "The $3.6 Trillion Question: Who Actually Pays for the AI Data-Center Buildout? finance.biggo.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Gorilla Surges 5% as AI Infrastructure Spending Ramps: Is a B- Credit Rating Enough to Fund It? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOWcyRGllX21ua0tMZUtlWENRdVYybEc2dGdJOVUwRm9sV3RNOHlQUGpkajV6WjZIbF9oNnl6czltSFhMekdBSzhhelBycUR2REdFaVQ2V0VpZURtWmhaV1dwOV82bGRjTldIVnZkZHFZeTJoSTI1RmlCSlRzYjQ0VHFnQWt0cnpQaklFdGJHLWJyaVdKS2Z0TFllMVJhU25oeVBzMVlSVXFUZ0RsYmNIdlAtZldEWGlwaXd0MlY1Qml2aWRCeXVkMUpla2hSRXZK?oc=5",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "Gorilla Surges 5% as AI Infrastructure Spending Ramps: Is a B- Credit Rating Enough to Fund It? 24/7 Wall St.",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "How can Europe address its pressing AI compute infrastructure shortfall? - Bruegel",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2VnU2RMNVZBV1FucUJwc2RJOF9BLUpPVjdGbnk1SHYyY3lwNGpQdmg1cTVYN0M5Vzd4V0JwcDhLelBVYmxIRFRQMEwyR2ZfNnBRdFhaZGRGbGFQNlk5VVo2Um5kZUxlcHctWXdXQkdNRi1QSkloeVk1WVdtRFc5bFlPS3RONW9KQ3VzLW5PVUQ4eW1HMXhfSU1nTkk1U2lYZzZBdTNpSkhGNmVn?oc=5",
+      "published": "2026-09-10T10:30:31+00:00",
+      "summary": "How can Europe address its pressing AI compute infrastructure shortfall? Bruegel",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    }
+  ],
+  "errors": [],
+  "lookback_days": 14
+}
