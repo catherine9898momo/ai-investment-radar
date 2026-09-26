@@ -1,0 +1,277 @@
+# AI 投资雷达 - 2026-09-26
+
+回看窗口：14 天
+抓取条目：396
+窗口内条目：37
+
+## 重点信号条目
+
+### [Neuromorphic AI Inference: How China Mobile Cloud Cut Power Use by 40% - Intelligent Living](https://news.google.com/rss/articles/CBMifEFVX3lxTE1pWkRkN1JQRHRhN1hZU09PYXB3aW5nWDJwa1NYVW9ob2hwNUV4R2hwMjRfQTFnYndLMEl1MUZHdHFvaHc3MzlCaWlJaEtESldycGVkZnhPVFphZ0VZMGNrTlZaaDZJSjhlcXZhcmJKZC1xV3Y4SDJ5QkhsbVU?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-21T13:54:09+00:00
+- 标签：china_ai, cloud, chips
+- 信号：风险信号: cut; AI 价值链: power, cloud, inference
+- 中文摘要：这条信息属于风险信号，出现了cut，需要留意成本、供给、政策或需求是否恶化。它影响的环节是电力、云服务、推理。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：看风险是否会影响成本、供给、交付、政策限制或下游需求，并留意是否有公司给出量化影响。
+- 原文摘要：Neuromorphic AI Inference: How China Mobile Cloud Cut Power Use by 40% Intelligent Living
+
+### [Bloom Energy’s 800V DC-Native Power Can Cut Billions from AI Data Center Costs, Reduce Power Use, and Eliminate Need for Transformers - Bloom Energy](https://news.google.com/rss/articles/CBMivwJBVV95cUxQdndGU1BvUHZxM1NnMHFyd3BXcmJOdVZIZ3FIUlpneGhHdjZkX0xoZTQ5Wk1HWGF5d0Vqdm1tMzJrZE5vakZvUHlobVhtZUJleHNRc0RVdEpVYTRCNElxaDBSN1hHWndOcUhNNU1UVVZ2UmFZX0tlT205SGl3d04tT2dXd1ZLS2ljMXpZalZidTdtR2pTbl9lR2NieUsxbmFoMmV1WjZkWnFWWHFsU2ZPNXVtYlh2UFpvQ1Zwb1FVWGl6TWxYN3FUNlJDZE9lT0lkbHY5TnZIMGEwUENhTTdtbkViVHgxb0FHbnNZYU02V21LTkR4TVBaaTJnOE82RjdHT1ZSUU1qcWxUTFZNMVdJWDJIdUpvTWxsQlhhdVFmbkhfSXpja1lBUndfby1yVGNJWmJEdzJDUUY3Y2c2SnVV?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-16T07:00:00+00:00
+- 标签：data_center, capex, power
+- 信号：风险信号: cut; AI 价值链: data center, power
+- 中文摘要：这条信息属于风险信号，出现了cut，需要留意成本、供给、政策或需求是否恶化。它影响的环节是数据中心、电力。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：看风险是否会影响成本、供给、交付、政策限制或下游需求，并留意是否有公司给出量化影响。
+- 原文摘要：Bloom Energy’s 800V DC-Native Power Can Cut Billions from AI Data Center Costs, Reduce Power Use, and Eliminate Need for Transformers Bloom Energy
+
+### [Oracle Cuts 546 Cloud Engineers While Spending $95 Billion on AI Data Centers - Gadget Review](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbENReXlLQUVSX3NvczBuRF85WGMxMTRoV2cwaFNDOGNtUjZDeUtqQjF3UktEVnBuOU5nY1A5M0hUWkpUVTRzTTlHUjlYQmN1eHRUbDV6WDZwNkVCTkduaE84M3dlcFNoNk4xc3haTjdDZ1g4NGRfcy1VRFVOVDlxcmpzUmcyX1F3QTRxT0tqVWROMUdtMlFtNV9mRnNOTS1iS0VhQk1VeEE?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-23T16:02:16+00:00
+- 标签：data_center, capex, power
+- 信号：风险信号: cut; AI 价值链: data center, cloud
+- 中文摘要：这条信息属于风险信号，出现了cut，需要留意成本、供给、政策或需求是否恶化。它影响的环节是数据中心、云服务。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：看风险是否会影响成本、供给、交付、政策限制或下游需求，并留意是否有公司给出量化影响。
+- 原文摘要：Oracle Cuts 546 Cloud Engineers While Spending $95 Billion on AI Data Centers Gadget Review
+
+### [The Alibaba Cloud栖 Conference Kicks Off in Full Swing: China's Most Powerful AI Chip, a 10-Trillion-Parameter Model, and a 20-GW Data Center - 富途牛牛](https://news.google.com/rss/articles/CBMioAFBVV95cUxNSC1EVVB6TGVtZVBzY25pS3lGREFGM19iTHpfNlpBN1d5cndmT2djaS1KNGZ3UVZRNWEzOFdDekF3Yllmei1tb0pNQ2tQbTV0Q2xTeFZzWG9ENWFVcHhtcEF3dXhqbUc5R09CN3dvTFhpWHAtbTN4TzU4Rk1qdkllTUlPZnpvbUtxTFltaVpIMzlxdzU3VURvb1BUbU1IVVFF?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T03:03:00+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: data center, power, cloud
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心、电力、云服务。它影响的环节是数据中心、电力、云服务。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：The Alibaba Cloud栖 Conference Kicks Off in Full Swing: China's Most Powerful AI Chip, a 10-Trillion-Parameter Model, and a 20-GW Data Center 富途牛牛
+
+### [CoWoS-L to Remain Mainstream AI Chip Packaging Solution Through 2028 - iconnect007.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHpZT2YxZDg1RVNZcVFjZnpwX2hockp3UHNsUFNNMDNlbklLMjdzOVNqR1FLYmRNRnRLbjBsNXVkM3FpMklMUXdyVEZrQjJnQUdQaFA1OTR2eXB5d0JaY0l6WmRhb1FiekFia3NhS1VSeUozamlNVGRpYWtuQlF6WF8ybl85aExtU1BZMVA4LThEZ0JHTXVEOVdJYi1vR3JyTDJiakZCQlBtOVFfUHJDbjkwZnFkOV85?oc=5)
+- 来源：HBM CoWoS AI Supply Chain
+- 发布时间：2026-09-18T10:16:00+00:00
+- 标签：hbm, packaging, supply_chain
+- 信号：AI 价值链: cowos, packaging
+- 中文摘要：这条信息主要是产业链线索，涉及CoWoS 先进封装。它影响的环节是CoWoS 先进封装。来源归入「HBM CoWoS AI Supply Chain」，标签是HBM 高带宽内存、先进封装、供应链。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：CoWoS-L to Remain Mainstream AI Chip Packaging Solution Through 2028 iconnect007.com
+
+### [TSMC's Advanced Packaging Dominance Firmly Entrenched; TrendForce: CoWoS-L to Lead Through 2028 - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFBub1doNGlST0ppWEFiUXBFcl9YUzF4M1o5eTdBcGhRRmFaZUUxbFlSNmRpZ2tkMzRwU0VRNFNiX2FjZFJBbVR4azc5R2NEaE5zSkJrMlM0X283U3k5eU4wNFJmY2xYeVd5emRUOGxOZ0w4Z0pWOFE?oc=5)
+- 来源：HBM CoWoS AI Supply Chain
+- 发布时间：2026-09-18T21:58:25+00:00
+- 标签：hbm, packaging, supply_chain
+- 信号：AI 价值链: cowos, packaging
+- 中文摘要：这条信息主要是产业链线索，涉及CoWoS 先进封装。它影响的环节是CoWoS 先进封装。来源归入「HBM CoWoS AI Supply Chain」，标签是HBM 高带宽内存、先进封装、供应链。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：TSMC's Advanced Packaging Dominance Firmly Entrenched; TrendForce: CoWoS-L to Lead Through 2028 finance.biggo.com
+
+### [Will US cloud computing restrictions rain on China’s AI parade? - scmp.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVRqQUpKTUtOdmRKY0xmMmhyTWJyWW9ENVM4cFljb2cxX1ZLRzQ0QktDY19DY2ZYNWV1RDQzU09DSVlwejRsTjhIS3J0UllHbmVBWnllMWp0RlhJbzhSOWdFYzV2TXFQNHlzLXZLS1dYMWdyVW92Tk1BWVZ4ZEVUMVIyS0ZMaThqejJSaWNIOGtpdnkzSnc2UTFpcVJyQWpBWGt4VmRSb0RUMnM0SkV6VlJoQnplak02LUpUbl930gG-AUFVX3lxTE1vUllFajg3OW9ITGVWM3lXWFJfc25NeU5wNHNNcm1ENDJHTnV1X0dpM0JicnFWMG9fajA5ZkdNcTM3ejZEaGQ0b3prTFdqV0tLSUZycm1mbVJ2bHVKV2s4Wm9hMjdQUVJRWnBINTRPcFBPR3hUN3hZdGR0WmtXNG92QzQ5WS1GdnRiVVFjYjhHMm9UT3RKaWI3czNqZmdjQmljQ2xfN1NBUjQ3blZ6eDVlY0ZPdEx1bW9BTzA1NlE?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-21T02:00:26+00:00
+- 标签：china_ai, cloud, chips
+- 信号：风险信号: restriction; AI 价值链: cloud
+- 中文摘要：这条信息属于风险信号，出现了限制，需要留意成本、供给、政策或需求是否恶化。它影响的环节是云服务。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：看风险是否会影响成本、供给、交付、政策限制或下游需求，并留意是否有公司给出量化影响。
+- 原文摘要：Will US cloud computing restrictions rain on China’s AI parade? scmp.com
+
+### [Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them - theregister.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUmd1ekh6U2tfakY1QkxiamF1aGhXLVZWYkRITWpwM0NQSUpHaU1ZVUczajBkbER5YnNqRlVmakx1OVA0YmVDbDh0RHBObGFKR2xuM2tFZXNGbHdTZHJKRE5lWXNHQmFFdGF4Y2EyOTNwNGtFZFNSc3YzWkprMkQwVEUxRDlhYl9pbDViS2hVSHhTdV9fTHIzZjJCeXlwQmFDaWJnVlZyR3Y2ZXFFWjdLemM1QmVIQkRVUzgwb1c0YVljejVEUkY5VkpiUXZWVmVVb3h5eERmZmo?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T05:42:32+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: power, cloud
+- 中文摘要：这条信息主要是产业链线索，涉及电力、云服务。它影响的环节是电力、云服务。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them theregister.com
+
+### [Zhenwu V900, China's most powerful AI chip, plans 20GW data center expansion by 2032 - ET CIO](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd3dOYjlRTjl0LXN2dmU0WTIwQUhJQ3BrSlV1cnhSU3FmQUp5ZWxaVjdIVjhKV2tiNWN3ZkI5Vm5iZkx6anBZY2hDdkl3VUpCbFB6YXhGZG9hSGIzZkNFZGFQS002MHdHWXdWRUlmWEVSSnZkVjRHcEl6dkRMTkxoMTl3c0lkTHVtd0JtOUNrbS1MMlI2cnROZEZ5SHFOa2lkdXZwREdqc1hRTEtIbnlodWdjVC0xMTZDT0t4NnQ5S19vMC1Hc2NDOGlKNFVtM0Z1R3J6Zmw2dURvaWxBeVNtLXlwVHc0QUY1WFRnQU9DSl_SAfYBQVVfeXFMUGxLaVFRQ0RJVGc5azJSdjNFRnpoM0l6anJWNl9QN3hVUXRIZXNMaEpHWmdsRkYyV0lwLWNJeUJiamhDOGQ5b0RvZm9wZFB2M3lZTzgxY3hRU1M1U0tFanRZVUFMeXFHcnowbFRxY2thc0Q0Y3ZCSXBxbWFGNFBydnJRUzFSQXpLaVhXOG5XeTlSUzBxelpyaEFqYVhvUmRTc19oVUVaUERBZ1FWRm9JUjJsbGc5U3BzaU93eC1ESFVaM3pvVkJwbEh0eTQ3bll2a2d0Vmc4TUkyd05ESW5XUnVJbVRiSFNWUTFuQUhpeUt2LUxLclFR?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T07:30:00+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: data center, power
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心、电力。它影响的环节是数据中心、电力。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Zhenwu V900, China's most powerful AI chip, plans 20GW data center expansion by 2032 ET CIO
+
+### [Alibaba’s Trillion-Parameter AI Bet Reshapes China’s Race for Chips, Cloud, Power and Computing - devdiscourse.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQemxrWFVUMUpESEpYcGN0NjZ3WC16NEdMNWhHWTd1T0dBNkM4YkZISG5mNGF0Wk84WG8zTmxXQ1FScWY2ZlBUUVlWQjRDT0xJNEJDZU9rdGFNeGlzMm9fdjNUaXREUFI3amktMWVWb3dLT3ROY3RlelZoX2dEbVI1enVKOWp4QktLbHd5QUxicTdqeUcxUzRlLUFlbnAyMnJiUWFhcko3ZU55aHZvNHdIaFhUQkFSbF9yMFlYRWRTTTBzc2xTcmxHS0xWRnBEc0lLMG10V3Z1bDRvWXdRNncxZ9IB5gFBVV95cUxOUWljTG1fUXJtWl8wT3lNWnQ3VU8zcjlSTUFFOXFWY2hlSEFUVUxCVzY1ckdZYXhaQ0JGM1Nza3owakl4cktFTE5oOVZ6cHQtY204ZmEyRVRXWFpPY3BwOVVyVjl4RXFqM0c1em5YTExLNFZvRklYNGlvVGR3bkRfN093dmhsZXVieUI1ZjBQX2RfbG9oWDZsUWlnTXBqSVlHQWV0MmlGWDBDejB3Y1BwM1duTGlwZnBiR3JnbU1hNVBmSzgxdEVpRzlLb3F4R2NDczV1aGZSXy16NG8wS0NNVFhUREVvUQ?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-23T03:34:41+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: power, cloud
+- 中文摘要：这条信息主要是产业链线索，涉及电力、云服务。它影响的环节是电力、云服务。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba’s Trillion-Parameter AI Bet Reshapes China’s Race for Chips, Cloud, Power and Computing devdiscourse.com
+
+### [Data Center Boom Accelerates: 3 Top AI Stocks Averaging 296% Forward EPS Growth - Seeking Alpha](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFpVT2R5OWV2ZlF4bjV2STF3SXRWYXFyV3JLVkotQ0ZIMXFrUVg1c3h6UHNKWFR3N3FSWE1ndWpuNXA4bVBGeTU1Wk9xREZQZkxCbHQyMlZlU2JoR25FRmFnejZwYU1UUTdRVHd2djlUa0ZPQUlZZzJDdWJSZ05yTHFpLXpyNVZzQW83N3BubnFqUW9WcUJuakFWVTU1dGF5eVJmb1NZZFdxbG1OcHVXYnpvNDhoSXJUVWlsT0dLbWd4SEhV?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-12T07:00:00+00:00
+- 标签：data_center, capex, power
+- 信号：AI 价值链: data center
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心。它影响的环节是数据中心。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Data Center Boom Accelerates: 3 Top AI Stocks Averaging 296% Forward EPS Growth Seeking Alpha
+
+### [Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro - Light Reading](https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXhKbUtsMnB5ZFlxb3JiMjlBRkF3bHpyeGJBS3pNcm9NakdWcnpVdlBKRnNkMkU1SnBwdnpHLXJtZ1liSVNadVFjWDlFNnBxRWNZcEpsaTFRRFViYnVTZXZlV3NQNUxIWW03czVvWU4zYjRLUHp6bjFZRzZNVmtOaVU0LWViY1VfU0pUOThrWThQaURnTGhLTXZsaW9vYS1FU3VOVU5sTDdMQVhXb0wzWUFOSEY4T3hqaHpuZA?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-16T07:00:00+00:00
+- 标签：data_center, capex, power
+- 信号：AI 价值链: data center
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心。它影响的环节是数据中心。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro Light Reading
+
+### [Amazon (AMZN) Leads Big Tech Push Into Record AI And Data Center Spending - simplywall.st](https://news.google.com/rss/articles/CBMixAFBVV95cUxQcE4tSThKX3F3ZFd3dTluZGNTNE5PbGhzcDdfVzdQWktJUjhHMnhYMHJ3aDJxdWxESzJ6eXZQOWNyRGJYZzB0VHpvSWRaS2dhZUVUWFUxT0ltSFJQQWM1N3VBSnBSRC11T0pIOTEyYWxtNHlEdDhuaVhId1FDXzc1ZFhxYWFVa2tySGl4N3JTeWNtU193czVyOG5jLXVPay1DX3ZxbERtOUF3SF9YWkg1S3NSNU9DbThRZVloVmNpYWU0NC1h0gHKAUFVX3lxTE4xVk0xS21STy1HMTA4bzJkS0stM0hiU3N4X3liV0c5eG5hcnFjUVQ0TGtXaG5pWDExeER6UUpqaHVhMlUtYzlkdTY0QXdtZGtBVHdPMUdpMUJwNTI0ek5CYjNKSGlvaHNkTmtKblU2YWx0UG8wUjFYU3haX1JPRkFxRWI3TmFEMGpKT1pnQlNDOGZ6aDh1cmhycjZtSnM0cEoxZGM0VloyRGNTTjBLeHJ4SGpWS0FBc1JKSmVBLThLVi1QY0tSU0lYM3c?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-24T02:30:07+00:00
+- 标签：data_center, capex, power
+- 信号：AI 价值链: data center
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心。它影响的环节是数据中心。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Amazon (AMZN) Leads Big Tech Push Into Record AI And Data Center Spending simplywall.st
+
+### [US Corporate AI Investment Surpasses Housing for First Time as Data Center Spending Reshapes Economic Structure - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFBqXzNsUkN6aFRVV0IzSGpjT3hhM0NSdDdBYUgxSWU4V01IcURsRENDVjc0MUd2SkRMdjMxTDhOTDhMM1pEZk41WWhSSlBJN3dGbTUtT2U5NTQxVlNvbW1wdGtvWEhnQWg3ektlTjI1aEkzU0RVVWc?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-21T07:35:00+00:00
+- 标签：data_center, capex, power
+- 信号：AI 价值链: data center
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心。它影响的环节是数据中心。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：US Corporate AI Investment Surpasses Housing for First Time as Data Center Spending Reshapes Economic Structure finance.biggo.com
+
+### [Insurers Turn to Catastrophe Bonds to Cover the AI Data Center Boom - Startup Fortune](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWFxNmhYRG9WM0l5V1hiUE9tVHI0UVM1X3oyUEF6NEdqQTRBdkRuX3NGTy1qMExiMF9tN2dTZEZtV3VuX3NLZVVMLTFJcFRQT2JaZEI5bWdPUW1SMG5VamlSZV9lSnJNNklsNXE4U0VrU1FqNXNfd3hudWxFLTFiSEY1dUVMdkdpMFNGQUdVSEJFYmRPQi1sMXlJMA?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-12T07:36:10+00:00
+- 标签：data_center, capex, power
+- 信号：AI 价值链: data center
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心。它影响的环节是数据中心。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Insurers Turn to Catastrophe Bonds to Cover the AI Data Center Boom Startup Fortune
+
+### [Alibaba shares jump as new AI chip, data center buildout plans unveiled - CNBC](https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcFVPdHlLbWVwQUxhZkFraXoza1JJNjhKTnBfb29EM0xCVUZzVU9WWVc5RGVKZGl4clhCYTR3TVZWVGExWUdDWDJYUEs4V21Pb1lUTmRiTllRLUNub1ZIcFEyVm13OFVjV1cyMndSV05ZcUlvRG5EUFR4MFVDQdIBgwFBVV95cUxPYlBPYTZDRm4tR2xtNlNmajZjQXNTWnh1R1pNMVhSNWZySmNkZldVRzc1N2lwNU40UlJKZHRTWlBPQWZqTU1JdVFIWDQzSm1XREhnQnBZUkltR1dGaVVsUDBUNnhSNjZzSWRGamdvSDJ1emhQUHpUVlIxazRJQi1GTU5NQQ?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T05:15:21+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: data center
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心。它影响的环节是数据中心。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba shares jump as new AI chip, data center buildout plans unveiled CNBC
+
+### [China's Alibaba unveils new powerful chip and ambitious AI model plans - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTdMZmxNRjBERWJIeWUzNFRhdmVvbjk5ZnBqVTlxRkNzMHo2cW9NbFZoY0c0Si0xOThFV0xIb1RWZVJLQTEtbGtrUnk0ZWxhLWpMcWlRMjRBWmR3ZzdrcHdCSUU2Uld5N1hxcXR0X3RDbWF2d0lNaThwejdSMFE5VjFBamQyZVNfMkxnd19oQ0pKT2ljUVZTSTFaanF6WDZGOUstMC1kZ00xX03SAbABQVVfeXFMT3RpUUZMQTItVTFHamktM3NPMzhlcTlVeXQxQzhvQmNkOHFLYVRYMTB2TlI0Z19ZZDZyUlllbVJweHBFWlRwRUZaX2JhR3ZITkI0M0FEXzJwMWJhc1RpN24tbTNvTjdSM1VVMFBKWG91Wll1Y2NmUzU4RFhXNG1RbDVEcUc1dVVNSkV3a2NNUkdTbkJyS2dlSGY3cGFHOVRYTlVDUFp2Q1hVNGtSMTl6cDc?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T12:07:33+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: power
+- 中文摘要：这条信息主要是产业链线索，涉及电力。它影响的环节是电力。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：China's Alibaba unveils new powerful chip and ambitious AI model plans ABC News - Breaking News, Latest News and Videos
+
+### [Alibaba to open new cloud regions in Finland, Netherlands and Turkey - Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjdHSFRybkFLaFdveDNHRHlJN1NmOGZLUGlYZHpLX0FtM0pmYXZ3QjdkQm94aDF5S1JoLThXM01VbklLUE5oOWNFd2lJNGVTNUl3eDZOTjJwRWRIN21wS09KU3loa0lQbWItenFpcHkxZzBWR2JicVNqZXRBSUF1aE83RjFNemhBMWxrb2JyUkpkRTlDOWRYeTBPWW1KcXB3NnRpbnU4bnlyYXRyOGxwbjRVOGVtUk13VmJB?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-23T08:29:55+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: cloud
+- 中文摘要：这条信息主要是产业链线索，涉及云服务。它影响的环节是云服务。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba to open new cloud regions in Finland, Netherlands and Turkey Euronews.com
+
+### [Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips - 24/7 Wall St.](https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUt3NU1Ub2xka2pSN1lZZkt1Q011OThMVjRNcnhwbUVBN0hVeUg2YVpXVGFPQ0ZSTjlLbkNTOFpPTjZlZk03NjdWYVJKS2FWMXFRTVY0TzJXYUtXRlo4UXY4UUdEWVVKdFYwMzNxMUVXWnNDeWdFOWxxTjBSdWN3WlIyTE9yemQxRjZzQlduWTk1dmhXZkpJTUtWUEFRd3l3a29sOFl1ektjYkVWSU8zTjk0aG9UZ1N3Z0RaWHQ3WVo5WlBTNGZ5eXZILUpidw?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-23T13:24:00+00:00
+- 标签：china_ai, cloud, chips
+- 信号：风险信号: cut
+- 中文摘要：这条信息属于风险信号，出现了cut，需要留意成本、供给、政策或需求是否恶化。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：看风险是否会影响成本、供给、交付、政策限制或下游需求，并留意是否有公司给出量化影响。
+- 原文摘要：Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips 24/7 Wall St.
+
+### [Alibaba targets 20 GW of global data-center capacity by 2032 - China Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE9KRHZ4VXRhNWZBX05SWE5yekkzcmtkNDJOR3hZQ3g5XzJkZGExRjlYU19CVlFacmxtNHdHcUxXY1JQcWJrUGd0SlVhZk52OUxhd3lQS0VJcTR4LUxCV2FIZ1B6T1R2Ym4tRDRnNzFqZ2xkdTBSWWlQWFpCRlJLUQ?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T05:41:51+00:00
+- 标签：china_ai, cloud, chips
+- 信号：硬信号: capacity
+- 中文摘要：这条信息属于硬信号，出现了产能或容量，说明它可能涉及采购、订单、产能、融资或交付安排。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：看原文里是否有金额、客户、供应商、时间表、产能规模或交付节点；这些决定它是不是可验证的投资信号。
+- 原文摘要：Alibaba targets 20 GW of global data-center capacity by 2032 China Daily
+
+### [Alibaba debuts ‘China’s most powerful’ AI chip, teases 10-trillion-parameter model - scmp.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUtBRE1sbV9UU0FtQUpfZ2NPUUxsUEhiZDZOUm9FOUoyQ0ZtbDRPRDVQSW9BRDU1eGlUUTNYc2o5bWkzSUdsaklucXZiVjAxUlZsYlItQzhtb2x0OGJTalI0M2lzY3lrVk9KcXRYVnh2LUZKdHF4bXQ5ZFVTZjhKYmFZZi1Mc2RQcEl0QVNWUU5XUXpMWF9DUkN3cGR0U1ZjanFvNFJOVHV3cDJOQjM4SWt6c0NDZDVmRHFUT1BVdDVvblJMNU5PQdIByAFBVV95cUxPWm9uVlQ3XzU2NkxOLUpQSnlDZ2VJWUZrUXQ0MHVGcFpDbEowX1NHc09KcFZQQnVTTVphS0xRX3hEenJSX3pKWFR6elBUR1ZJa29LOUFXRlZmX1k4Wk5mbUNwT285bHgwcmlLWDE2ZWd5UnEybDUzUnYzaUFsRHdNR2xqc2lxcnFvYVhCRmE0bVdxVVhCWWw1d19Gc25acWREZXhBTXhuVkVHZVcyZkg4bHhxaUpDYTBBWlVnOTdFdUNIamJxaExLdg?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T05:59:40+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: power
+- 中文摘要：这条信息主要是产业链线索，涉及电力。它影响的环节是电力。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba debuts ‘China’s most powerful’ AI chip, teases 10-trillion-parameter model scmp.com
+
+### [Alibaba Cloud set to open new data centres in Europe as overseas push gains pace - scmp.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHAyN05pZzNDZzRNVzZsdklCTHpZVmxvMlBLVzdQVjMwU1pILUd3VGp2TGd1bzk3SFZ5MUVYX2NWTlF6Uld4Ty12SW5yNGhPbWhRSWk2RHdIMDdIbDVmekI5aElJdzMtRWpBWGtGQjRUTE9ySW11TjBIX1RNbmFzaTNpbENMMnhoZmpYTjBlTjdfd3Q0X29JSV9YWWQ1TkpQeVNpX0xfSHozUzNvX1JrREtWakYxREtrSWRrU0hLUmIxUmNwUFF30gHHAUFVX3lxTE13ZHhlcDdMcUxuaVo1TG5GQ193ZkNCWlZDZTBXYVNFNlBKcWhYajd0NldXLUNlNVNxZjZqazl3ck00NDhzNzA5MUxrdEFUNjJ6MERPbjdISkRITVVCM2hOazJxYVNoUDc3bzJ5czFoWnZwX2hNSFAzTXVuXzhFZm5YS2pnT3haYjg2YW5PdUdHdUZGVzd3S2V6UlR0UWRuNkd1MDdwUHhrSlFucm1ZMk0xNEhyQmRGYkJzcU9KT1JDM19aTV94MW8?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-23T04:00:10+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: cloud
+- 中文摘要：这条信息主要是产业链线索，涉及云服务。它影响的环节是云服务。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba Cloud set to open new data centres in Europe as overseas push gains pace scmp.com
+
+### [Alibaba unveils powerful AI chip to drive global data centre expansion - The Straits Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbU5GZE91UjFlaEs3VjZwdmxMSFUyLUJxYkY1Y0pUcDhLMmRJUzBDVnh1M2VzbjkwTkxLOWQyZXdKV09fbXB5R3J3TnNnX0NjVk5qRF9CS2c2b19SUndpOFB1Z1h1S09oN0piakdmM3N0eGRPQWxRSlJaM1ZBdjc2enJacXBIRjJldnpsdTdfTnRCa1BLbXVWbG1QMlREVHplSjRvcWdJZTV3QzVT?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T10:10:00+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: power
+- 中文摘要：这条信息主要是产业链线索，涉及电力。它影响的环节是电力。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba unveils powerful AI chip to drive global data centre expansion The Straits Times
+
+### [Alibaba Unveils China’s Most Powerful AI Chip as Tech Race Heats Up - New Fortune Times](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeFBIaWJYWFRhT3FqVDdYNjBvSFdnVkhkRTVwcEwwM1dxS3BQdkRwbDA5QzRmNlpGelFqR05kd0FmaTRaSURKWUJuZXZSQzJBenRDanZ1cy0xaWxadnJJY0dyTDVaMnFjYnI1NG81QW1DMzIxYktGUzF2dlJRM3F6TzYtUVdsejNYdDNqdGRkZWZvWV83WGpNVHJhX0lGMDZX?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T12:54:44+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: power
+- 中文摘要：这条信息主要是产业链线索，涉及电力。它影响的环节是电力。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba Unveils China’s Most Powerful AI Chip as Tech Race Heats Up New Fortune Times
+
+### [Alibaba unveils its own Zhenyu V900 AI chip, plans to expand data centers to 20 GW by 2032 - 디지털투데이](https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUZmallIQm9kSVI4VFhJemRPcXI1cF9Bb1ZWeVpVTHVTRjUxZk52WUhVWG56VU9wS0tLNE44ZVJaY21LQjk0NTVlLWN2ZjZXaHRUenZPZU55Z0dDNmR5QUx0UzBLeVhqdjMxamR2ZDZtWXBIWHF4ckZVanBIb0FDTEhRZXBIWW1EZ2RneTFrZXBMMUtBYzFUNVdINThjRW83cWlKX1k5VDVnZ1BpcXZfVktaR3p6a2IxZms3RXVIV3VjYWdPRHg4RDZwRmlOclR3?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-23T00:49:19+00:00
+- 标签：china_ai, cloud, chips
+- 信号：AI 价值链: data center
+- 中文摘要：这条信息主要是产业链线索，涉及数据中心。它影响的环节是数据中心。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：先确认它对应 AI 产业链的哪个环节，再看后续是否出现订单、资本开支、产能或价格变化。
+- 原文摘要：Alibaba unveils its own Zhenyu V900 AI chip, plans to expand data centers to 20 GW by 2032 디지털투데이
+
+### [NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjBPVXRfZFRUYmRtTUVFSXVfaUdHNTBFNjFONTkxWDhMMmUzRjBPcjdvRmNKbVNTLUxodExCS2RDZ1p2ZzhaaVM2ZTlFbUxmSnVfaWlaaTFnTzJHT09iMlZXTVRoTGxHNl9mS1NoZWJ1bDBPeXQyaFRUUEJyZGJJM3ZKOTZ1Nk03d3dnYk5YN3VFYm9RRnpYc0VabmUzb2lLZENBcUU2Z3B3ekd0YWtzcEtxRUg?oc=5)
+- 来源：NVIDIA Official News Mentions
+- 发布时间：2026-09-14T07:00:00+00:00
+- 标签：nvidia, chips, ai_infrastructure
+- 信号：未命中信号关键词
+- 中文摘要：标题没有给出可验证的硬信号。先作为背景材料保存，等后续出现订单、产能、融资、政策或价格变化再提高优先级。来源归入「NVIDIA Official News Mentions」，标签是NVIDIA、芯片、AI 基础设施。
+- 阅读重点：看原文是否补充了数字、公司名、项目进度或政策细节；没有这些就只保留为背景。
+- 原文摘要：NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing NVIDIA Newsroom
+
+### [News Archive - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3ZHRHJZRzdab0RBNXRteDMwZXFVN1k1Z043M0pEX1hWeGotdnBuTEhrUGJMM2FpWkpQaV9fTVkzYVNzay1IZEp0MkJpd0RieEx2Y1pVejVqN05LUVBpSG1sc01JVkcyVG1NS3FwcnhvVzRlLXROYXc3Vm42SmJIaHF4bGpjSW1WTklYa2d6WUtBemxMNXFJdVNVMGlramxjQ2c5ZlJ2LWFZa3BuUUlZY3UyRW1vZw?oc=5)
+- 来源：NVIDIA Official News Mentions
+- 发布时间：2026-09-16T19:37:25+00:00
+- 标签：nvidia, chips, ai_infrastructure
+- 信号：未命中信号关键词
+- 中文摘要：标题没有给出可验证的硬信号。先作为背景材料保存，等后续出现订单、产能、融资、政策或价格变化再提高优先级。来源归入「NVIDIA Official News Mentions」，标签是NVIDIA、芯片、AI 基础设施。
+- 阅读重点：看原文是否补充了数字、公司名、项目进度或政策细节；没有这些就只保留为背景。
+- 原文摘要：News Archive NVIDIA Newsroom
+
+### [AI Investment Accounts for One-Third of US Growth, Raising Risk of Simultaneous Market and Real-Economy Correction if Profitability Doubts Spread - economy.ac](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKTkczR3Jzd25MNHhQNkZoZ3k1TjRRaEpsLUpRX1FKcktnUFAxX0JUdlh2amV5RlNEY0V3eVVrNHhkSkl1WXlWMUhtcndzM3pRcDE3amVPVQ?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-22T07:44:27+00:00
+- 标签：data_center, capex, power
+- 信号：未命中信号关键词
+- 中文摘要：标题没有给出可验证的硬信号。先作为背景材料保存，等后续出现订单、产能、融资、政策或价格变化再提高优先级。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：看原文是否补充了数字、公司名、项目进度或政策细节；没有这些就只保留为背景。
+- 原文摘要：AI Investment Accounts for One-Third of US Growth, Raising Risk of Simultaneous Market and Real-Economy Correction if Profitability Doubts Spread economy.ac
+
+### [Capex to Consume Nearly All Hyperscaler Operating Cash Flow in 2026 - Broadband Breakfast](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXVTSVQyOXJOeEJBck5SWTNiYlNPZjR1cFhha2VyUUlYNFhjS2FrZjI3MTh4alczOUhQcE9QbHhqNmxPb2FXNXhMY2pMYUZ1Q013SzFMOWJUYWE0UzBhTUFuOEh1b1ZpcUtjcHJ0aW9mdUJJZU9TTzBPZTFBb3JWTXduazBoWjJDMTNUN0hORF9JbU9HeWdaQmE4MTQ1NnI4?oc=5)
+- 来源：AI Data Center Capex
+- 发布时间：2026-09-21T20:42:07+00:00
+- 标签：data_center, capex, power
+- 信号：未命中信号关键词
+- 中文摘要：标题围绕 AI 资本开支。重点不是标题本身，而是原文里有没有明确金额、建设周期、受益公司或支出方向。来源归入「AI Data Center Capex」，标签是数据中心、资本开支、电力。
+- 阅读重点：看资本开支对应哪个环节：芯片、封装、内存、光通信、电力还是数据中心建设。
+- 原文摘要：Capex to Consume Nearly All Hyperscaler Operating Cash Flow in 2026 Broadband Breakfast
+
+### [Alibaba deepens AI push with new chip, bigger model; shares jump 5% - Reuters](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5)
+- 来源：China AI Infrastructure
+- 发布时间：2026-09-22T02:50:00+00:00
+- 标签：china_ai, cloud, chips
+- 信号：未命中信号关键词
+- 中文摘要：标题属于股票或 ETF 观点内容。它不是订单或业绩本身，适合用来观察市场在讨论哪些 AI 资本开支受益标的。来源归入「China AI Infrastructure」，标签是中国 AI、云服务、芯片。
+- 阅读重点：看它讨论的是哪只股票或 ETF、受益逻辑是什么、估值假设是否依赖 AI 资本开支继续增长。
+- 原文摘要：Alibaba deepens AI push with new chip, bigger model; shares jump 5% Reuters
