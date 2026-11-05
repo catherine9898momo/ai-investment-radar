@@ -1,0 +1,182 @@
+# AI Investment Radar - 2026-11-05
+
+Lookback window: 14 days
+Items fetched: 218
+Items in window: 25
+
+## Top Signal Items
+
+### [Nvidia tells data center partners to cut China exposure, limits RTX chip sales to mainland - Data Center Dynamics](https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHJ0cDhOSXpIZC1VV2N6ZnV2c1Z6QmRRM0ZvZTBXcHZ6SW9LVEs3bUpPUWZ3elFDTldScTFIdHFzM1kwVjRhWklMa0lpTTFIVkZ5d00tXzc3ZXdWOWlWT2YySnc5TTJERzZUZ3BqOVc3Y01obE1FbEp0cUcwalIyRzJETWlib1FTNjFXM3lRZ25YZktKR2Z5RzBadG14SDlRWkl4YVdXbTNpbExMTVhWaU9LazltcC0xVEh0WVRmNkZXNHNaZ0tQOTc3WnNDdw?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-04T16:17:14+00:00
+- Tags: china_ai, cloud, chips
+- Signals: risk_signal: cut; ai_value_chain: data center
+- Summary: Nvidia tells data center partners to cut China exposure, limits RTX chip sales to mainland Data Center Dynamics
+
+### [Nvidia orders data center clients to reduce China exposure: FT - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxOU24zQnBzOGNvR2gwYWs0ekQ0b0JlSWd6Snd1TUVGOXJ3UWJOX25KaWhqX3ZZampncFphLWtDdUc4U3cxTm9pSTBHWFBicVlCemNoWFA5VXRUZzNPMXUzNV92MFdvc2N6c21FaEx5OHR5YnpES25CZVJhQjk3MjgtTDZZQm5zdUF0eWkyWHNPeVduTWpHZjdIQWptWWdKQQ?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T08:09:11+00:00
+- Tags: china_ai, cloud, chips
+- Signals: hard_signal: order; ai_value_chain: data center
+- Summary: Nvidia orders data center clients to reduce China exposure: FT Yahoo Finance
+
+### [Nvidia orders data centers to reduce China exposure - Taipei Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNDZ4WW1PRmpjZ0lKVFllWFE2cldLYnZ1M19JaTlvUHBjdXJ1Z29ob193eXY5S1lDNGRTWXJxYlFYOE1oNnNoN1U1RVFoVFFRYTF2MW02NWE0bF9xcVFRQ3JhNl9kYzZ6dExIaGRuVV84UExvZmc?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T16:00:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: hard_signal: order; ai_value_chain: data center
+- Summary: Nvidia orders data centers to reduce China exposure Taipei Times
+
+### [Nvidia Reportedly Orders AI Data Center Partners to Reduce China Exposure - CryptoRank](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRG1xMkpKdnVXWTlFek5aVzlSZUZBdURCTWpuUHJEWlZVbVk1cDJOWnlraHlyUld0R0tfMEFVd1BIUXNNdlQ0RWJEeXhkNjJ0RnZXUDZ6b1VmbFFxN3BpdlZnQ3lBSFZfYWc1ODFNNHJtcXJiVC1VSGhrUWtaSXIzcnRyWnd0UzN6NHhKZU1TM2ZRcnVkUnRpNmlsZXI0c3ZQMS0xb0Z2QkstOHA5STJkcA?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T18:23:01+00:00
+- Tags: china_ai, cloud, chips
+- Signals: hard_signal: order; ai_value_chain: data center
+- Summary: Nvidia Reportedly Orders AI Data Center Partners to Reduce China Exposure CryptoRank
+
+### [Nvidia Said to Verbally Order Cloud Partners to "De-Sinicize," Requiring Non-China Customers to Account for 51% - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9HdkhGTTdQNmR2SXVwa2FXYWw2LWlMWUtfNjVISUJMUF9HQzJVOEl5ZGJtZTZIc1VuYW5tS3UtdXh2NlhjTkZzVmc2R1d5OFZsMDBLMHN0c1ZPMlpKblJEUHpER0ZZTzdGdDVFUFBxQ2VENjQybFE?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T06:55:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: hard_signal: order; ai_value_chain: cloud
+- Summary: Nvidia Said to Verbally Order Cloud Partners to "De-Sinicize," Requiring Non-China Customers to Account for 51% BigGo Finance
+
+### [Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access - Business Upturn](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ1FIbGZpRXoxNkUzYTVuczBqUnNpd1VxZWRWZERuc3NKWjBUa002ZzBXcEhNQTJCTlRSRFVhNTY1THZ0YTZOc195aW9CWGVrNi1FZktwOUtMcS1EUHFaZ18teGhCNjNSUlhGeEpZSF9XdkFMSGlMWU95d1E0R2xaNkxGamVxcjQtdGp3NFVIYWNTSGRkZjNVdWlwNmphVndNbUpiWm51VFBELWxEQmxScXphT0dpVlhRR3JZV25MUV9RbFBDNGVSaXJVT0toZVhtOGhONnJpano?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T13:07:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: risk_signal: cut; ai_value_chain: data center
+- Summary: Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access Business Upturn
+
+### [NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMkc2eEt1TWtsdGMyakwwbENvTldlM2tKNjJTb1RwSTdnbXgxOTVwWmRyTlVSeElfcmtGclZnbThpR05IOVQ2SmdxMlpZMVByMFRZU29aeVNXSHR3VWpZWDJ2M2FROFVwZlZOUkdFTXRKR0U3M1hCLTVNSE84V25YZnEwYXRkRTFPVXV0QWdZdzdSVnhtYzVLajlLQlo3bUFTRUc3VWtsUGswdWJraVQxXzU3MExyZGhpNmY0a2FCRUU4NE1Ma3lSYnFGbE41OTNnLUU1MmhaaWc5a25qMjVnTENtQ2JIbFRMTmt0blhfWQ?oc=5)
+- Feed: NVIDIA Official News Mentions
+- Published: 2026-10-27T07:00:00+00:00
+- Tags: nvidia, chips, ai_infrastructure
+- Signals: ai_value_chain: cloud
+- Summary: NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure NVIDIA Newsroom
+
+### [[GLOBALFOUNDRIES Q3 2026 Earnings Call] GF Posts Record 31.4% Gross Margin as AI Data Center Revenue Surges 81%; Guides Q4 to $2B and Unveils $4B CapEx Plan for 2027 - BigGo Finance](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IM2I3ZlJRT3haUUc1RGJMRkJpZ3pDdHRtTmxEZ0RzX29MWnNCN0R3Y2d3WmpQY3pDb0tjRlVxRVBHalZCU0FYc09hbkVVRTNDaS1Ca0FxQmsxTW5T?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-11-04T16:34:00+00:00
+- Tags: data_center, capex, power
+- Signals: ai_value_chain: data center
+- Summary: [GLOBALFOUNDRIES Q3 2026 Earnings Call] GF Posts Record 31.4% Gross Margin as AI Data Center Revenue Surges 81%; Guides Q4 to $2B and Unveils $4B CapEx Plan for 2027 BigGo Finance
+
+### [Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T05:39:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: data center
+- Summary: Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com
+
+### [Nvidia orders data centre clients to reduce China exposure - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERsWE1GekIyVGJ1cmZzdHdvQnp2TkUtUi00eW5kUlBoeFZNbE5xNFZCMHNZdC02cmhvWXFudFRhRmM3RlpHUWtaZEdpR21rWnpwaFBaajNGMHY0WHYwcGlKbFZwUnhCLVQtRmZGZ0tBVV9fd1dlV041LUg3bnhDcE14emY?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T05:01:04+00:00
+- Tags: china_ai, cloud, chips
+- Signals: hard_signal: order
+- Summary: Nvidia orders data centre clients to reduce China exposure Financial Times
+
+### [Nvidia tells data center partners to limit China exposure below 50%: report - TradingView](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXBkWExUNDNqRktPVmRmRnpva29xVGdRT2VmakQ1R2FWaW93N284NkhjSTc0RVBRS01peDFoQ0lkUWFEVEdaUXNWeVBOTEJYUWt6aGxjWi1ST2hRaFZGSThWV2tEU2JvOTVrU3hySWdwcEk4d0tKS05uVmVYY19wZkFoRG42NzE0cDVWVi14XzFVSVBXMDUwZDdBczlOSWdhSFFhRnZYeWpaTEw1TTd5TTNmQk1oR3RkR2k3cWt0SVlPLVVNYnA4bEZR?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T10:47:27+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: data center
+- Summary: Nvidia tells data center partners to limit China exposure below 50%: report TradingView
+
+### [Nvidia Tightens the Screws on China's AI Access — Cloud Partners Worldwide Must Restrict Chinese Customer - Benzinga](https://news.google.com/rss/articles/CBMilAJBVV95cUxPQ1Zqbmt5Y0paZGo2TXI4WXlPNklmTDE1NkFDRl9jUWg4d1BROWppeldIeHdBdVJoX1BWU2V4cEFEM1dlU0VVY05ZOEYxcGNReGxsbTJ3eWlHelJESnp5WFZzdDFUZC1EZmdsZTJUc212aEk4cVZiOUJzbWVnSHRFWXlGZjdBSjIyc2hCUFVkeXBsRm1RdUNITnh5V0dRQTN3UEZzclMxRk1XRDJpTGJxMFBwRVczVmJCazh4ODFlQjU0bEpoUXlzc3p2dnVmWFA1UGRXU0ZuWUNwdllXbkhyUGktSFd2cE11bnppVlFiU3lvc29JZkNNUmxXWHphWUJYMXVQLWNPc3l2SlBkcy04X2MwcWw?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T10:41:50+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: cloud
+- Summary: Nvidia Tightens the Screws on China's AI Access — Cloud Partners Worldwide Must Restrict Chinese Customer Benzinga
+
+### [Nvidia Reportedly Restricts Chinese Access to AI Computing Through Overseas Data Centers - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTE5VaW1iQnZJMlM4aS1lbk9zSWZ5ZEdvdjRULXJuUTE5c3JGdlctT2s4clhIZjRFWnZpR25IVkE5QUlQWEJhNmRHamk4UVg3bmZjT3MwYV9YUzh1c2JwMDhlZk53b1NZX0g4Zmh2QTFoeUJrVjE1QlJSMjN3cV82RVJmVHZJUkpLcU1raUZXdF9OeFhTMGxqc0pMMHhIVmtjaUZvTlgtSGpPQQ?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T11:25:52+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: data center
+- Summary: Nvidia Reportedly Restricts Chinese Access to AI Computing Through Overseas Data Centers Yahoo Finance
+
+### [China’s AI compute power set to double, but heavily reliant on US chips: report - South China Morning Post](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZl9scE9GTE5xLXFiT29rTlRCUFA5YWJHUS1JR2hoU2RvUnE0UlZwZk9mTDJnUXdlRGdHcHlaMFYxQ004T04wcXBfTzdxcThlN2xkZW10d2dpNlpSZmpoXzk0Sl9FRUJwSUFQN1FQZjFEOUQ1VFZLa0xNSXluZ1lNYUV2dGpwMzMzZUNzWUpydmtzWXlteWppQjk5NzJQdnRvWmpuNFlWU25OQzF2bGVLYXRsMy1iMy12MjcwZEFrNXo3S2JfN1Ew0gHHAUFVX3lxTE5JTGpieDNTZldrd0REWk1vS2d3N2xZV2E3cDVQTWNMTU1fbHR6SXQ1WGRwQVVfWV9vSUNVd04yOGlsOTE0NlM2QTduUFd4dVRSejNmOUllSWg1bDl3Y29PVE1XRWk2bWNzRVVXeFpuMm5UUHpaNV8ydDRVRmVGR0JPV0tXMEV5eE9nRlpRZHcyc2h1Y3h6SmZoUkpUUk8zbUpLeGtZZmRkaHFiMjhocHI0YkdOTy11QzkyYTdfcUdIc19yTWpmbGM?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-10-24T07:00:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: power
+- Summary: China’s AI compute power set to double, but heavily reliant on US chips: report South China Morning Post
+
+### [Nvidia tells cloud clients to cap China business at 49% of their services - Startup Fortune](https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0t1RmRTQTQzdWUxQ1RuU212cXVUN1JEZ0hKRXlxU1EyZy1SYjZWd09LOWFBQW9uTFJmY09VdDExNzZLTFNLTzJqV3JEUVRONTQwSWlUNkRGd0xJN1FIZG1MYXJKZmFmNjRrOUxpSlJjT05nQ3F5dE9JQXVHTGNNeExma1NhTGJEakdzS0FRdjFKOUM1WVNwbHRtNGdkWDBKbEE?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T08:52:20+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: cloud
+- Summary: Nvidia tells cloud clients to cap China business at 49% of their services Startup Fortune
+
+### [Nvidia to Fill Just 1% of 6 Million Chinese AI Chip Orders: 'Money Can't Buy Them' - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xMVNQVHZ5ZGl3U3FYdkg4SmNzTTlVeUhIQ3AyRjBkMGc1WG1FS1d5aGdMTFk0d0xud3Rkb2hLQ3c1ZGxxTzV0em9TaVl5TWZfWko1Z09CVEVQbGlJN0Fsb2ZNWjRQb21nTmtmY3kzYzQtRW1oa2c?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-04T06:36:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: hard_signal: order
+- Summary: Nvidia to Fill Just 1% of 6 Million Chinese AI Chip Orders: 'Money Can't Buy Them' BigGo Finance
+
+### [Nvidia Tells Cloud Customers to Source at Least 51% of Revenue Outside China, Closing AI Workaround - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5PX01lT1J2OVhHcU5felRzVmVRbDZucVdKQW9tNVE0dXdWNk1abk52Q3FCUTFaNjN2eEhZNXBPVUhwWDBuaG1JLTRXMWdLN3oyd25WelNudnlGRFFxdmt5MHRabGFOakg4WXZ2UmtwQzdiVmdWOGc?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T13:55:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: cloud
+- Summary: Nvidia Tells Cloud Customers to Source at Least 51% of Revenue Outside China, Closing AI Workaround BigGo Finance
+
+### [Nvidia tells data center partners to limit China exposure below 50%: report - Invezz](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHNHR1l0c0U5S09Lb1UyWnhlR2pUbnBjOUtHcHZ5WTJsaDh2bE0zSnhkLVI5MWUyZGhwRk5ReklfRW9BVmR3VlZteURmYWFVakxCNlVpaDZjRTMxaDNYTGxaOWp6dDVDMmU5V1VjYy1WblVONTNnWDU1aTdBT1VsWVFjdnZ4NmFWOUF5VjZNZnZlMjZJUGdiSVZIZ042RzlIUXBRYTN4eXBtX0huVW42UVJiTXpiWTZ5QzRZ?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T11:35:44+00:00
+- Tags: china_ai, cloud, chips
+- Signals: ai_value_chain: data center
+- Summary: Nvidia tells data center partners to limit China exposure below 50%: report Invezz
+
+### [NVIDIA Sets Conference Call for Third-Quarter Financial Results - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWJVZ3FJYno5aTE1aHN0SHJCYVlndS00UjQ1TkgzVEU0X2J5aTBCZWpVZzM0MnNBS0g2QW5ONHdIVjFpZlI0SXZ6ZGZXN1R6bnJWX2wwbm5OZHRReDNUdHdYS253aTRnN09jWjB4VzZwSEhJQk9VSmh1WlRHUU9RSUJUWUJUZ3R2cEJvZ21LazJLdmlKQ3NXNlFCbTJScVlNSGMxSXRiWWFLdw?oc=5)
+- Feed: NVIDIA Official News Mentions
+- Published: 2026-10-28T21:06:03+00:00
+- Tags: nvidia, chips, ai_infrastructure
+- Signals: no matched signal keywords
+- Summary: NVIDIA Sets Conference Call for Third-Quarter Financial Results NVIDIA Newsroom
+
+### [NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzg1REp1LUMyZ2Njb0RyaWx2cHJSVU8taDFsUHBtcjlhUDlsT25MYmY4NGxrRElZbUNrNFJGRDBiSjlGOFdHbXhseXNJYTk4eFpvMXhGUTh1QXVDQmdFem43dWZId01nNzRndVRGU0c1ckJaam03ZG0yckJMNjYySUdDTGhvSFJSMmRoaDliRjFXcTNIVmduQ2JoVndfREtsYXlBUldNeE1PQmRSLVRqejhNWFYzUWVpMXBnRkFlNU9nZ1ljLVE?oc=5)
+- Feed: NVIDIA Official News Mentions
+- Published: 2026-10-26T07:00:00+00:00
+- Tags: nvidia, chips, ai_infrastructure
+- Signals: no matched signal keywords
+- Summary: NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth NVIDIA Newsroom
+
+### [Democratic Sweep Lifts Big Tech by Nearly $1 Trillion as Investors Bet on Slower AI Capex - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE4wWFJ0c3k4UHo5NjNwTUg3R2JvbWt6RGZyYzVPcXk4TFhKbjFIQnhPOEJnRnpudUJoekMxaXRNMHhydUFYcHlpQ2ZyZnZvM2VTT0VVWVdaallzVHJfMFlBbC1CUDU4TDVXcTN6QTZ4TER2UlQ4cHc?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-11-05T00:56:00+00:00
+- Tags: data_center, capex, power
+- Signals: no matched signal keywords
+- Summary: Democratic Sweep Lifts Big Tech by Nearly $1 Trillion as Investors Bet on Slower AI Capex BigGo Finance
+
+### [Telstra thinks Australia could become AI’s trusted Asia-Pacific hub - Fierce Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0JGS3Z0Q2M4NHh3Sk4yUjZrSTl1RGhuZFVua3d5TUJ3RG4tRDFBa21xZ2piY1J1U0h2WGNkUUtJNjJnd0lTR1I0dXhfWklKcTd1MzA5S3lMWVBXOWwzblhpVWhqNFU0Q1VNQzFKQzZEWnM4dW1fRjlsRVpLMXBHU1kxellVMEhKQldTbDlqYkdja0cwYk56MVpjaEtRYy1hRFA3WmV3?oc=5)
+- Feed: AI Data Center Capex
+- Published: 2026-11-03T18:29:12+00:00
+- Tags: data_center, capex, power
+- Signals: no matched signal keywords
+- Summary: Telstra thinks Australia could become AI’s trusted Asia-Pacific hub Fierce Network
+
+### [Oracle Scraps $7 Billion AI Chip Rental Deal With Tencent as U.S.-China Regulatory Clash Blocks 'Backdoor Leasing' - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdEVBSmdyY1BaQXRJWms2Tm9lOVNtZVhXUEpOTy1ZVllCWGgxYVRJallEWDFOYnBGMnJxMllIWTJaOWlfMzdreFFlazl5WFI0OWZBNm5iU1pOVHJJTHU5LVBIa3pMU2FQYmZJZHlKOHFndGZzV1E?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-04T08:35:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: no matched signal keywords
+- Summary: Oracle Scraps $7 Billion AI Chip Rental Deal With Tencent as U.S.-China Regulatory Clash Blocks 'Backdoor Leasing' BigGo Finance
+
+### [Nvidia’s new 51% rule could shut China’s backdoor to AI chips - TheStreet](https://news.google.com/rss/articles/CBMitgFBVV95cUxOajJ1a1pqRWxtamc2c2lITEpkZ2VVZVRZTkx3S05MeHVWaXpJX1lkcmN4OHhuUlc1QTh1QnZUUnFkX0g3YUZ1ZlFIQ1R6NTIzdkY4Y0NCUHJaZ0V0Sm5VRS1lNU9GT2JuWHFEdzZnczY5U0FZdjZLMEtpMzhtVTZnZXFOSTNXYVJBUmlydUlNUi1jVURYeG04RTBzcVVEclA0dzFOaFNrVHNxb1piR2hLVTJ6WVdBZw?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T18:00:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: no matched signal keywords
+- Summary: Nvidia’s new 51% rule could shut China’s backdoor to AI chips TheStreet
+
+### [Nvidia tells data centre clients to sell majority of services to non-Chinese buyers; company says: 'Datac - The Times of India](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQQlVZdTEwNWh6V1pVWmJyOWNCaURTZUVwV0V1ZFprb2hOTGszdlprYVFycUJlS05fbkkxX1ozZ241UHlkRlZFWXdyUXUtdzJFS0piZDFHaDNlY3JIQUFERHVjTEtPeDJSNURJeDhwSEdvZ2hqOWZnNlhSZzhfMXNXTFpVMW1uUFY5MTNDaGx2dnJuSW1UX1lVNllkRERveTg4emlHUzdVaUNiMXdzVEhCZ3NNV0tTY1EtOERteHg2aldZaW1wT1AyNWN5LXhZSmROc2kyRVNPRWF4QlVyR0lWbGh1d2lvNUFqTkxjZ0xOdDNzd3A3ZUt3clM4dnB6ZEplS2dlQm84Q3M3OEQzZVItZkRWNFJoQVFzdWpQS01XU0gySDFaS0llU0hqTXRLRUt6R05pdU54cDZQYXdYeFJ4Zks3YS1qcTlhYWJCMWQ3VF9wbld5Z19weHFjR3NKMzZxQURJZdIB6gJBVV95cUxQMHEzV1FicUlVYVh1dnRQWTgyUzU1X2F0X2IwSzRaWFRURFFqRUpZRkZtLWJxSHNtbVpDVmZxdmtBZ1pZX3paMlhtQlB0RUtDSU5sU1VMb1hkMWNwVktWaWo5c3dxVTV6ZU90eEwyN3BTdTlONUJsY2ltOG53MmdUOUd2SkJuaHlsOUNGVUlYVmRadTdPbEcxekwybk5BcUhLOWpfeVkwSmVxanBEbUduV0JUUVU0STA1YmhNZGdOUWJfYmJpb1RDQklOVlNMbDc4ZEFQTzBwQlVqcEV6VUVzUVBKbDdCMjVDYlVUTEN5WjctZmhZYTZQZmx0cU9KRUFwZUp0dXFkWUJiOWtseVVMT0RuMjBCblpGQTJsSVNicWJuVzRRd3VocXY0MkRpUjhuMmhTaTVFcy1rV3VrNkZsQThGV2ljNkpQajZveXFjdFpfcEhEeDZxVEg5RHlHYXF1MlNtdDBvNkJZUQ?oc=5)
+- Feed: China AI Infrastructure
+- Published: 2026-11-03T11:22:00+00:00
+- Tags: china_ai, cloud, chips
+- Signals: no matched signal keywords
+- Summary: Nvidia tells data centre clients to sell majority of services to non-Chinese buyers; company says: 'Datac The Times of India
