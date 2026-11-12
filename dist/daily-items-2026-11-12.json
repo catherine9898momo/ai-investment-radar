@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Nvidia cracks down on overseas cloud AI GPU rentals for China — partners face 51% non-Chinese quota as black market B300 rack prices surge to $2.8 million - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQWE9hNC13LWFmTWZFdy1JUlE4YS1kZHhmbVNMbkFIUnJZV0JYaUxwVXhsNUZjdTA2U3kwSVFOMTlUVmhFMjcySlBQVlVBOUxUTXNkOGFEdldmSzFiZG15ZWdPdF9ZWXdQamZPV1FNZEVLMDFaYUYyZGVHbGtvWm92ZHUyMlpZQkN6RXhrcXY4ZmV0cmxBdTNpLUJEQjlVUEZ3WWNHWmdxeFd4dTlIdWVqeVNWS3cxOVZ4WFJNbGt3SmdOQ19TaHQwUm16RGdfc0J3XzhJOVY1ZE51ZE5CR2lxQ19tNzNDUlk0dDdULUJsR1lfSEZpcXhZUi1aM3NLLU5PeUxUTFB4Nm5Ha2JRRlVzUGpkVHBDeDR0ck10dGJ2OVNqZ2o0TnJFR2h5b1NKMXY4VmV6UFpn?oc=5",
+      "published": "2026-11-09T17:48:17+00:00",
+      "summary": "Nvidia cracks down on overseas cloud AI GPU rentals for China — partners face 51% non-Chinese quota as black market B300 rack prices surge to $2.8 million Tom's Hardware",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "gpu",
+          "cloud"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
+      "published": "2026-11-04T22:29:00+00:00",
+      "summary": "How Much Are AI Companies Spending on Data Centers? The Motley Fool",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "Statement From NVIDIA Board of Directors - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX05fcHd3NkVsdkZVVzlqcG5iVjdhZFBiYmlDTjVNUnhkTEo3VlVMVXYxWDBFdVhnSzRJbzVHRjBCc2xsaWFid2FGNUxoWEE2MHRkOTBwUjRZaEFpSFJOMmY1OUhMLUEtSXl0bVJ5bE9CZFZwWHVQcENiVnNvRlVWTg?oc=5",
+      "published": "2026-11-08T20:06:37+00:00",
+      "summary": "Statement From NVIDIA Board of Directors NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORGhIWmZCWlAyVkMzcDMxdFF3NWtlRmZKZXdMYmxKNmhSN0x1OEN4WTBxS0hmUk90M3I1cHhUb0dDSHdkWmkycGhlcHZFWDlWcGhuYVhfZWFzbTZoV05BM0VtWlZ4RjhjdjJXaUxIS3gyUWlRSHFCeFdPM0UtdTdVRldYWkZZZ1VxWXY0dlByR1NHYldtVy1rTmxXZXp3MzBuR0lxaC14b21mVkIyU1hJRTBhMTR5NVhEVkVlTDQxYVpocEdSMlRlamN3Y19FRENqRlJvV2ZsSC15SjhITjhOODhldHp1MWMzdV9Z?oc=5",
+      "published": "2026-11-09T05:06:40+00:00",
+      "summary": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "Statement From the Independent Members of the NVIDIA Board - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2hpSXE0SThCN1FpVWN1VWVYWkRwMkhudHV3c3dRQTNWaFg2SmdOUEhCdXI0UEM0RnJXT2JkVFlLNTZBbkR0SjA2YnpXdWo3Z3B1enlaY1cyeTlrTHhqTDE5X2RqOHZIaG1HUllXbnZJTFJFZTgwaUFMZDRCZVNvSF93V2RmNHJoMlRqVzNkblFkRkEwSGkzWQ?oc=5",
+      "published": "2026-11-11T02:38:45+00:00",
+      "summary": "Statement From the Independent Members of the NVIDIA Board NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "White House Seeks Remote AI Chip Curbs: Report - The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZEFoTXJUSnZmUHVMeVlKM2VHdGxuYkxfQUhRUWdnS0ZsRTlRanVKZl94c05NRjgweTlTeEFQMHBCaHc1UVh4eXdsOVhlZ0phbDRlbjlvNnpmc19iQmRoM1RHM29JTEd2VXZSNTE4bklXcm9qeDBvVG1UQTV1X3NBSEV2cThWdw?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "summary": "White House Seeks Remote AI Chip Curbs: Report The Defiant",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Microsoft wants Trump to reconsider ban on Chinese data-center technology - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3JVd2JQU2tiLXAyMFhBM2FTREp5LVFidVNLUVk3TjVwWnkyWjl0aVVoUXo2RnNMa1I0R3FrOEkyeW9vOVE3d3JqTmNOa3o4bThTMnVoMHd4bVAwQnNwS1NfbzZYOWY2TU4tRnc1eHVfM05FMmpoai1vU2I0T0tWcXJDRk5hbzZCQUFxYXFUSG9tTzZjTHF4NWs0V194TnNzUHl0WGcySTlrMUtSaTBoT2pTSnl6bFYzbnRuR1h3MUE0SGF0MzBXaA?oc=5",
+      "published": "2026-11-11T11:43:31+00:00",
+      "summary": "Microsoft wants Trump to reconsider ban on Chinese data-center technology NewsBytes",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    }
+  ],
+  "errors": [],
+  "lookback_days": 14
+}
