@@ -1,0 +1,1488 @@
+{
+  "items": [
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims — data centers in Singapore, other countries, in trouble as Commerce Department requires cloud providers to obtain export license - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPdGpodGZZZkhBY0lBaUZWMkM4QTFrYmJSaHM0ZVRKX2RtYW5UcE5EeERHbHBSZ1QwY0xUaGIybEcxY2pFU0J3dXQtV1lXWkRFbHZOOGFha1hiOEJyb18xb0tjV3NadDR0c015SjdvZ2VvVXJPN1BrSDJsZm9OWWtBSkFpN0g1R0RYRFB6bXJZS0hQVUl6TXdNSDVKa2lVSlJfYUtkLUVRWlVLLWx6MEdkN2FpSUVqeU5zSHVyeUV3Q3RhRGFXZ2lMZnFOSlg1ZzFUdmRiTVhPUk9ZM1EwMzBjWU0zV3k2bzNOZ21sQnE5NkFaODNISE41Q1BfMWwxNUtWbWFXZmNYQjQyYVdXaXI0cDdvcVIwMjV0T2Y2N3l4b09ST0NLbnM0ZnVsbXNsY3hmSWV4bldvT0VMUXg0MTEyZDV6NXNFTkpEQVJiQlhKYWxXeDNwQlNSbg?oc=5",
+      "published": "2026-11-26T16:00:00+00:00",
+      "summary": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims — data centers in Singapore, other countries, in trouble as Commerce Department requires cloud providers to obtain export license Tom's Hardware",
+      "signals": {
+        "hard_signal": [
+          "shipment"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "gpu",
+          "data center",
+          "cloud"
+        ]
+      },
+      "signal_score": 4
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Wells Fargo's Tusa: Only 10 of 450 Gigawatts of AI Data Centers Are Actually Powered Up - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhWi0tS3IyYjNaU3FmRmxiNE1mbi1BUU03N2FxSlVjU0hjMFhleVR2Q0pUUTYyUmExTl95QTJ5eXVfYU93Xzg0M0k3V2dvRTRNUVhKSFVEWlliWDg?oc=5",
+      "published": "2026-11-23T18:08:00+00:00",
+      "summary": "Wells Fargo's Tusa: Only 10 of 450 Gigawatts of AI Data Centers Are Actually Powered Up BigGo Finance",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
+          "power"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "[Deep Dive] China’s Cloud Giants in Southeast Asia: Data Center Footprints, Compute Strategies and U.S. Control Risks - Howl.Link",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5NQkp3Z0tkSXo0cXgyeFJsR1JCckNZN1dudThhZjd6MHNqRzl1V3JWTC1QRGdEY2hRTi0w?oc=5",
+      "published": "2026-11-27T00:35:18+00:00",
+      "summary": "[Deep Dive] China’s Cloud Giants in Southeast Asia: Data Center Footprints, Compute Strategies and U.S. Control Risks Howl.Link",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
+          "cloud"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Nvidia AI chips — New Restrictions Block Cloud Rentals to China - The Korea Daily",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QWU5MUUltOUZ5b2p5VnoyNGo4S21Ia01iSUk3cmZTZkFaalRTRFhoRVhKWmxsaUZJUFlzSk93OTQ5QlJPUzJwS2NNY0pCSDFmM2twcVJHMkM0VW1PdWwwRVZBc0FSRFlpNGI3b2ZZUEozZWJkcGc?oc=5",
+      "published": "2026-11-26T22:10:16+00:00",
+      "summary": "Nvidia AI chips — New Restrictions Block Cloud Rentals to China The Korea Daily",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [
+          "restriction"
+        ],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US AI chip restrictions threaten Southeast Asian data centers - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGtEMWNzYWR2YkZ6bXZhaEUzanVsR1QwU2hlaXNCS0lwREdleUN3bV9PaC01LXJWMU4zU0kzX3ZRdzNpYmtGYmtiemhSRVhlNFk3cjFLb2ZzemtYcXdYUzh0RURSamREWU9keUU5SGs5YzZ1bDFuaE1VNVFzbmhoRmpDeWhObWo40gGcAUFVX3lxTE9WNXp3WkVDaDVXUzVTd3B2c2J4VGcwUUZsRkNnaEFLWl9SUTlHY18wYmwyaDB5MHVLbjBvcVJWcm85UGJWdkdxUUV4WHA5bVE4N3JHUG1hcDY3N2VqVUJDc0hIazZVTXFCNmd4b3I3clMzM19NVzdXWnJqOXcxelFFWFJmcERocEk4OFF5RXNIQUpWU2doQk9IdDFlSQ?oc=5",
+      "published": "2026-11-23T01:38:00+00:00",
+      "summary": "US AI chip restrictions threaten Southeast Asian data centers Chosunbiz",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [
+          "restriction"
+        ],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Nvidia AI Chip Restrictions Expand as US Closes Cloud Computing Loophole for China - Brave New Coin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZTZiOTlUX3k3VENEaG9rcy01VElUZDZSb0xmaVFaSEZrbEwzQkVDNE5jTy1BTUJrV2V0TVhGdzJTUXYwV3BtWkQ0NFJCcXdWQlNxcVFqMUluNExBN2Fxcl8xZXVHbWYyRG80ZVNlQXdSX1hSYTNYdmhTb3VOZ1pibGQtVktLbFJpcm5PTHRUOHFsVkZ0QnhhQ3dZUGR2bDhoNHp2U24xdTBaR2c5RVdYTlZSRDN5RzQ?oc=5",
+      "published": "2026-11-17T17:12:34+00:00",
+      "summary": "Nvidia AI Chip Restrictions Expand as US Closes Cloud Computing Loophole for China Brave New Coin",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [
+          "restriction"
+        ],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears - The Decoder",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXFaQ2dKVW01RV9rOGxvcmk1d3ZYN3l4OUFNSGd6VVRrNEhabzc5dTQxWnRRYS0yczE4M05vTjFkX09hcmhhNENMTHlyQXpoOUVOQ19CYTFUME10VU1pejRQSHdreTlleTdhTFUtRmR0MTdnaFJtVmhzWXd3RHlYSkJiSjJtWE9xeU0ydm5OSmRIMno1Z3Q4a2JGYWQ3aVdlOGRWMUhwUC10M0V3TEt6aUNzVkM4N1BkZk9qWVNn?oc=5",
+      "published": "2026-11-19T17:02:41+00:00",
+      "summary": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears The Decoder",
+      "signals": {
+        "hard_signal": [
+          "shipment"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Data center powered by Huawei Ascend chips launches in China - Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVdsNXlwUUpOUVpLNFF5T2xxM3diSTBOMTQybUZ6M2hudDVUZHdKUnpHaWEwR0xCWVBfN000MUdyWVh6YjRKemZtZVhsVEtFa19EakRuNzBEa2JzaXlZOGF0WF85SFMzUFEzN1NLQUhGQjBQdkpzN1pMNXZwSkhyMktkNExqVTdfYlZFeW9Oelhfa0Jhd1JuUHA4VkNHQzZWVXR0bHhhVQ?oc=5",
+      "published": "2026-11-19T16:24:45+00:00",
+      "summary": "Data center powered by Huawei Ascend chips launches in China Data Center Dynamics",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center",
+          "power"
+        ]
+      },
+      "signal_score": 2
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzMyeWZXb2Q2WWk4cFhhNW5xbW1wN2piRFpkYVRUanNEZVlhdnQ1Y0pnVzJwMmxwWE9fOHFIeWM5OFFjMU44SEY5Z0N1akZCeDZpaHRSdWZzNHVlT210aUxkMkhNRWtnY0NMSGJwRm5SSVg3THF6V0pqM3dqUnJrSHFfMVViSThGNjltVEdHanpDQk1jZThINm1MUDJyLWtyQnJKUlREbkVyLUlWQVZCaQ?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "agent"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWDZiLU4xOS11RzRYaDZaQTNEbjNUYVAyTGtyazd1akRpVDYyTVZyanJ6WTBmc3lMamdVdFZ4Y0V0d3EtTmttZ3VOZ3IydThUcXN2b2RBRU5sQ2hsWm9yWXV2V0JGQ1B5eG42VzQxQkt4czl1SFBzTDZCd1NwNS1xSkJWRHRTUnFqLTBTazdVRTF1T3FudDE4dFZpLWViUzlvdkhseEVkUEcwc09ERU8zdDVfanFsMnV5elR1NFlndDhVTTZXSVlNTg?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [
+          "export control"
+        ],
+        "ai_value_chain": []
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZzNtOUdnTHJCQ2FCUGIyOXp4STRoQ2p4NTduYVNjYzF6eGFTUTE4LUFTRUZUUjlFZ0cyWVV0enBBNDNHazJIWTdiZUs3VHg3ckw3bjhhYndIN1g2Q21vcUh2RkFKcHp1TW1NQmpPS0VfQy1uMnBRZ1FTMzg1akN2UlVZUkVqRnh5OHFfWElYNWVnazFfSXV0WTlPclFNOUdEcU9Dbmg3c2xacldjNHpZZjFJYWM?oc=5",
+      "published": "2026-11-26T01:19:00+00:00",
+      "summary": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs Bloomberg.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Why NVIDIA Halts AI Chip Shipments To Malaysia, Singapore, Thailand, Indonesia - Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclloOFExS3doNUYzVTVkT25zQTdaRDFJTnh2X1doTlE2eHl6NUtta211QWo1MERpUU1mejdCeHNBd1BtVzliZEVMZVJGbzgwWWllbTZUTnhxZlZrRWYtZXlpd2FMSjF4b191QWczQjJkSGhSa0hzckhhMTVfa3lUdFAxajhFY1U4VXVPaGlB0gGOAUFVX3lxTE1yWWg4UTFLd2g1RjNVNWRPbnNBN1pEMUlOeHZfV2hOUTZ4eXo1S21rbXVBajUwRGlRTWZ6N0J4c0F3UG1XOWJkRUxlUkZvODBZaWVtNlROeHFmVmtFZi1leWl3YUxKMXhvX3VBZzNCMmRIaFJrSHNySGExNV9reVR0UDFqOEVjVThVdU9oaUE?oc=5",
+      "published": "2026-11-26T23:35:02+00:00",
+      "summary": "Why NVIDIA Halts AI Chip Shipments To Malaysia, Singapore, Thailand, Indonesia Ventureburn",
+      "signals": {
+        "hard_signal": [
+          "shipment"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVzl4LXRnWUdVdlJ2VEg4VnE3VmxlUWt2REtJMHRJVF8yOWJTZnltWGlZaHVTbUF4TUFmNE4wdzhkQ3p4dG5pRXFqRGNSbi1yUzBwQktjTk1KWW50WkxWbGp2RzFvZTZsR01vbVlRYmNWVEpBWW9qbXAwSTRRMFE?oc=5",
+      "published": "2026-11-21T10:00:00+00:00",
+      "summary": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions Fortune",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Chinese AI Firms Rent 100K+ Nvidia GPUs Abroad [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3Nlc3F5ZFI4Zm52MVhJX3V4MVFIVHZNcWdZVTZ5ck9rODNxWVdJd3RRUHBqOFNRd1I0TkNpWDg1VE1FcDBPWDZJVHJSclUwc1RwVVo3dnB2YnJ2dzNtZEdLb1NueGhUM3R5bTBXaUJ5U3lzUWk3UHRVNFYwV0Vwb0JiVXNQd0wzMS04SDN5Z3Z2Z3ZQNnFfdmE3RWdQS28?oc=5",
+      "published": "2026-11-23T08:48:42+00:00",
+      "summary": "Chinese AI Firms Rent 100K+ Nvidia GPUs Abroad [2026] shattered.io",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "gpu"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "U.S. AI Chip Export Curb Sparks Funding Fears in Asian Data Centers - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29IajZnaTd6OVRUcEhwWHQ2RURjcFhKdEdRbTBLZm41Z2htdHF1VHNEUk1DajlKWEdYdzN4YTByU3BtcWFfQkVlQ205M1A5VVdqTmJHZ0NoZFh0TFIwdFBraGZHZmJ6RFd6a3lDdTNhcTJwVmh5NkYwOVh0ZTRQNW5TU2JwMUFn?oc=5",
+      "published": "2026-11-26T01:47:31+00:00",
+      "summary": "U.S. AI Chip Export Curb Sparks Funding Fears in Asian Data Centers 조선일보",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1DbkROaFNtN1I2UjJPOW9Ca0pJNXBFYWVBTldRbjEtTEJKeFBCM3BLeWwtVE9OazNIbFNyTzYtcUxJTVhKQ0JEUUZ0MHVCRDFkWTVxX1Q2OFJGd243RldhZFVnY0pZS2RqRFBXVmxDTG1OS1V2aHNPT2NiTFRnUEJCVjFYSm1qU3g3SdIBkgFBVV95cUxNS1htQWRXZGtHQ2d1Si01c1FZZjNmYjhyOExvZzNGbUhWWEtrRlVHSWx5Y3UyVG5PSnRPWmk5VUY1Z1V6S1JPTFhVTkFnMEprN1A3aXNqZGd2YngxWGpCYmlGQ0FYN3Vmc2hXcWRqS0FmVDNNbnR1emZXNmxHUUYza1hkOG1pS0RpbXRIdzVyemFsUQ?oc=5",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk CNBC",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "SE Asia’s AI collision: when CAFTA 3.0 hits the US cloud clock - Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWxUNjRyOERrQS1rSlMtOE1ZQVpqWVNuTE5hRS1xNGsta1p1bVZEMXowbFFsX0NKMXJKb1pCbW14YjJPd1dKMy1FSGk5U2lxcXRKc0JOQ3NFakxDTDhsTjFXc3M5Nk1Ga1VSWU5PQk9rbk9XT0k4bHRGX0lYbFJzQXdkaUN4V3ZGNkZRU1hNNXI?oc=5",
+      "published": "2026-11-23T09:54:26+00:00",
+      "summary": "SE Asia’s AI collision: when CAFTA 3.0 hits the US cloud clock Asia Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Asia Data Centers Sound Out US Clients to Replace China Demand - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlZpTGF4MUlIWWJYa2UwbE9KbkNZVUUxR1FWa2p0Q0dHR2RQclJ6QnlETUJwOC0zOXYxd3JfVm4wRk5ka251YURZX0xWWVlMc1BmQmpNVmRnSS1IZ25fN0x1Q09YUEx3NGVFUVNFNG9icVpDNVZDNC1Cb3gyNHpVVEhuOG1tWDBRTmY3T3dzTTZTbVNQNDFhUHNKXzJ1YXVNZG9IV2N5WGdfWElDNEF3OGliSQ?oc=5",
+      "published": "2026-11-25T06:07:00+00:00",
+      "summary": "Asia Data Centers Sound Out US Clients to Replace China Demand Bloomberg.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US targets AI chip exports to China, impacting Southeast Asia cloud firms - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGxCQTVOVjc5dnpaZGF4WFV1MGQxaFhac3FuV0dKM1k1ak9pZnRUYVJGZjBJNkM1cjJ5SUV3dFl2a0VIem9LM0ppZG1FekhHSDFYQkxreVowYXNmNjhJMVZkYjUwQjl0MFhxelptUFJOcHA5eHVSTHNheXBaVkd3S2dNdF9mMnRyY2xjN0R2bi1kMEtyMVFIWmZERzFwVWhfVFE?oc=5",
+      "published": "2026-11-22T22:04:17+00:00",
+      "summary": "US targets AI chip exports to China, impacting Southeast Asia cloud firms Crypto Briefing",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "U.S. Tightens AI Chip Controls on Data Centers Serving Chinese Firms - Caixin Global",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDQxT25VVTJBelotczY0QzlIQ0dmUW93ZV81SzRJanE3UmtKbzV5VUNMZEFFYzA4LUV1RnVVY0NGcUdscTdia2tvVThkaUgzNVF6ZkxmOEI4YUI4QWJtbGlaWjlER1QxNDc2RW5PR2FZX0EwUXhuME96UHE3UVJkMFUxbV9vblNGeDRCRE5RcGhZWUczWEYxWWc2SEpySGNmQlV1Yy1fSllQV2pkNGhaOHNIaHd1cXVTcmNhN0JB?oc=5",
+      "published": "2026-11-17T10:13:00+00:00",
+      "summary": "U.S. Tightens AI Chip Controls on Data Centers Serving Chinese Firms Caixin Global",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVM2YW9xWTExLUNSRGlEWGZCZDRlU01hRVdwRE9FRE85WE5VSDFXVGdYSDRuTGxadjVvV0pYZWNEek9oYWw5MExjTTZVUXNJM1ZNdHdmTTNhNE1FeWVhYURGVVM5N004RUpDODMxWWRVRkk5dXhVdFBRZndVU2dYZHdYMHJWRWF4b25Kbk5GT0xIbVBNM0ktaktnaThvZw?oc=5",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "Tencent says new US chip curbs won't hurt cloud revenue, may slow model training Reuters",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US chip curbs cloud Southeast Asia's AI ambitions as China-ASEAN ties deepen - Global Times",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NSGUxa3FLeDItR1BnT3dLdFVpTExjVWwzWG9JTzRWODZ4enZSMEZnRGhSdmswNExIUnloS2JOMlhpV0pzNVNIVVJfblE3V3NfdThybjkzVW5QTXBiY2tDeVNB?oc=5",
+      "published": "2026-11-23T14:45:00+00:00",
+      "summary": "US chip curbs cloud Southeast Asia's AI ambitions as China-ASEAN ties deepen Global Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US Commerce Department closes cloud loophole that let Chinese firms rent AI chips - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTS1seDlGVDBjUEs5MlBHNE9vaFI2RmVGM2FCandiamJoNkZFekw4MFY2eFZxNndjeHdvSVB4LUppWlltNVA2WFhOelJOMU5VQU9hS1RldUh6Nl9nNHNtekxWX096ZFN3NEN0UFRTTWdMQ0NXTEJVdUlYTzNKNXZiNHZDOA?oc=5",
+      "published": "2026-11-20T19:19:25+00:00",
+      "summary": "US Commerce Department closes cloud loophole that let Chinese firms rent AI chips Crypto Briefing",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "AI Chip Export Rule Sets Cloud License Line at Roughly 750 Nvidia H100s for China-Linked Tenants - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQVFLYVNEWlZaZlB5d2Z2bHVscXhIWXhXeDh6UUFhZS1iajgxQmdDbW1LVWZDUzZFbXJyU1MxT3l6d29zT3E3dkNNM1pjZnRVWVhQcXVvcVp1WFNCZC1wNmRRS2N2Szh6bC1pVVJ2aVFXTnBnN3ZpRFR0eWtqN1l3bkxYY05vdXFSR1prckI3bS1qU1FTMHlxZi1SU05CeGhsWXFUWFpWY09wY1FBQlNheU0zOFpuaVNrc1hqZHhBTUxNdlAwV3lFaS1nUXFyaEZfZjdXMTBQSnpkRDhV?oc=5",
+      "published": "2026-11-16T22:57:27+00:00",
+      "summary": "AI Chip Export Rule Sets Cloud License Line at Roughly 750 Nvidia H100s for China-Linked Tenants Tech Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "AI Chip Curbs Hit 5 Countries, 90-Day Data Center Clock - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3VLWGFTb1FXaFB5UGZQbldKVEgteWlMN2p2T0dZWG9YNVJBc25HSTlhOUJnb1BYakNZM3hBNWhOeGN2bmdwNXNkOUszMm5nVEllY3FqZFQ0OTVRQ0QtbWdLMWltamN4R0pwMmVqYzRTNERkYUhFWngzRGVqWjVnbmNVMEJ6TWwxMTdqVU9rMzlBTF8zemNYUFJB?oc=5",
+      "published": "2026-11-17T09:39:12+00:00",
+      "summary": "AI Chip Curbs Hit 5 Countries, 90-Day Data Center Clock shattered.io",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "AI drives blended data center infrastructure adoption - ET Datacenters",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaE1xQUdkb0NBSWUwRDBGOGlJMlVwMlFXRnVOakdCbEk3ZDFtVWhKcVpad0FVRWJMb3g1YUJER0VfR3U0Uk9weG95MXFIa3B6SDA0OWdMWTFxRmlCZEY3MEhUUzNQLW9LU1JLMHFybVd0U2UyNENrMHdBNE55N0dhek40SnRYWlJjWXRINWlyUHRhQk4yNW1iSVI5THRZMFZxWnJ6RHlfNlpEcWVPcDgwMmhDcDlHN282MkJuMnowZEZsNTdYREgteW5mdTl2NERDRXdGSjlyR3g0MEnSAeABQVVfeXFMTXIzMmJrcWtTOGJCYldUSFRGRGVKNXc0TjhjZ1RRMWVKSUhkNWQ1N3NfcV94dTBwS0tGeDhDeFI5X2VyejQ2LVBzb2FmT1ZXcFJSd1JwRUswX3g5M3dXOEVaaHRoM1BCQ3V3SnI0Qmdody1WZEFyYjR5RGlqUGpLNGRJWWgzb3dOSG42ejB1dE51T0RZT1pHeF9zenBDTXNqa1ZKQVNTWjBWTW1zVlJPbEtXSWJROG5TWWJEMTlybVRmMzF0aXlmYlkyVlhDSXNRa09WRE1fb2VObnMwXzJJWm4?oc=5",
+      "published": "2026-11-21T03:24:05+00:00",
+      "summary": "AI drives blended data center infrastructure adoption ET Datacenters",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "U.S. Moves to Block Overseas Compute Rentals; Nomura Warns of Risks to China's AI Cloud Growth in 2027 - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WcU5QQVVwd3BUYS1JRi1FajBxY1pFRW5pZTVURk51ZTYweDhYUFpaZjhaMVZrbmZWUVVmcmoycU5fa2I0OVhRbndoeUhDenNSejAtS2tyM2U2ZlZ4bXFPSjNaRXRoam9BZ3ZzWHA1cE5HMllJNXc?oc=5",
+      "published": "2026-11-18T06:26:00+00:00",
+      "summary": "U.S. Moves to Block Overseas Compute Rentals; Nomura Warns of Risks to China's AI Cloud Growth in 2027 BigGo Finance",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Hyperscalers commit billions to next-gen AI data centers - ET Datacenters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOWswczAzd1ZLWnNSY1RnZW5WNi14eXRpaGp2bE1JdGV5Z3M1V3paUERZTGQxN19qOTRBWnJQbnBEXy1CVy1HZDJMNnBSeXdnc18yUVVHM3BXcTZ5V3h2RGVvY3I3czBPNW02VGNIRTRINmdXWmJjLWZxa3hXc3RhdDQwajVWVWdCMldMWGhXdG9CSUN4ZGxvYjlRdEFhRjN1dWRRTTUwTjVFS0w4eF9BTUZoQW1adWlmU2pFWFlCVHRYODRYYkc0Mm85d3I0Wi1ZdWFFSG0xY0QwV3Fnd0HSAeMBQVVfeXFMTnVPYkJjN1ZmN09TaHllQUNObjNhZEwxcm1YeTE0d1dGVDZEVzlTWUNZcVdNV1Zwa3ItM0hHSnRiMWwtekRDZVduemsxcUwxTE16V0tUd01pdDlLQzNmczhTdlZnZXFIQjg3bUEzRlRTQTVXNi1nNDFkM0VlUGY4akVXalExRzFpVnBVb3IwZ1hRTTIyUmR3czVLNEdzZGM5Tno1cVNtRTBEeFJDclNMYUExSnlER3lxYkVnYnc1MmUxWnBhWUVvd1ZNMWNBRTVGcVhoQmdQa3o5dGV2UGJ5ZEtXdFE?oc=5",
+      "published": "2026-11-14T08:00:00+00:00",
+      "summary": "Hyperscalers commit billions to next-gen AI data centers ET Datacenters",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Lenders stall billions in Asian data center loans after US chip curbs - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV25scXJVb2FXaUpoXzdxLWhRRUoxSzdJT2lOUDVTM20xbXJVbVJrS09mQVRFTUpZYUo4OUptUzhMalQxamUtQ0R1a2tTcWRqaG5QUW5WRURzQng1bzlQekxfNHJYb2RqeUpmMWxvcmRpdVFSendXUFJFZlhPdTEwY1pjam1oNVVpenc1OTRudzFGMlNz?oc=5",
+      "published": "2026-11-25T23:03:52+00:00",
+      "summary": "Lenders stall billions in Asian data center loans after US chip curbs MLQ.ai",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "data center"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "AI Cloud CEO Hits ‘Rock Bottom’ in Race to Endure Chip Curbs - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzdYX3ZjQXUzLVNFb21XSHhaMm15bnQ1TzdjR1JKakNPc01QU2gzRFlsYWRtSDJoVzBNNVpKWFBTUTlzZTBrYnNtYldYQm40T0ZzM2pERzBXSzZzb2tuTGE1TVA2ZEN5WUpuWXd2Ty1ZMmNTWUlITjQyYmFvSU14Q2NMS0xIdUxfcGVlOUpzSkZpMlptczBEazJsM2tsTDZpX2xDZVBmcTFkb2RfNlV1RA?oc=5",
+      "published": "2026-11-20T02:48:00+00:00",
+      "summary": "AI Cloud CEO Hits ‘Rock Bottom’ in Race to Endure Chip Curbs Bloomberg.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "KI-Chips, Cloud und China: USA verschärfen KI-Chipregeln – Warum Rechenzentren weltweit unter Druck geraten - Xpert.Digital - Konrad Wolfenstein",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zR3l4aV9NNXN2ZUk0SXFkUEtRSXJOcF9uV3ZZakkwbXpuMEVlNVY0UnVwMmV1QkJuWThKUzZfbTh0eVZyRTdGRi1jZUFwZkhNU0VJdGZheDFLT3hZeUI3ZzV30gFqQVVfeXFMUGx0dDFQcGVEUmt0VjM1a051d1FuQzEtRkxHaTlpZmM1Z052RlREal9FRmtfRno0UXJPQklmc1pTcTR3NWFEbTI4clpTTkE2OG9xUXdRcElfVnhjZ2RMajZuRngzaS14VXl4Zw?oc=5",
+      "published": "2026-11-17T09:14:52+00:00",
+      "summary": "KI-Chips, Cloud und China: USA verschärfen KI-Chipregeln – Warum Rechenzentren weltweit unter Druck geraten Xpert.Digital - Konrad Wolfenstein",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Chip curbs, energy needs cloud data centre outlook - The Malaysian Reserve",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1pjMzkyc1lHUE13RnlsdjJrUFN0S1VNZXQzTElwaDVrbzRBQTNwazJOSkhHUzI0ODVsMUlGTkxlcGV2dW92RnFGTS1NYkJzcFlPYjI1VTd4aVhtaHBpX0FQLWE2SkZHM0VWZ3hmMl9jZzhNaTBiQXJ5UEhWd29vbjBOVF92dDJWVDFJeWpiYXN5MHhfUnJRTQ?oc=5",
+      "published": "2026-11-23T00:24:53+00:00",
+      "summary": "Chip curbs, energy needs cloud data centre outlook The Malaysian Reserve",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": [
+          "cloud"
+        ]
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Chinese AI firms secure Nvidia chip capacity abroad amid US curbs fears - ET Datacenters",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb1R5RHFRcXpNSXotbTJvOXZZOURjWHB0d1hOcEs3dzRlMGVSVnpuZlEzMGRJMEpVcVBHMHgxTG9UU1lLNDhIVk5HUUpkNXJNc1M0SmFfOUduQXBaOVRCZzZnclNKQ2xGVVlRTEZMU0hVeUotdFlteGRRZ1BwbkZHM0o4b3BWVUlPZkZSYnZjeGhsNVY0TFVGT1VKWm1xMkVmeks5SEtaMkpId21la1RSUnlZZDdSLXo4TnR5TnUyeDVDUkFvOHRGZ1NOS0xSMVY4eGVfOTdTXy1ocU9nS29KRnNiQ1hDNU5IWDg0MnBUemlHUdIB9wFBVV95cUxNX29YaXY4aUlKMENHWjZJMHBBdmU5czB4bERoODlYTU5RZUstMU9fS2RreXpEaGJoaW1nMEFqNkVQVTROeHJGMkdVS3ZjVWRqbEl0SVIwWTNqU3Y5VTAwYjZIU0RCSW1laWxzQ0pPZ1g0c0dibG9jSl9sb1FxbmxtSXc1R1RXTk1RRjc5YkhXejJkbXlHaEdsNDRkMl9RUXUwWURjcHVGaXNCZlVJeDJJLTk1Nlhid0wxNU0ydENrQklaSVVFZmV0ejdmb2hUZXpaazAtbGZlYkJPdWItbE1PZUx4QmNKUGRMdE14Qnp0cXpWSkZfb19j?oc=5",
+      "published": "2026-11-14T08:00:00+00:00",
+      "summary": "Chinese AI firms secure Nvidia chip capacity abroad amid US curbs fears ET Datacenters",
+      "signals": {
+        "hard_signal": [
+          "capacity"
+        ],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 1
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG9iTHJ2RUFZRnYtZHQyX01EU3pnY1BaT09BSkxPWUR4bDV4cFNhanZOSzFoMU9adTcwTEJMMkZqajRLZnZ5X1dEcXVaTXVrQnZfLXYxa05OQ1ZacjVoek4yRlo5M2RsSmhQdllVOVNGQTFHa3ZtRnFOWnBENXVZMU9LVF9hbGcwYmhBRmV6MEJxekUzbmZ1SXphUVNJb010QjAwRE13TmJOM2M?oc=5",
+      "published": "2026-11-23T14:01:39+00:00",
+      "summary": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Announces Upcoming Event for Financial Community - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkFFcVlWOVRQeHVyeGxnZC1HYW91NnREZHJDaHR5VndVdmFKQTVPWVZid2xMVEpLMU1meUkxTDdOZ2V0OWdjdlA0ZWJkNkd6aFFFWmpKa0ZHVVZXWENiNWxOTEhIZFdLdTRfX1JuQTFfd0FuVXA2SjJIZ21aUHhKVnNuMzBLZHFUeEJiaFNpMmdTUDBQbHNNdmJvQzBMdHc?oc=5",
+      "published": "2026-11-19T22:06:23+00:00",
+      "summary": "NVIDIA Announces Upcoming Event for Financial Community NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUY0VkRHZEFvcVJCNDNOeGNKR2Vac1JxZExKVmFaZjVaWnp4bUxjbENtR0NlN2RUNEFOV2hUUjBqTnliSVpRejVGZTdwQUdqU0sxZFlGdXZJZ1YxNjFKSDlhMkVsZGJhajFZT3FtZ2VkNm1CMXk1MDU3U0lXbUc4MzhfN0FFTXRUdzNHNnZ6UlJ5WEFtVnI5ZDZUVVJVM1BRcFdsZ0puR0xkaUFPQ0hZMG4wTHhMQ3Bia3hybWFrb2t5WnJp?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakRobTFNRXVKVFJOLVVJSmNmRmVpR0h4dTdNX3FrYkUxdU9IMXc1Ty0zbG90dU96elZwLUczZXhfWENVTGxvb2w1OVdUbmxKa2oxMERzLUo0S1lXMC1QOWlzd0JKU3htR09pTFRtLVZFd3ZfRmpFdE5jOGdqQ1RvWW8tRW9GX0JXTVBoUFNyelBzcGFsZnFmT1J3eWotUTFwQml2YQ?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "NVIDIA Official News Mentions",
+      "tags": [
+        "nvidia",
+        "chips",
+        "ai_infrastructure"
+      ],
+      "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTVZQdUtmWUZoalpDUWVYQWNpdVV0MFdfM3FDWk4xTjFYQjRqZHBXN2hiSUlGR28ySjJPUEx0UUFGR3E1aGc0R1V0Y3R2c1RBVXRQMExSNUV2RVFIb3U2U2dsQm42eW0wTFppQVIxUVFVOVdpT2pabF9XVFl3NWczU1VTcUIzc1VmNC0wOUdfbVYxZGZHTFVIdWRCWklDOGpNeDg5akNBcUlsVEY5cE1KMnBSZG5ITGdrRDNHSjhwTi1DNVNrX1lwazZqUlB5WEJzMFAtQjRXNk1Jc1VKclRTNzcyV2ZGbEd6QUV6RU9ZWk9xV2FDU3ZDd2VBUVdHblBfMGFwUmZ5OGRtUzhTbGpTRFE4dHFvNnltTEZUNnJObHo5Ui1wOTUycDBTcGdDQzJOMVhRVG4yY1d0VUhZOVdNNnlKRDlyeWd5ZnR4VHRBNEhrWWZBMS1J?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing NVIDIA Newsroom",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "SEC NVDA Filings",
+      "tags": [
+        "nvidia",
+        "filings"
+      ],
+      "title": "8-K - Current report",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/0001045810-26-000090-index.htm",
+      "published": "2026-11-23T08:57:54-05:00",
+      "summary": "<b>Filed:</b> 2026-11-23 <b>AccNo:</b> 0001045810-26-000090 <b>Size:</b> 147 KB<br>Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers<br>Item 9.01: Financial Statements and Exhibits",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "SEC NVDA Filings",
+      "tags": [
+        "nvidia",
+        "filings"
+      ],
+      "title": "8-K - Current report",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm",
+      "published": "2026-11-17T16:20:51-05:00",
+      "summary": "<b>Filed:</b> 2026-11-17 <b>AccNo:</b> 0001045810-26-000088 <b>Size:</b> 1 MB<br>Item 2.02: Results of Operations and Financial Condition<br>Item 9.01: Financial Statements and Exhibits",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "SEC NVDA Filings",
+      "tags": [
+        "nvidia",
+        "filings"
+      ],
+      "title": "13F-HR - Quarterly report filed by institutional managers, Holdings",
+      "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000084/0001045810-26-000084-index.htm",
+      "published": "2026-11-16T16:41:59-05:00",
+      "summary": "<b>Filed:</b> 2026-11-16 <b>AccNo:</b> 0001045810-26-000084 <b>Size:</b> 6 KB",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Jensen Back, AI Trade on - Industrial Deep Dive with Steve Tusa | The Real Eisman Playbook Ep 85 - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsUWpJU0FsUVUydjJrNXAyUkJOSDNNOWZLam94aW1OWVdwZURfZHQzcnJ1SXdWYjJSS3JPTUhpT1RJSGZ0bVhCSGROWk43SGVNOG1VS0gwSTBXeUZ1aV9V?oc=5",
+      "published": "2026-11-24T13:31:42+00:00",
+      "summary": "Jensen Back, AI Trade on - Industrial Deep Dive with Steve Tusa | The Real Eisman Playbook Ep 85 BigGo Finance",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "IREN Slides to 16-Month Low as $15 Billion AI Buildout Outruns Its Funding - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sRXdia3lmQ2tZMmFsWlc5TURza3h1ek5jWTJTWGFWVDVobGM4dXRKa0FTbGZmVU5URDhQcUFTRHhTSURucDMzbjREbHBaTHJDR2dwRVo2d2NGMWxpeEJIR0d5cVZWbDc2M0wwSk85U0swN2puUmc?oc=5",
+      "published": "2026-11-25T09:15:00+00:00",
+      "summary": "IREN Slides to 16-Month Low as $15 Billion AI Buildout Outruns Its Funding BigGo Finance",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "AI Data Center Capex",
+      "tags": [
+        "data_center",
+        "capex",
+        "power"
+      ],
+      "title": "Oracle Stock Plunges Over 40% This Year: Can It Return to All-Time High of $345 by 2027? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUl5OUlCV21VOFkyOVEwNkxheVVGSmE4bkN5UmJoTnBRekU5enNKOUJrMUpxbU9VSWpWZG4zZEFRaTNLUVVZRTBoV3czbDYyN1BLNXpORDJObmFXbkprRDM1V3paVnRYU0Z0SlpXaVdtMDBhcjVrb2J6S2psU2RCZzE4NlVzdEFQOGZ5S2oxRlhYVEI3TjdoS0E3UHNDeHdqczdCZVFyejQ?oc=5",
+      "published": "2026-11-26T12:08:41+00:00",
+      "summary": "Oracle Stock Plunges Over 40% This Year: Can It Return to All-Time High of $345 by 2027? TradingKey",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHprZ2lJdlNKYV84Q3QwSzFNVEhkclh3M2FGT3drektXUWpVZ2J0TmttOUMzMDhJa3JiZjZ3QjlaOFA5YnFmQVA1SFVnbmt2NnhlU241X25pTnpDdlF6eFEtcDhpY1ZDSUlFSlM1TW1YOEkzTXI3X2VGeXV5VVlRUnMtdUEyUTh6TWp4Q0VWWUg0dnBJYVVUbFJIYThwZjFWVGU3NnQ2TzFhUjNjRDFLRUN2U0xWdmlpYzFV?oc=5",
+      "published": "2026-11-26T13:28:00+00:00",
+      "summary": "New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips 24/7 Wall St.",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US chip curbs close pathways for Chinese AI - Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4aW9QUlBodFpwdGJlTG5VbGlwSFZtVkpNeFFWTF9neFFvcVBIS2JMQkRZZVhiYmFvQUV1X24yUk9LdEp0OFpYUzUxaGNlRGZ3eTFMZ0xoOU54TUZfS1QzWUpHWjJMOWNiRjgtNjFtbVZnVHNOVlBFbS1ZTGlPTnM?oc=5",
+      "published": "2026-11-25T22:41:03+00:00",
+      "summary": "US chip curbs close pathways for Chinese AI Asia Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Trump administration moves to block China from indirect access to American AI tech - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFFpN3hkMjdrVkkxalhuQ1pVNHAwUDZBVXN6SWdpWWVhV2FwT3ZVcHBYMEhjeFdpNnJOWWVVYzlZbkJjeW1ZUVNGX21PNURhTm5WRWZtOV9QNjlWWEJIVDNnR0hIdG9BU0dOaXNSS1BBRkc2Zm93RnBFRjBaa3FXSzNJcHp3RGNJMUJZM3lSaTA5QmRDQXZVZ09oUzNwT25OdWZKQVJCSnROUmJfenBkZm9LbjM5ZS1NWldJ0gHAAUFVX3lxTE10UEozWGFqZ0ZQU1NjMVdxdDF6MVdnWUliaXlTZFRqYXFwcEhnaTZZTUdTTFowUHBUUDlZaVN5VmFhRzlVVlNVMVRZTzVXQlJLQ1EyUHpTOEw4T1owZ2NCdWtncWNISWFTSVFMMlAxNG9kbVFocEtGXzZrTlExazNPT2J6OVZvVTlBOERsMndxeXNRMEhXa084UXZkTy1FSHFKWFJTMFBZRE0yTkQwX09WWV94MFFrWUVqWDNLc0dsdw?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "Trump administration moves to block China from indirect access to American AI tech PBS",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US chip curbs to widen gap between Chinese AI companies, says Maybank - TNGlobal",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmdIMGE0SlJ6X2R0RmtDcV96SUgwcnJVQklhWVlYYTJXTFZuWDlWWWVoRFFCOC1xbGpoU1A1WlcwN3VlVXJtVFY3ZlhwSjVTLXVzdGRQcEkweFpxM1VDWW5lYmUwT0FqTmNQUm04Z1pHTnBZaERUckFrVmFBVmliX3pTdzhaMXA5aktOQ2kwaWpDWVZLMXhieE8zVjBtNENxQUxIQWlNWQ?oc=5",
+      "published": "2026-11-25T08:48:30+00:00",
+      "summary": "US chip curbs to widen gap between Chinese AI companies, says Maybank TNGlobal",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "US to curb China's access to AI chips as Trump heads to Asia Reuters",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Trump’s AI Chip Crackdown Inflicts Collateral Damage Across Asia - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXp0ODZqcDNzanpGNkNMTmsxMk93OXpvU2IzU1NKcFkteXdZcXdSM3dKM0lZc3Z0T3lSMXR4UGJ3enY5LWZVdnR6NlBGZENCcDNJYngxMkxKdFVzajN4VlZvMTg3X09vUHlNSFZEZEJ0M0NvSngxdlVjNDQ2OEhyaXYtenB5SVJ3T2tjemlPZjI0WjBTVC1RR0tRY0t3cDZuUDlZal85OVQxRjhiUlg2LV9uZV9yZWN1cng4dkZxNWxkM2F3ZlhpbA?oc=5",
+      "published": "2026-11-22T22:00:13+00:00",
+      "summary": "Trump’s AI Chip Crackdown Inflicts Collateral Damage Across Asia Bloomberg.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US AI chip curbs threaten Southeast Asia data centre boom, shares slump - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzR5X05qSEx5T0JaQUhWZlJsLUtmbkxuSDFFTDVrenhlRWtZSF9sVmlvaHA5NnVBTm9rSFhOaVFXU0YtdTRtNEoxNl9pLVZLRFZXQVoxR0VVdkF2eUNNUVRJcHEzWTRobUFRSUU5OFdIM1dTbFZoZ1c2VzBmeHVESGdjclBhdEhSQnc5ZHdQZERRU2RlbGU5eEFUQ2RleU9ROFIwOV94MUhoMVZZVmp5TldpSW4wTUNlbUNCelVTVGNWaUhZ?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "US AI chip curbs threaten Southeast Asia data centre boom, shares slump Reuters",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JhZ1hpWlJqYlVISU9pcFFUS0N1Sk9MeEx5aU9jWmt5OVBxY2RkeWNCWDBITU5nYmdNdzFNQm4xTkZVbTM3T214cjhzSDBPWHFsaGt0Uk56c2F0TUFOOWl2ZlZHRGhjdXN5WDNPM3BiS3E1QW9lbHZ0NjZDUVNtaVZBbGUzNmxMR1o4c3REOGE3c3R4ZFk3d1VpR3diM0FmTnphSVdtR0M5MWpHRm9OeFJtaTQ5U1p6bnVRc3VnTW54cVVW?oc=5",
+      "published": "2026-11-20T08:23:43+00:00",
+      "summary": "US AI chip curbs hit China tech stocks, spur self-sufficiency push Reuters",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3llZ1ltdU5QNkdZX1JILW1Ud280T0YyZDdvZjZQdTV3eUFtUmlSM0JQcnRVNE9nSXpuLTlBQ0RjNlpvNUdTaWZWNDUyU1I4d0NFdFAxZHdBakFuaktZVDRQYmVWTHZBUnRfX2RPUFNFUTVnTDhQMUVRT3RxenRBMHJJYlNkaEVncEZMYXg4c1VodUZ3NVFkOFhmTVpRNGR5U2hYVWJCdEU4ZG1KVHE5aDgtNVo?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "Clampdown on China Chip Loophole Puts Billions in Loans at Risk Bloomberg",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvLUltN01zNnhQWHVEUWlEbWJoUXcyVjFlRUF0SU90cXZwU2FoT1J2NnNZTGthUjZOX1ozbHBaUnB3QVc2bl9LNHFEMDRiUXZJVEktNjRBUG81M0dpSzRKbFl5cjdNaXhGeHVIVDNDV2dITFVhZlBpME1n0gF_QVVfeXFMT3ZEaUU4Z1VBUm44S2Y3MmwyRlpsUjYyejJRTFlyMnU5aklRa3pGQW41MkRHb3RqTzh5a0l0dE9MbzdSeFpTRWlBajFvRllpa0VnX3RXUDJIR0tjUE1NOGsyazJRbEc1RGcyZmt5cGdwUUxjZXFYb252N2dUU1VWRQ?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC CNBC",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "New US AI chip curbs put Malaysia’s datacenter ambition at risk - iTnews Asia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDd3UEtvTTZxTm5sajlGS1EzTTlUZlNqSmx5cTF1THVmbTdrQUpOejM3QWIxRElyUEtkWWNGX19EeXFibHlFMEdCSUsyOVNQUlhNb3NObTBDbHg4SWU3U3pmQ1NzSndtUUpDajlNclN3MGVRNEdEam5DUUlNa1kxUnlKUmwxcktueGhmMWNtN2w0MmJHVzZrSFJuaW1fSnc?oc=5",
+      "published": "2026-11-25T12:11:08+00:00",
+      "summary": "New US AI chip curbs put Malaysia’s datacenter ambition at risk iTnews Asia",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "How Chinese Companies Circumvent Chips Sanctions in Southeast Asia - Tempo.co English",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnFkUF9zWC15RkgtSFFSOVNoM190bkp1ajI1cWppSFpHQ3JnSlRKLVFtXzZOQ3VIdVhtSEdOUXJ0M2JhVTBKcTRsR0xkX1ZOOXRid1FrSTFmYUZjOGlyTGxNajZfVzBwWC00S1phZVNBa0hQbkpVTUwyMjY1VDVNMzNnazFJT2Qxal9Mem1OUmE0RlowZ1NKYlRBblA2M2Z0?oc=5",
+      "published": "2026-11-26T16:17:00+00:00",
+      "summary": "How Chinese Companies Circumvent Chips Sanctions in Southeast Asia Tempo.co English",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVdYQldGbmVyTUlYQ0d2YlJqeGwxanR1WGNORTVzOUhvT2JRYnNrazhnay1Ya2Fjc0E0YVN4Y2pjVzd4dGVCZUk3M3d1b2RaMmRrdm1TWHVXMWtTbFduZnVZUEgwWWhrQldtV21tNzdKalFGb3VxX3g5TDRJVC1uWE1NRm9xQUZNaF80MGxJdXFBdjhrNmfSAZsBQVVfeXFMUDI0Z1hOcFZmWjd0WUZhOS1Wb0RnZXNuM0RQNE42VkE5MmxjYkJfM3Y3THVFRy11cU9NRm56bkxfdHloRDdQbFkxclVoQWMzem85Sy1JeC1nUkRlU2RKa3VYcm5YWGMxSFVxa2o5VXA4bVEzckQ5UUtXdHdIY0hpVi1yQzdrM2tDaFJYcDdoZ1QtT2RuTFJJT19zRU0?oc=5",
+      "published": "2026-11-19T17:21:35+00:00",
+      "summary": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout ABC News - Breaking News, Latest News and Videos",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5",
+      "published": "2026-11-15T08:00:00+00:00",
+      "summary": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race WSJ",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US tightens AI chip export curbs to close China’s overseas data centre loophole - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXR0eHlISk42c0xsTHZmRkdteHAyOWU4MzdwWFktZ3FmOWMwbW5PME1oQlc2Nl9aQ2p0RG5EMFBjc2ZvWGdmeW5sM09XR0ZlS1l5ZUNKQjhYLTVpTmY5NVlPWUZraGg2RXVBWlFTQjB6YTM0cW42aXgyQVBuN2dSZVhyTFZfQUhTSHMydUJVR2hwamFTaF8tbnZuTHR1RDBlQXRPYW10TlBrWmVXSUYxTGgxVVpJd3hq0gG4AUFVX3lxTE9ycnlXb29STElqa2RVdnZIREZLdXZ4NlBMWlBkMzVjNE1fd0h2S2EyT09Zeldkby15MTk1QlhfNkE0cTBjN1RPamhvaHdQalgzbEM5eF83eXhhWHZGSHRwTGoyWWI5N0VJLVJJWDQtRWtaY1YyNnozdUdLS0N5a3pTNVh3bmpqYW9taWNFeGd4X0FfVllSQ2Z6U1J2OVpxblltZUM4R3l3RmVOUmRXYTRjUUwzVi1EWVY?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "US tightens AI chip export curbs to close China’s overseas data centre loophole South China Morning Post",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "‘Sudden chill amid a boom’: Malaysia grapples with US curbs on chips - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWY3RmJUWEYzVVVXczRNMmV5RGI3QWZyVWloVEVYT2MzYXdVMW5SNlBmcVBObzBWcnpibFZPUWlSblBwUnlCNlJKSTh6NExOS05XUG9qQm85aTg3dk9DUmdqQ0NpWi1pTHp1Qm82U1VLOVBPUUpyTG9iR21uYkI4NTZJclhvd3E5RWRCSHBCRG1Kc3V2MVRmZHM4Vm0zUWZta2RfYk9UY1NvaTY5eUg0QUhoZlVpSG9YU3lTbzVqTGtVNDlm?oc=5",
+      "published": "2026-11-24T21:00:00+00:00",
+      "summary": "‘Sudden chill amid a boom’: Malaysia grapples with US curbs on chips The Straits Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to slow down their AI development - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fYm4yUGRqSWM1dXhYdUV5QU8xM25lLXVqRGlESE0tVTRPWUJZN0lVOXo4QzBNWmVVZGtwQ3NzWTZkZEJULUpCbUlfY0dfTHJKWGhobVFkUVMxeUJDVGZ1bDJVWE1wWDZkSU9JQWVJR2JMLWVlMDZqaHlR?oc=5",
+      "published": "2026-11-20T12:44:00+00:00",
+      "summary": "Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to slow down their AI development Fortune",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US AI chip curbs squeeze Tencent and Alibaba as China leans on homegrown silicon - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPOXhXRzBFQjAzR1gxNWxiLWRtWlU2NVhzeVVJT0RrcHhSMDNLSVpOOTR6S3EwbEQwVEItejIwZkJXWEVQNUlUaWx3bGVzTFMtVDhicnVwU2lSRUpFaDBSN2N2enpvNmd6cWJ3TQ?oc=5",
+      "published": "2026-11-20T15:49:49+00:00",
+      "summary": "US AI chip curbs squeeze Tencent and Alibaba as China leans on homegrown silicon Crypto Briefing",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGhfekJtSDUzVXhKZHNDNzgtTXc1RXBUVk9sR3JJX0ZtNDdmazBHU2ZvRXJEN25HMWpOTVdxWng1Y1VXa05OSGlwMmFGUllzMDgyRnkzWWxFdk5pLUhZd1BvUUNXS3NYYXg2TzdxSk9MSXowWWpGTG1CdUxka01oODhvVzBnNDN3Sk5uYWtybjVoelhGRVFWNk5MR2g1Ykx3cXVJazNUWE92ZElRbmVQYzEwaUxBc3lHRHdBVDJvVjA?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "summary": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China Bloomberg.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Billions in data centre deals grind to halt after AI chip curbs - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbl9kMTR1Z2hNaTRyODFQbG9fTUFRbHpMRjJEUFZFaF9XVXVleWlzRlhaRnRnUmQ0WF81dTZsQ0Jrem51a3ZEY1RuXzdHNmxsSWVhSFJtbVZEOEwwS0dqT3FBck1DdmFVX0lzSjVZVkJwdmI0cWI5em03Tk16M1hPdTdSN2RTdkZLSjhUMzZRa3Bic0ljX0M1YWZvU2t3Ym5UZkpZ?oc=5",
+      "published": "2026-11-26T01:45:00+00:00",
+      "summary": "Billions in data centre deals grind to halt after AI chip curbs The Straits Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Alibaba’s AI Ambitions Face Steep Challenge in US Chip Controls - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSWZpZTZZU3dMUFVnWXI2RW1xdUpndjNuTmNJd1YyazhpR0ZyckFzelFKSFZrUExGM08zWFQxT2RidjU2TmhBODI4a1V4QmdMZGU2bU92WnZSdld1UG5rY28tNGU2OHFNejJJSDY1NW50U3FjdFg0RE00Zl9vRnNIOEpfenY2MV9Pc1cwYktxN1gyQVVqLTd2a0c1RG52TjN4cGE4SUJMajRORU9UcDRZYkFlRk0?oc=5",
+      "published": "2026-11-19T02:31:00+00:00",
+      "summary": "Alibaba’s AI Ambitions Face Steep Challenge in US Chip Controls Bloomberg.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US acts to stop China renting AI chips in Asian data centres - Certified Strategic",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMk1GNl93SDcySkJBUmo1Wjlla3prRkxLdU5iOGNodnpNd2tMdnNRM1NuOFRrTDY0dWxPM0U3UXl2eFhiV2lWV01pZGVmU0hGZmJkV2h1bU9jTG53dHBtUmdyUDFqT3pzeDdUWWduUUpwX2JRc2gyMktQa05uWDlQOU02YldlMExMVzAtNHVlVjA4UmViNllQM01sOEQ3QVhWcnBHQQ?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "US acts to stop China renting AI chips in Asian data centres Certified Strategic",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "China hoards Nvidia’s AI chips as US curbs remote access - Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUS1GaGF5SXRUNXNTencyWEdLQzlyZk5hb0tXSUpFYXNaOFBRTm02SEFKY3YtYWRNREE1bkRLeFNJeVg2dGx0UEUwSHV2RDVCSUg4dG5PUzhTcmVsRXlQbUVQbFhra0VPellxTkhQTFp5d0tuUWdHSEQ1SVJsUlRMZXRtYjRpMkY4alpMaEtOdw?oc=5",
+      "published": "2026-11-17T03:10:53+00:00",
+      "summary": "China hoards Nvidia’s AI chips as US curbs remote access Asia Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Malaysia: 117 Data Centre Projects Must Meet US Chip Rules - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWNYVk5fU29IR3BCYUcyYVg2SE1ZbWNoQ3pNYm9BX3V6TzVrMDhtaDY5Y2JadC1qd0h4VWRZLWhxRGlORnhRakRXRlI3WmFCWW9YanBtQWdOX2I1LTFEaGRuWFpoT1h2dkhHVndJYXg3LXJ4LU1MQ0l6RWdHX3lOYU5YUk9XXzNiZUE?oc=5",
+      "published": "2026-11-18T17:30:39+00:00",
+      "summary": "Malaysia: 117 Data Centre Projects Must Meet US Chip Rules shattered.io",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "The Chinese Connection - Reason Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JM0Vpenh6NnlJZEI5MUM1MnE1WDJ0SUQzTFN6VDZwbU9mbGpjUkZwd19FOWpTdmlPQmY0bE53c3FoUzF2bXFHUmlWbFJ5d2lrMmFGOVE0SDAzVDRRd05WRGhTNA?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "summary": "The Chinese Connection Reason Magazine",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "New U.S. export rule targets AI chip diversion through Brazil and Southeast Asia - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmI0QTNycWk4YzVVdWRjV2wxVlhfYmRGMEpRUE5maERLbExqWTJYeDR6SUE0eVNzRGxIa01JbFRTcUo2V09nOXlabVlSNEp3Mjh0TFZjZHBIOVhQbnk3eGwwaW9vMHJjNGNuOUJ4NEd0cWdtaDRWeUtzZG5ZdDdjbEJ3?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "New U.S. export rule targets AI chip diversion through Brazil and Southeast Asia Latin Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US Moves To Block China’s Access To AI Data Centres - Silicon UK",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mM2lHNk80emlSSUVqVmQ5X040RE9HemFaY1hPUEFEeW1sMXJZM2lKVXN2aTRuZ3ZqTUl2TEttTkotcDBQNFgxNklvQmVhYmhNTkgtMERVTmZJOVZ5UDJvQW5yYXdEdDVrR1FZanlNTG5IRzZDVWhmSm5WS1Z0bjA?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "US Moves To Block China’s Access To AI Data Centres Silicon UK",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout - WPRI.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNai05RkpRS19kYmJzcTdERlJMbEV2UzZQSmlfTzNOTk12N0lac0g5eDZRTEQ2Y3BtTXAwZ3BQNGNsV3A0djViUmJYaGpTQUZUZjhXMEEtdVhhY2pfUW1vNGlFVWVlcXMwaWl6SnQyYjNuV0R6VlYxMzU4M3N0UnFiNXd3LVdiaU1kV3ZiYmk3S0RhX3VpQ01Pc29pemVoQWh2ZmQ1QUVKTTV3TzNEeVh4T1U0Y2xSUDY4akVzUkp30gG-AUFVX3lxTE1qLTlGSlFLX2RiYnNxN0RGUkxsRXZTNlBKaV9PM05OTXY3SVpzSDl4NlFMRDZjcG1NcDBncFA0Y2xXcDR2NWJSYlhoalNBRlRmOFcwQS11WGFjal9RbW80aUVVZWVxczBpaXpKdDJiM25XRHpWVjEzNTgzc3RScWI1d3ctV2JpTWRXdmJiaTdLRGFfdWlDTU9zb2l6ZWhBaHZmZDVBRUpNNXdPM0R5WHhPVTRjbFJQNjhqRXNSSnc?oc=5",
+      "published": "2026-11-19T10:40:55+00:00",
+      "summary": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout WPRI.com",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "New chip rules target Nvidia access in China - TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmV5ZHBkX0VyM1Zvb1RFUGc0RDdfV1JHa0VfNWVjOU9CV0hwdThJRkhDdXNWSnNmV0NJSlRKRVYzM0J2M01GVnhGWDV2LTJDdTFOXy1QUldPdUcwcTVVeGVDLTRNNDVzcnBrZ200Y1VEX3l6MUZhYjQxa1ZNZlctWF9zNVlVZnhCMEtScg?oc=5",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "New chip rules target Nvidia access in China TechTarget",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Alibaba Expects Growth Rebound as Its Chips Offset US Curbs - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTlXNU1PR0JxQm5kaW9KUGN6ZXRhbHhsYllTVlFDMzFlNjkyNXFaRXRzZ2NkdFBNM2ZOTlE4Ni1UVDNVeDFWYXhleDdHVnM3OGJZU1RJbWhxSXMxLWM4TGxRSEJFcEZkV1gyc1pXMlBQSW1KejN1U0FseDQ2eEJneTBRRmdpbk1SVnFRYkg4ZHgzUG9LdnRRYUUtUkhQQVVKWG1qWXZBNVlieG8?oc=5",
+      "published": "2026-11-20T02:27:00+00:00",
+      "summary": "Alibaba Expects Growth Rebound as Its Chips Offset US Curbs Bloomberg",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "US AI chip rules for 5 countries due Nov 19 could raise Thai data centre costs - Nation Thailand",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1heUxGclA0cnB5TFBwQlY5T2NqcHQwci1uNjF2ZzYyQ21wYmdYbU5oVlgzbV9UVENGeWRaVElJS3lJaDVTZk4xcHRHWVQta1VaZ18zOE5vOThCYVFkVEtjYTk4dTMyeTg?oc=5",
+      "published": "2026-11-19T04:29:00+00:00",
+      "summary": "US AI chip rules for 5 countries due Nov 19 could raise Thai data centre costs Nation Thailand",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "Singapore studying new US rule on AI chip exports that may hit data centres - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjFDOTVtZXFKSmdscG90anVFaVVwYVd2M3ZWcTg3V1dHMnJlNlZUeU9xc01jZ2N1TGc3aHBRQ0RqeEpfcFc5SlhyYVp1cjUxM1FvaTZ0WnlIcFFuQzVvQzJrOVl1Vklka2N3dEx4OEZVX0dsbVQ5aENiTzd0ZjdSaDRsVXFheU53RzdiY1RVWlFXdUhyWGlsbW41UXNLMEFuNUR2MUdscFlPWXZpWDN5ZHVOMmZ1SVNCR2Jib0lDLW9SYVE?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "Singapore studying new US rule on AI chip exports that may hit data centres The Straits Times",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    },
+    {
+      "feed": "China AI Infrastructure",
+      "tags": [
+        "china_ai",
+        "cloud",
+        "chips"
+      ],
+      "title": "CNA Explains: Why is the US targeting Southeast Asia in its bid to curb China's access to AI chips? - CNA",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnBTX1BvQWJGQjJPa0JmNlNDSW5XZk50LTlFeGtHTjAtdl9wNEg3UzJaWHcxMnVMQ3JZLTFybEwyQ1RzR1hmRm16TElIVkhyMk9JdVRxTWEza2N6Sklzd0Q4NldZbDFxMHJRTnBKbmV5RkpqSFRudHkxRV8xS3pacGtjYzR6TUlCVE9HdUFJSExBMkxN?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "CNA Explains: Why is the US targeting Southeast Asia in its bid to curb China's access to AI chips? CNA",
+      "signals": {
+        "hard_signal": [],
+        "risk_signal": [],
+        "ai_value_chain": []
+      },
+      "signal_score": 0
+    }
+  ],
+  "errors": [],
+  "lookback_days": 14
+}
